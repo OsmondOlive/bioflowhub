@@ -6,116 +6,161 @@ cover-img: false
 ---
 
 <style>
-.bio-hero { text-align: center; padding: 1.5rem 0 2rem; }
-.bio-hero p { font-size: 1.05rem; color: #555; max-width: 580px; margin: 0 auto 1.8rem; line-height: 1.7; }
-
-.bio-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1rem; margin: 0 0 2.5rem; }
-
-.bio-card {
-  display: block;
-  padding: 1.3rem 1.1rem;
-  border: 1px solid #d4ece0;
-  border-radius: 10px;
-  text-decoration: none;
-  background: #f8faf9;
-  transition: background 0.25s ease, border-color 0.25s ease, transform 0.2s ease, box-shadow 0.2s ease;
-  position: relative;
-  overflow: hidden;
+/* Desktop: logo esquerda + botões direita */
+.bio-hero-wrap {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+  margin: 0.5rem 0 2.5rem;
 }
-.bio-card:hover {
+.bio-hero-logo {
+  flex-shrink: 0;
+  width: 90px;
+  height: 90px;
+  object-fit: contain;
+  filter: drop-shadow(0 3px 10px rgba(46,125,94,0.2));
+  transition: transform 0.3s ease;
+}
+.bio-hero-logo:hover {
+  transform: scale(1.08) rotate(-3deg);
+}
+.bio-btn-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.55rem;
+  flex: 1;
+}
+.bio-btn {
+  display: flex;
+  align-items: center;
+  gap: 0.7rem;
+  padding: 0.75rem 1.1rem;
+  border: 1.5px solid #d4ece0;
+  border-radius: 10px;
+  background: #f8faf9;
+  text-decoration: none;
+  transition: background 0.22s ease, border-color 0.22s ease, transform 0.2s ease, box-shadow 0.2s ease;
+}
+.bio-btn:hover {
   background: #2e7d5e;
   border-color: #2e7d5e;
-  transform: translateY(-3px);
-  box-shadow: 0 8px 24px rgba(46,125,94,0.25);
+  transform: scale(1.02);
+  box-shadow: 0 5px 18px rgba(46,125,94,0.22);
   text-decoration: none;
 }
-
-.bio-card-logo {
-  width: 32px;
-  height: 32px;
-  object-fit: contain;
-  margin-bottom: 0.7rem;
-  display: block;
-  transition: filter 0.25s ease;
+.bio-btn-icon {
+  font-size: 1.2rem;
+  line-height: 1;
+  flex-shrink: 0;
+  transition: transform 0.2s ease;
 }
-.bio-card:hover .bio-card-logo {
-  filter: brightness(0) invert(1);
-}
-
-.bio-card-title {
-  font-size: 0.95rem;
+.bio-btn:hover .bio-btn-icon { transform: scale(1.15); }
+.bio-btn-title {
+  font-size: 0.92rem;
   font-weight: 600;
   color: #1a2e2a;
-  margin: 0 0 0.3rem;
-  transition: color 0.25s ease;
+  margin: 0 0 1px;
+  transition: color 0.22s ease;
 }
-.bio-card:hover .bio-card-title { color: #ffffff; }
-
-.bio-card-desc {
-  font-size: 0.82rem;
-  color: #666;
+.bio-btn:hover .bio-btn-title { color: #ffffff; }
+.bio-btn-desc {
+  font-size: 0.76rem;
+  color: #777;
   margin: 0;
-  line-height: 1.5;
-  transition: color 0.25s ease;
+  line-height: 1.4;
+  transition: color 0.22s ease;
 }
-.bio-card:hover .bio-card-desc { color: #c8edd9; }
+.bio-btn:hover .bio-btn-desc { color: #c8edd9; }
 
-.bio-divider { border: none; border-top: 1px solid #e0ede7; margin: 2rem 0; }
+/* Mobile: logo centralizada em cima, grid 2x2 embaixo */
+@media (max-width: 580px) {
+  .bio-hero-wrap {
+    flex-direction: column;
+    align-items: center;
+    gap: 1.2rem;
+  }
+  .bio-hero-logo {
+    width: 70px;
+    height: 70px;
+  }
+  .bio-btn-list {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 0.6rem;
+    width: 100%;
+  }
+  .bio-btn {
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0.85rem 0.9rem;
+  }
+  .bio-btn:hover { transform: none; }
+  .bio-btn-desc { display: none; }
+}
 
+/* Affiliate */
 .bio-affiliate-box {
   background: #f0f9f4;
   border: 1px solid #b7dbc8;
   border-radius: 10px;
-  padding: 1.2rem 1.5rem;
+  padding: 1.1rem 1.4rem;
   display: flex;
   align-items: center;
   justify-content: space-between;
   flex-wrap: wrap;
-  gap: 1rem;
+  gap: 0.8rem;
   margin-bottom: 2.5rem;
 }
-.bio-affiliate-box p { margin: 0; font-size: 0.9rem; color: #2e5c42; max-width: 480px; line-height: 1.6; }
+.bio-affiliate-box p { margin: 0; font-size: 0.88rem; color: #2e5c42; max-width: 460px; line-height: 1.6; }
 .bio-affiliate-box strong { color: #1a3d2b; }
 .bio-affiliate-btn {
   display: inline-block;
   background: #2e7d5e;
   color: #fff !important;
-  padding: 0.55rem 1.2rem;
+  padding: 0.5rem 1.1rem;
   border-radius: 6px;
-  font-size: 0.88rem;
+  font-size: 0.86rem;
   font-weight: 600;
   text-decoration: none !important;
   white-space: nowrap;
-  transition: background 0.2s ease;
+  transition: background 0.2s ease, transform 0.2s ease;
 }
-.bio-affiliate-btn:hover { background: #52b788; }
+.bio-affiliate-btn:hover { background: #52b788; transform: scale(1.04); }
 
-.bio-posts-title { font-size: 1.1rem; font-weight: 600; color: #1a2e2a; margin: 0 0 1.2rem; padding-bottom: 0.5rem; border-bottom: 2px solid #d4ece0; }
+.bio-divider { border: none; border-top: 1px solid #e0ede7; margin: 2rem 0; }
+.bio-posts-title { font-size: 1.05rem; font-weight: 600; color: #1a2e2a; margin: 0 0 1.2rem; padding-bottom: 0.5rem; border-bottom: 2px solid #d4ece0; }
 </style>
 
-<div class="bio-hero">
-  <p>Science-backed tips on nutrition, sleep, stress, fitness and more — written by a biomedical scientist who translates research into real, actionable guidance.</p>
-
-  <div class="bio-grid">
-    <a href="/tags#nutrition" class="bio-card">
-      <img src="/assets/img/android-chrome-192x192.png" alt="" class="bio-card-logo">
-      <p class="bio-card-title">Nutrition & Diet</p>
-      <p class="bio-card-desc">What the science actually says about food, beyond fads</p>
+<div class="bio-hero-wrap">
+  <img src="/assets/img/bioflowhub-logo.png" alt="BioFlowHub" class="bio-hero-logo">
+  <div class="bio-btn-list">
+    <a href="/tags#nutrition" class="bio-btn">
+      <span class="bio-btn-icon">🥦</span>
+      <span>
+        <p class="bio-btn-title">Nutrition & Diet</p>
+        <p class="bio-btn-desc">What the science actually says about food, beyond fads</p>
+      </span>
     </a>
-    <a href="/tags#sleep" class="bio-card">
-      <img src="/assets/img/android-chrome-192x192.png" alt="" class="bio-card-logo">
-      <p class="bio-card-title">Sleep & Recovery</p>
-      <p class="bio-card-desc">The most underrated health intervention you can start tonight</p>
+    <a href="/tags#sleep" class="bio-btn">
+      <span class="bio-btn-icon">😴</span>
+      <span>
+        <p class="bio-btn-title">Sleep & Recovery</p>
+        <p class="bio-btn-desc">The most underrated health intervention you can start tonight</p>
+      </span>
     </a>
-    <a href="/tags#fitness" class="bio-card">
-      <img src="/assets/img/android-chrome-192x192.png" alt="" class="bio-card-logo">
-      <p class="bio-card-title">Fitness & Movement</p>
-      <p class="bio-card-desc">Evidence-based exercise — no hype, no gimmicks</p>
+    <a href="/tags#fitness" class="bio-btn">
+      <span class="bio-btn-icon">🏋️</span>
+      <span>
+        <p class="bio-btn-title">Fitness & Movement</p>
+        <p class="bio-btn-desc">Evidence-based exercise — no hype, no gimmicks</p>
+      </span>
     </a>
-    <a href="/tags#biomedical" class="bio-card">
-      <img src="/assets/img/android-chrome-192x192.png" alt="" class="bio-card-logo">
-      <p class="bio-card-title">Biomedical Insights</p>
-      <p class="bio-card-desc">Lab tests, body science and how your biology actually works</p>
+    <a href="/tags#biomedical" class="bio-btn">
+      <span class="bio-btn-icon">🔬</span>
+      <span>
+        <p class="bio-btn-title">Biomedical Insights</p>
+        <p class="bio-btn-desc">Lab tests, body science and how your biology actually works</p>
+      </span>
     </a>
   </div>
 </div>
@@ -126,7 +171,6 @@ cover-img: false
 </div>
 
 <hr class="bio-divider">
-
 <p class="bio-posts-title">Latest Articles</p>
 
 {% for post in paginator.posts %}

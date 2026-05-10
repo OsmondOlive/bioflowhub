@@ -39,8 +39,9 @@ navbar-links:
 
 round-avatar: false
 
-# Se quiser adicionar logo depois:
-# title-img: "/assets/img/bioflowhub-logo.png"
+title-img: "/assets/img/bioflowhub-logo.png"
+
+favicon: "/assets/img/favicon-32x32.png"
 
 #####################################
 # --- Footer social media links --- #
