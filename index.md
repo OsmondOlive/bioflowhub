@@ -150,13 +150,103 @@ cover-img: false
 <hr class="bio-divider">
 <p class="bio-posts-title">Latest Articles</p>
 
+<style>
+.bio-post-card {
+  margin-bottom: 0.8rem;
+  padding: 1rem 1.2rem;
+  border-radius: 10px;
+  border: 1.5px solid #e8f0ec;
+  background: #f8faf9;
+  text-decoration: none;
+  display: block;
+  transition: background 0.25s ease, border-color 0.25s ease, transform 0.2s ease, box-shadow 0.2s ease;
+  position: relative;
+  overflow: hidden;
+}
+.bio-post-card::before {
+  content: '';
+  position: absolute;
+  left: 0; top: 0; bottom: 0;
+  width: 3px;
+  background: #52b788;
+  transform: scaleY(0);
+  transform-origin: bottom;
+  transition: transform 0.25s ease;
+  border-radius: 3px 0 0 3px;
+}
+.bio-post-card:hover {
+  background: #2e7d5e;
+  border-color: #2e7d5e;
+  transform: translateX(4px);
+  box-shadow: 0 4px 16px rgba(46,125,94,0.2);
+  text-decoration: none;
+}
+.bio-post-card:hover::before { transform: scaleY(1); }
+.bio-post-card:active { transform: translateX(2px) scale(0.99); }
+
+.bio-post-title {
+  font-size: 1.02rem;
+  font-weight: 600;
+  color: #1a2e2a;
+  margin: 0 0 3px;
+  transition: color 0.25s ease;
+}
+.bio-post-card:hover .bio-post-title { color: #ffffff; }
+
+.bio-post-date {
+  font-size: 0.8rem;
+  color: #aaa;
+  margin: 0 0 5px;
+  transition: color 0.25s ease;
+}
+.bio-post-card:hover .bio-post-date { color: #c8edd9; }
+
+.bio-post-excerpt {
+  font-size: 0.88rem;
+  color: #666;
+  margin: 0;
+  line-height: 1.55;
+  transition: color 0.25s ease;
+}
+.bio-post-card:hover .bio-post-excerpt { color: #d8f3e6; }
+
+/* Ripple no clique */
+.bio-post-ripple {
+  position: absolute;
+  border-radius: 50%;
+  background: rgba(255,255,255,0.2);
+  transform: scale(0);
+  animation: postRipple 0.6s ease-out forwards;
+  pointer-events: none;
+}
+@keyframes postRipple {
+  to { transform: scale(4); opacity: 0; }
+}
+</style>
+
 {% for post in site.posts %}
-<div style="margin-bottom:1.5rem; padding-bottom:1.5rem; border-bottom: 1px solid #e8f0ec;">
-  <a href="{{ post.url }}" style="font-size:1.05rem; font-weight:600; color:#1a2e2a; text-decoration:none;">{{ post.title }}</a>
-  <p style="font-size:0.85rem; color:#888; margin:0.2rem 0 0.4rem;">{{ post.date | date: "%B %-d, %Y" }}</p>
-  <p style="font-size:0.92rem; color:#555; margin:0; line-height:1.6;">{{ post.excerpt | strip_html | truncatewords: 30 }}</p>
-</div>
+<a href="{{ post.url }}" class="bio-post-card">
+  <p class="bio-post-title">{{ post.title }}</p>
+  <p class="bio-post-date">{{ post.date | date: "%B %-d, %Y" }}</p>
+  <p class="bio-post-excerpt">{{ post.excerpt | strip_html | truncatewords: 28 }}</p>
+</a>
 {% endfor %}
+
+<script>
+document.querySelectorAll('.bio-post-card').forEach(function(card) {
+  card.addEventListener('click', function(e) {
+    var rect = card.getBoundingClientRect();
+    var size = Math.max(rect.width, rect.height);
+    var x = e.clientX - rect.left - size/2;
+    var y = e.clientY - rect.top - size/2;
+    var ripple = document.createElement('span');
+    ripple.className = 'bio-post-ripple';
+    ripple.style.cssText = 'width:'+size+'px;height:'+size+'px;left:'+x+'px;top:'+y+'px;';
+    card.appendChild(ripple);
+    ripple.addEventListener('animationend', function(){ ripple.remove(); });
+  });
+});
+</script>
 
 <script>
 (function() {
