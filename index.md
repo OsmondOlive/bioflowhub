@@ -150,20 +150,13 @@ cover-img: false
 <hr class="bio-divider">
 <p class="bio-posts-title">Latest Articles</p>
 
-{% for post in paginator.posts %}
+{% for post in site.posts %}
 <div style="margin-bottom:1.5rem; padding-bottom:1.5rem; border-bottom: 1px solid #e8f0ec;">
   <a href="{{ post.url }}" style="font-size:1.05rem; font-weight:600; color:#1a2e2a; text-decoration:none;">{{ post.title }}</a>
   <p style="font-size:0.85rem; color:#888; margin:0.2rem 0 0.4rem;">{{ post.date | date: "%B %-d, %Y" }}</p>
   <p style="font-size:0.92rem; color:#555; margin:0; line-height:1.6;">{{ post.excerpt | strip_html | truncatewords: 30 }}</p>
 </div>
 {% endfor %}
-
-{% if paginator.total_pages > 1 %}
-<div style="display:flex; justify-content:space-between; margin-top:2rem;">
-  {% if paginator.previous_page %}<a href="{{ paginator.previous_page_path }}" style="color:#2e7d5e;">← Newer</a>{% endif %}
-  {% if paginator.next_page %}<a href="{{ paginator.next_page_path }}" style="color:#2e7d5e;">Older →</a>{% endif %}
-</div>
-{% endif %}
 
 <script>
 (function() {

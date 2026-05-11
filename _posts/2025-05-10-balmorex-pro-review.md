@@ -70,9 +70,59 @@ For everyday joint stiffness, post-workout soreness, and back muscle tension, a 
 
 If you have been looking for a non-oral option to add to your joint and muscle care routine, it is worth exploring.
 
-<div style="text-align:center; margin: 2rem 0;">
-  <a href="https://ef9897nq56z1rh08qksj26zz4n.hop.clickbank.net/?tid=landing1" target="_blank" rel="noopener" style="display:inline-block; background:#2e7d5e; color:#fff; padding:0.75rem 2rem; border-radius:8px; font-size:1rem; font-weight:600; text-decoration:none; box-shadow:0 4px 14px rgba(46,125,94,0.3); transition:background 0.2s ease;">
-    Learn More About Balmorex Pro
+<style>
+.balmorex-btn-wrap { text-align: center; margin: 2.5rem 0; }
+.balmorex-btn {
+  display: inline-block;
+  position: relative;
+  background: linear-gradient(135deg, #2e7d5e, #52b788);
+  color: #fff !important;
+  padding: 0.85rem 2.2rem;
+  border-radius: 8px;
+  font-size: 1.05rem;
+  font-weight: 700;
+  text-decoration: none !important;
+  letter-spacing: 0.02em;
+  box-shadow: 0 4px 18px rgba(46,125,94,0.35);
+  transition: transform 0.2s ease, box-shadow 0.2s ease, background 0.2s ease;
+  overflow: hidden;
+}
+.balmorex-btn::before {
+  content: '';
+  position: absolute;
+  top: 50%; left: 50%;
+  width: 0; height: 0;
+  background: rgba(255,255,255,0.18);
+  border-radius: 50%;
+  transform: translate(-50%, -50%);
+  transition: width 0.5s ease, height 0.5s ease, opacity 0.5s ease;
+  opacity: 0;
+}
+.balmorex-btn:hover {
+  transform: translateY(-3px) scale(1.04);
+  box-shadow: 0 8px 28px rgba(46,125,94,0.45);
+  background: linear-gradient(135deg, #245f48, #3fa06e);
+  text-decoration: none !important;
+}
+.balmorex-btn:hover::before {
+  width: 300px; height: 300px; opacity: 1;
+}
+.balmorex-btn:active {
+  transform: scale(0.97);
+  box-shadow: 0 2px 10px rgba(46,125,94,0.3);
+}
+@keyframes balmorexPulse {
+  0%   { box-shadow: 0 4px 18px rgba(46,125,94,0.35), 0 0 0 0 rgba(82,183,136,0.5); }
+  70%  { box-shadow: 0 4px 18px rgba(46,125,94,0.35), 0 0 0 12px rgba(82,183,136,0); }
+  100% { box-shadow: 0 4px 18px rgba(46,125,94,0.35), 0 0 0 0 rgba(82,183,136,0); }
+}
+.balmorex-btn { animation: balmorexPulse 2.2s ease-out infinite; }
+.balmorex-btn:hover { animation: none; }
+</style>
+
+<div class="balmorex-btn-wrap">
+  <a href="https://ef9897nq56z1rh08qksj26zz4n.hop.clickbank.net/?tid=landing1" target="_blank" rel="noopener" class="balmorex-btn">
+    Get Balmorex Pro →
   </a>
 </div>
 
