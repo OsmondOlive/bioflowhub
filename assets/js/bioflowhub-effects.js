@@ -22,12 +22,12 @@ document.addEventListener('DOMContentLoaded', function () {
   // 2. Cursor dot
   var cursor = document.createElement('div');
   cursor.id = 'bio-cursor';
-  cursor.style.cssText = 'position:fixed;width:8px;height:8px;background:#52b788;border-radius:50%;pointer-events:none;z-index:99999;transition:transform 0.15s ease,opacity 0.3s ease;opacity:0;';
+  cursor.style.cssText = 'position:fixed;width:22px;height:22px;background:radial-gradient(circle,rgba(82,183,136,0.28) 0%,rgba(82,183,136,0) 70%);border-radius:50%;pointer-events:none;z-index:99999;transition:transform 0.12s ease,opacity 0.4s ease;opacity:0;';
   document.body.appendChild(cursor);
-  document.addEventListener('mousemove', function(e){ cursor.style.left=e.clientX-4+'px'; cursor.style.top=e.clientY-4+'px'; cursor.style.opacity='1'; });
+  document.addEventListener('mousemove', function(e){ cursor.style.left=e.clientX-11+'px'; cursor.style.top=e.clientY-11+'px'; cursor.style.opacity='1'; });
   document.addEventListener('mouseleave', function(){ cursor.style.opacity='0'; });
   document.querySelectorAll('a,button,.btn').forEach(function(el){
-    el.addEventListener('mouseenter',function(){ cursor.style.transform='scale(3)'; cursor.style.opacity='0.5'; });
+    el.addEventListener('mouseenter',function(){ cursor.style.transform='scale(2)'; cursor.style.opacity='0.7'; });
     el.addEventListener('mouseleave',function(){ cursor.style.transform='scale(1)'; cursor.style.opacity='1'; });
   });
 
