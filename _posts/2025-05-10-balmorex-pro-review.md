@@ -40,15 +40,15 @@ comments: true
 }
 </style>
 
-Joint pain, back pain, and sore muscles are among the most common complaints in adult health. Whether from years of physical activity, a sedentary desk job, or simply the body aging, most people will deal with some form of musculoskeletal discomfort at some point in their lives.
-
-I have been looking at **Balmorex Pro**, a topical support cream marketed for joint, back, and muscle health. Here is my honest breakdown as a biomedical scientist.
-
 <div class="balmorex-btn-wrap">
   <a href="https://ef9897nq56z1rh08qksj26zz4n.hop.clickbank.net/?tid=landing1" target="_blank" rel="noopener" class="balmorex-btn balmorex-btn-sm">
     Get Balmorex Pro →
   </a>
 </div>
+
+Joint pain, back pain, and sore muscles are among the most common complaints in adult health. Whether from years of physical activity, a sedentary desk job, or simply the body aging, most people will deal with some form of musculoskeletal discomfort at some point in their lives.
+
+I have been looking at **Balmorex Pro**, a topical support cream marketed for joint, back, and muscle health. Here is my honest breakdown as a biomedical scientist.
 
 ---
 
