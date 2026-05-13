@@ -17,7 +17,7 @@ author: Leonardo Olivieri Carvalho
 
 navbar-links:
   Health Tips:
-    - Nutrition & Health: "nutrition"
+    - Nutrition & Diet: "nutrition"
     - Sleep & Recovery: "sleep"
     - Stress Management: "stress"
     - Immune System: "immunity"
@@ -32,6 +32,7 @@ navbar-links:
     - Evidence-Based Health: "evidence-based"
   Recommended: "recommended"
   About: "aboutme"
+  Privacy Policy: "privacypolicy"
 
 ################
 # --- Logo --- #
@@ -147,6 +148,7 @@ utterances:
 # --- Misc --- #
 ################
 
+show-date: false
 date_format: "%B %-d, %Y"
 timezone: "America/Sao_Paulo"
 markdown: kramdown
