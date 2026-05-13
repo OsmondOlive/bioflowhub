@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "The 5 Most Impactful Health Habits Backed by Science"
-subtitle: "Small changes, big results: what the research actually supports"
+title: "The 5 Most Impactful Health Habits Backed by Science Community"
+subtitle: "Reach big results with small changes: what the research actually supports"
 tags: [health, habits, sleep, nutrition, fitness, stress, prevention]
 comments: true
 ---
@@ -16,15 +16,18 @@ Here are the five with the strongest evidence and the biggest impact on long-ter
 
 Sleep is not optional, it's much more important than you imagine. During sleep, your body consolidates memory, regulates hormones, repairs tissue and clears metabolic waste from the brain through the glymphatic system. This cleaning process, driven by cerebrospinal fluid flowing through channels that open during sleep, is one of the most impactful neuroscience discoveries of the past decade.
 
-Chronic sleep deprivation is associated with increased risk of cardiovascular disease, depression, impaired immune function and type 2 diabetes. Even regularly sleeping 6 hours instead of 8 brings consequences on cognitive performance and metabolic health.
+Chronic sleep deprivation is associated with increased risk of cardiovascular disease, depression, impaired immune function and type 2 diabetes. Even regularly sleeping 6 hours instead of 8 brings negative consequences on cognitive performance and metabolic health.
 
-A large meta-analysis covering over 1.3 million participants found that both short sleep duration and long sleep duration were independently associated with increased all-cause mortality, with the strongest risk observed in those sleeping fewer than 6 hours per night.
+A large meta-analysis covering over 1.3 million participants found that both short sleep duration and long sleep duration were independently associated with increased all-cause mortality, with the strongest risk observed in those sleeping fewer than 6 hours per night. 
 
-**What to do:** Prioritize a consistent sleep schedule. Same bedtime, same wake time, even on weekends. Keep your room dark and cool, around 18 to 19 degrees Celsius.
+Therefore, if you are having trouble sleeping, try calming your mind through meditation and prayer. There are several scientific studies proving that prayer and meditation improve sleep quality. Research indicates that these practices reduce levels of cortisol (the stress hormone) and anxiety, factors frequently responsible for sleep disorders and insomnia. If that doesn't solve the problem, you can also seek help from qualified healthcare professionals, who can recommend medications that help you sleep well.
+
+**What to do:** Prioritize a consistent sleep schedule. Same bedtime, same wake time, even on weekends. Keep your room dark and cool, around 18 to 19 degrees Celsius. Prayer, meditation, and medical care.
 
 **References:**
 - Cappuccio FP, et al. (2010). Sleep duration and all-cause mortality: a systematic review and meta-analysis of prospective studies. *Sleep*, 33(5), 585-592. [PubMed](https://pubmed.ncbi.nlm.nih.gov/20469800/){:target="_blank" rel="noopener"}
 - Xie L, et al. (2013). Sleep drives metabolite clearance from the adult brain. *Science*, 342(6156), 373-377. [PubMed](https://pubmed.ncbi.nlm.nih.gov/24136970/){:target="_blank" rel="noopener"}
+- Heather L Rusch, et al. (2018). The effect of mindfulness meditation on sleep quality: a systematic review and meta-analysis of randomized controlled trials. *Annals of the New York Academy of Sciences*, 1445(1), 5–16. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30575050/){:target="_blank" rel="noopener"}
 
 ---
 
