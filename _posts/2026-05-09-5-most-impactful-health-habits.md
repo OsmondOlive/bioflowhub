@@ -27,7 +27,7 @@ Therefore, if you are having trouble sleeping, try calming your mind through med
 **References:**
 - Cappuccio FP, et al. (2010). Sleep duration and all-cause mortality: a systematic review and meta-analysis of prospective studies. *Sleep*, 33(5), 585-592. [PubMed](https://pubmed.ncbi.nlm.nih.gov/20469800/){:target="_blank" rel="noopener"}
 - Xie L, et al. (2013). Sleep drives metabolite clearance from the adult brain. *Science*, 342(6156), 373-377. [PubMed](https://pubmed.ncbi.nlm.nih.gov/24136970/){:target="_blank" rel="noopener"}
-- Heather L Rusch, et al. (2018). The effect of mindfulness meditation on sleep quality: a systematic review and meta-analysis of randomized controlled trials. *Annals of the New York Academy of Sciences*, 1445(1), 5–16. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30575050/){:target="_blank" rel="noopener"}
+- Rusch HL, et al. (2018). The effect of mindfulness meditation on sleep quality: a systematic review and meta-analysis of randomized controlled trials. *Annals of the New York Academy of Sciences*, 1445(1), 5–16. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30575050/){:target="_blank" rel="noopener"}
 
 ---
 
