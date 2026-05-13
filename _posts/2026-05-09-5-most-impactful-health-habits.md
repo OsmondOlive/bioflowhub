@@ -6,13 +6,13 @@ tags: [health, habits, sleep, nutrition, fitness, stress, prevention]
 comments: true
 ---
 
-When it comes to health, the internet is full of noise. Detox teas, miracle supplements, 30-day challenges. But if you strip all that away and look at what the research consistently shows, a handful of habits stand out above the rest.
+When it comes to health, the internet is full of noise. Detox teas, miracle supplements, 30-day challenges. This sometimes happens due to ignorance, but also because money has often been prioritized over human life and health. But if you strip all that away and look at what the research consistently shows, a handful of habits stand out above the rest.
 
 Here are the five with the strongest evidence and the biggest impact on long-term health.
 
 ---
 
-## 1. Sleep 7 to 9 Hours Every Night
+## 1. Sleep 7 to 9 Hours Every Nigh
 
 Sleep is not optional, it's much more important than you imagine. During sleep, your body consolidates memory, regulates hormones, repairs tissue and clears metabolic waste from the brain through the glymphatic system. This cleaning process, driven by cerebrospinal fluid flowing through channels that open during sleep, is one of the most impactful neuroscience discoveries of the past decade.
 
