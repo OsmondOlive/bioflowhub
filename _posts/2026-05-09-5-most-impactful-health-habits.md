@@ -33,7 +33,7 @@ If you are having trouble sleeping, try calming your mind through meditation. Sc
 
 ## 2. Eat Mostly Whole, Unprocessed Foods
 
-No need to follow a specific diet label. The research across nearly all dietary patterns agrees on one thing: ultra-processed foods are harmful, and whole foods are protective.
+No need to follow a specific diet label, because the most important thing is the balance and harmony of food choices so that you can supply the main nutrients that your body needs. The scientific community argues that all dietary patterns harmonize on one thing: ultra-processed foods are harmful, and whole foods are protective.
 
 Fruits, vegetables, legumes, whole grains, nuts, and seeds provide fiber, micronutrients, and phytocompounds that processed foods simply do not offer. Higher consumption of ultra-processed foods has been consistently linked to increased mortality and chronic disease risk across multiple large prospective studies.
 
