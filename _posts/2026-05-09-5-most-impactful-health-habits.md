@@ -14,9 +14,9 @@ Here are the five with the strongest evidence and the biggest impact on long-ter
 
 ## 1. Sleep 7 to 9 Hours Every Night
 
-Sleep is not optional. During sleep, your body consolidates memory, repairs tissue, regulates hormones, and clears metabolic waste from the brain through the glymphatic system. This cleaning process, driven by cerebrospinal fluid flowing through channels that open during sleep, is one of the most important discoveries in neuroscience of the past decade.
+Sleep is not optional, it's much more important than you imagine. During sleep, your body consolidates memory, regulates hormones, repairs tissue and clears metabolic waste from the brain through the glymphatic system. This cleaning process, driven by cerebrospinal fluid flowing through channels that open during sleep, is one of the most impactful neuroscience discoveries of the past decade.
 
-Chronic sleep deprivation is associated with increased risk of cardiovascular disease, type 2 diabetes, depression, and impaired immune function. Even regularly sleeping 6 hours instead of 8 has measurable consequences on cognitive performance and metabolic health.
+Chronic sleep deprivation is associated with increased risk of cardiovascular disease, depression, impaired immune function and type 2 diabetes. Even regularly sleeping 6 hours instead of 8 brings consequences on cognitive performance and metabolic health.
 
 A large meta-analysis covering over 1.3 million participants found that both short sleep duration and long sleep duration were independently associated with increased all-cause mortality, with the strongest risk observed in those sleeping fewer than 6 hours per night.
 
