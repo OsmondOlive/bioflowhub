@@ -33,16 +33,24 @@ If you are having trouble sleeping, try calming your mind through meditation. Sc
 
 ## 2. Eat Mostly Whole, Unprocessed Foods
 
-No need to follow a specific diet label, because the most important thing is the balance and harmony of food choices so that you can supply the main nutrients that your body needs. The scientific community argues that all dietary patterns harmonize on one thing: ultra-processed foods are harmful, and whole foods are protective.
+No need to follow a specific diet label, because the most important thing here is the balance and harmony of food choices so that you can supply the main nutrients that your body needs. The scientific community argues that all dietary patterns harmonize on one thing: ultra-processed foods are harmful, and whole foods are protective.
 
 Fruits, vegetables, legumes, whole grains, nuts, and seeds provide fiber, micronutrients, and phytocompounds that processed foods simply do not offer. Higher consumption of ultra-processed foods has been consistently linked to increased mortality and chronic disease risk across multiple large prospective studies.
 
 A prospective cohort study published in *The BMJ* found that higher ultra-processed food consumption was significantly associated with increased all-cause mortality, after adjusting for multiple confounding variables.
 
+According to major public health organizations including the WHO, FAO, UNICEF and the American Heart Association, the recommendation is to reduce or avoid ultra-processed foods entirely.
+
+Unlike processed foods (such as cheeses and simple breads), which can be consumed in small quantities, ultra-processed foods are industrial formulations with ingredients for exclusive industrial use (additives, flavorings) that make the product hyperpalatable and nutritionally unbalanced.
+
+These products are formulated in ways that promote dependence and tend to replace meals based on whole or minimally processed foods, which should be the foundation of a healthy diet.
+
 **What to do:** A simple rule worth keeping in mind: if a product has more than five ingredients and you cannot recognize most of them, eat it less often.
 
 **References:**
 - Rico-Campà A, et al. (2019). Association between consumption of ultra-processed foods and all cause mortality. *BMJ*, 365, l1949. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31142450/){:target="_blank" rel="noopener"}
+- Lane MM, et al. (2024). Ultra-processed food exposure and adverse health outcomes: umbrella review of epidemiological meta-analyses. *BMJ*, 384, e077310. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38418082/){:target="_blank" rel="noopener"}
+- Monteiro CA, et al. (2019). Ultra-processed foods: what they are and how to identify them. *Public Health Nutrition*, 22(5), 936-941. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30744710/){:target="_blank" rel="noopener"}
 
 ---
 
