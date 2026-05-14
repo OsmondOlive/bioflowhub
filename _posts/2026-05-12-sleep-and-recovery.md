@@ -94,4 +94,4 @@ Sleep is the foundation of recovery, but it works alongside other variables. Phy
 
 ---
 
-*Questions or topics you would like covered? Leave a comment below or [get in touch](mailto:stonelion777@gmail.com).*
+*Questions or topics you would like covered? Leave a comment below or [get in touch](mailto:contact@bioflowhub.com).*

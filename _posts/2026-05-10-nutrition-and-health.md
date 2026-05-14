@@ -109,4 +109,4 @@ What I present here reflects the strongest signals in the current evidence base,
 
 ---
 
-*Have a question about nutrition or a topic you would like covered? Leave a comment below or [get in touch](mailto:stonelion777@gmail.com).*
+*Have a question about nutrition or a topic you would like covered? Leave a comment below or [get in touch](mailto:contact@bioflowhub.com).*

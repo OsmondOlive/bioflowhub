@@ -87,4 +87,4 @@ Managing stress is not about eliminating all difficulty from your life. It is ab
 
 ---
 
-*Questions or topics you would like covered? Leave a comment below or [get in touch](mailto:stonelion777@gmail.com).*
+*Questions or topics you would like covered? Leave a comment below or [get in touch](mailto:contact@bioflowhub.com).*

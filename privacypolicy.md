@@ -86,4 +86,4 @@ We may update this Privacy Policy from time to time. Changes will be posted on t
 
 If you have any questions about this Privacy Policy, please contact us at:
 
-📧 [stonelion777@gmail.com](mailto:stonelion777@gmail.com)
+📧 [contact@bioflowhub.com](mailto:contact@bioflowhub.com)

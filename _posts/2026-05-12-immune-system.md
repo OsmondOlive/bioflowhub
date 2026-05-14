@@ -111,4 +111,4 @@ These behaviors create the conditions under which your immune system can do what
 
 ---
 
-*Questions or topics you would like covered? Leave a comment below or [get in touch](mailto:stonelion777@gmail.com).*
+*Questions or topics you would like covered? Leave a comment below or [get in touch](mailto:contact@bioflowhub.com).*

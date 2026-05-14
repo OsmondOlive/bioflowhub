@@ -72,4 +72,4 @@ Versatile, cheap, portable — and research shows resistance training is one of 
 
 ---
 
-*More recommendations coming soon. Have a product you'd like me to evaluate? [Send me an email](mailto:stonelion777@gmail.com).*
+*More recommendations coming soon. Have a product you'd like me to evaluate? [Send me an email](mailto:contact@bioflowhub.com).*
