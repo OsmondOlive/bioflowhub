@@ -12,7 +12,7 @@ Here are the five with the strongest evidence and the biggest impact on long-ter
 
 ---
 
-## 1. Sleep 7 to 9 Hours Every Nigh
+## 1. Sleep 7 to 9 Hours Every Night
 
 Sleep is not optional. It's much more important than you imagine. During sleep, your body consolidates memory, regulates hormones, repairs tissue and clears metabolic waste from the brain through the glymphatic system. This cleaning process, driven by cerebrospinal fluid flowing through channels that open during sleep, is one of the most impactful neuroscience discoveries of the past decade.
 
@@ -119,6 +119,7 @@ Depression and anxiety are among the most prevalent conditions globally, yet the
 
 **What to do:** Know your numbers. Get your blood pressure, fasting glucose, lipid panel, and vitamin D levels checked regularly. Follow age-appropriate cancer screening guidelines. Do not wait until something feels wrong — by then, prevention has already become treatment.
 
+**References:**
 - Knowler WC, et al. (2002). Reduction in the incidence of type 2 diabetes with lifestyle intervention or metformin. *New England Journal of Medicine*, 346(6), 393-403. [PubMed](https://pubmed.ncbi.nlm.nih.gov/11832527/){:target="_blank" rel="noopener"}
 - Siegel RL, et al. (2023). Cancer statistics, 2023. *CA: A Cancer Journal for Clinicians*, 73(1), 17-48. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36633525/){:target="_blank" rel="noopener"}
 - Livingston G, et al. (2020). Dementia prevention, intervention, and care: 2020 report of the Lancet Commission. *The Lancet*, 396(10248), 413-446. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32738937/){:target="_blank" rel="noopener"}
