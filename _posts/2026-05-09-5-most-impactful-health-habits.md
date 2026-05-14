@@ -133,4 +133,4 @@ Pick one of these five. Focus on it for 30 days. Then add another. That is the w
 
 ---
 
-*Have a question or a topic you would like covered? Leave a comment below or [get in touch](mailto:stonelion777@gmail.com).*
+*Have a question or a topic you would like covered? Leave a comment below or [get in touch](mailto:contact@bioflowhub.com).*
