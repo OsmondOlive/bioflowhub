@@ -54,19 +54,25 @@ These products are formulated in ways that promote dependence and tend to replac
 
 ---
 
-## 3. Move Your Body Regularly, Especially With Resistance Training
+## 3. Move Your Body Regularly
 
-Aerobic exercise is valuable, but resistance training may be the single most powerful longevity intervention available to us. It preserves muscle mass as we age, improves insulin sensitivity, supports bone density, and benefits mental health through mechanisms that go well beyond endorphin release.
+Physical exercise is one of the most well-documented interventions for health and longevity across the entire scientific literature. Regular movement improves cardiovascular function, metabolic health, mental health, immune regulation, bone density, and cognitive performance — and its benefits are independent of age, meaning it is never too late to start.
 
-Muscle mass is increasingly recognized as a key marker of metabolic health and longevity. Losing it, a process called sarcopenia, accelerates with age and is strongly linked to frailty, metabolic dysfunction, and early mortality.
+Aerobic exercise has decades of evidence behind it. Activities like walking, running, cycling, swimming, and dancing improve cardiorespiratory fitness, which is consistently one of the strongest predictors of longevity in large cohort studies. Beyond the direct cardiovascular benefits, outdoor aerobic exercise adds the advantages of sun exposure, which supports vitamin D synthesis and circadian rhythm regulation, and of contact with natural environments, which independently reduces stress markers.
 
-A study published in *Preventive Medicine* found that adults who engaged in muscle-strengthening activities had significantly lower risk of all-cause mortality compared to those who did not, independent of aerobic activity levels.
+Resistance training becomes increasingly important with age. From around the age of 30, adults begin to lose muscle mass progressively in a process called sarcopenia, which accelerates after 40 and is strongly linked to metabolic dysfunction, frailty, and reduced quality of life. Resistance training, whether with weights, bands, or bodyweight, is the most effective tool for preserving and rebuilding muscle tissue, improving insulin sensitivity, and maintaining bone density.
 
-**What to do:** Aim for 2 to 3 resistance training sessions per week, plus daily walking of at least 7,000 to 8,000 steps.
+Mind-body practices such as yoga, Pilates, tai chi, and martial arts occupy a well-supported space in the evidence base. Studies show benefits for flexibility, balance, posture, and stress reduction. Tai chi in particular has strong evidence for fall prevention in older adults, and yoga has been shown to reduce anxiety, improve sleep quality, and lower blood pressure. These practices are also more sustainable long-term for many people, which matters enormously since consistency is the most important variable in any exercise program.
+
+A practical note on safety: regardless of the modality you choose, progression should be gradual. Sudden increases in intensity or volume are the primary cause of exercise-related injuries. If you have cardiovascular risk factors or have been inactive for a long time, a medical evaluation before starting a new exercise program is a reasonable precaution.
+
+**What to do:** Aim for at least 150 minutes of moderate aerobic activity per week (can be daily walking of at least 7,000 to 8,000 steps), combined with 2 to 3 resistance training sessions. Add a mind-body practice if it appeals to you. The best exercise is the one you will actually do consistently.
 
 **References:**
+- Blair SN, et al. (1989). Physical fitness and all-cause mortality: a prospective study of healthy men and women. *JAMA*, 262(17), 2395-2401. [PubMed](https://pubmed.ncbi.nlm.nih.gov/2795824/){:target="_blank" rel="noopener"}
 - Kraschnewski JL, et al. (2016). Is strength training associated with mortality benefits? A 15 year cohort study of US adults. *Preventive Medicine*, 87, 121-127. [PubMed](https://pubmed.ncbi.nlm.nih.gov/26921660/){:target="_blank" rel="noopener"}
 - Westcott WL. (2012). Resistance training is medicine: effects of strength training on health. *Current Sports Medicine Reports*, 11(4), 209-216. [PubMed](https://pubmed.ncbi.nlm.nih.gov/22777332/){:target="_blank" rel="noopener"}
+- Cramer H, et al. (2013). A systematic review and meta-analysis of yoga for low back pain. *Clinical Journal of Pain*, 29(5), 450-460. [PubMed](https://pubmed.ncbi.nlm.nih.gov/23246998/){:target="_blank" rel="noopener"}
 
 ---
 
