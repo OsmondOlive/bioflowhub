@@ -8,7 +8,7 @@ subtitle: Biomedical Scientist. Health Researcher. Lifelong Learner.
   <img src="/assets/img/leonardo.webp" alt="Leonardo Olivieri Carvalho" style="width: 200px; height: 200px; object-fit: cover; border-radius: 50%; border: 4px solid #d4ece0; box-shadow: 0 4px 16px rgba(46,125,94,0.15);">
 </div>
 
-Hi, I'm **Leonardo Olivieri Carvalho** — a biomedical scientist with a passion for translating complex health science into practical, everyday guidance.
+Hi, I'm **Leonardo Olivieri Carvalho**: a biomedical scientist with a passion for translating complex health science into practical, everyday guidance.
 
 My background combines biomedical science with a focus on molecular biology, alongside experience as a digital creator and game developer. Science and creativity have always gone hand in hand for me.
 
@@ -30,7 +30,7 @@ I created BioFlowHub because I kept noticing a gap: most health content online i
 
 ### Why trust what I write?
 
-All content on this site is completely free to read. That said, I do occasionally recommend products I genuinely find interesting and worth your attention. Some of those recommendations include affiliate links, which means I may earn a small commission if you decide to purchase. But I will never point you toward something I would not stand behind — your wellbeing matters more than any commission.
+All content on this site is completely free to read. That said, I do occasionally recommend products I genuinely find interesting and worth your attention. Some of those recommendations include affiliate links, which means I may earn a small commission if you decide to purchase. But I will never point you toward something I would not stand behind. Your wellbeing matters more than any commission.
 
 When I recommend products, I am always transparent about why and whether I earn anything from it. You can check my [Recommended Products](/recommended) page for the full list.
 
