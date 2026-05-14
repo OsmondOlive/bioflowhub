@@ -103,11 +103,25 @@ Studies consistently show that individuals with a strong sense of purpose have s
 
 ## 5. Get Regular Health Screenings
 
-Prevention is dramatically more effective than treatment. Many of the leading causes of death, including cardiovascular disease, certain cancers, and type 2 diabetes, have a long window of opportunity for early intervention before symptoms appear.
+Prevention is one of the most powerful tools in medicine — and one of the most underused. Many of the leading causes of death and disability develop silently for years before producing any symptoms. By the time something feels wrong, the window for easy intervention has often already closed.
 
-Knowing your numbers, such as blood pressure, fasting glucose, lipid panel, and vitamin D levels, gives you the information to act before things become serious. Hypertension, for example, is often called the silent killer precisely because it causes no symptoms while quietly damaging blood vessels, the heart, and the kidneys for years.
+Cardiovascular disease is the leading cause of death worldwide, yet most of its major risk factors are measurable and modifiable. High blood pressure, for example, is called the silent killer precisely because it damages arteries, the heart, and kidneys for years without any symptoms. A simple blood pressure measurement can detect it immediately. The same applies to elevated LDL cholesterol and fasting glucose, both of which can be identified and addressed long before they cause irreversible damage.
 
-**What to do:** Talk to your doctor about age-appropriate screenings. Do not wait until something feels wrong.
+Type 2 diabetes is largely preventable. Large clinical trials have shown that lifestyle interventions, including modest weight loss, dietary changes, and regular exercise, reduce the risk of developing diabetes by over 50% in high-risk individuals — outperforming medication in head-to-head comparisons.
+
+Certain cancers respond dramatically to early detection. Colorectal cancer, when caught at its earliest stage, has a survival rate above 90%. Detected late, that number drops sharply. Cervical cancer is almost entirely preventable with vaccination and regular screening. Breast and skin cancers also have well-established screening protocols with strong evidence behind them.
+
+Osteoporosis begins silently decades before the first fracture. Bone density peaks in early adulthood and declines gradually thereafter. Adequate calcium and vitamin D intake, combined with resistance training throughout life, are the most effective tools for preserving it — but they need to start well before the problem becomes visible.
+
+Alzheimer's disease currently has no cure. But research increasingly points to modifiable risk factors: uncontrolled hypertension, type 2 diabetes, physical inactivity, social isolation, poor sleep, and chronic stress all increase risk. Managing these factors across the lifespan may be the most meaningful thing we can currently do.
+
+Depression and anxiety are among the most prevalent conditions globally, yet they remain dramatically underdiagnosed. Regular check-ins with a healthcare provider, awareness of warning signs, and early intervention can prevent mild symptoms from becoming severely debilitating.
+
+**What to do:** Know your numbers. Get your blood pressure, fasting glucose, lipid panel, and vitamin D levels checked regularly. Follow age-appropriate cancer screening guidelines. Do not wait until something feels wrong — by then, prevention has already become treatment.
+
+- Knowler WC, et al. (2002). Reduction in the incidence of type 2 diabetes with lifestyle intervention or metformin. *New England Journal of Medicine*, 346(6), 393-403. [PubMed](https://pubmed.ncbi.nlm.nih.gov/11832527/){:target="_blank" rel="noopener"}
+- Siegel RL, et al. (2023). Cancer statistics, 2023. *CA: A Cancer Journal for Clinicians*, 73(1), 17-48. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36633525/){:target="_blank" rel="noopener"}
+- Livingston G, et al. (2020). Dementia prevention, intervention, and care: 2020 report of the Lancet Commission. *The Lancet*, 396(10248), 413-446. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32738937/){:target="_blank" rel="noopener"}
 
 ---
 
