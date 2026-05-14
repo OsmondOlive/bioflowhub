@@ -12,6 +12,8 @@ Hi, I'm **Leonardo Olivieri Carvalho** — a biomedical scientist with a passion
 
 My background combines biomedical science with a focus on molecular biology, alongside experience as a digital creator and game developer. Science and creativity have always gone hand in hand for me.
 
+I have contributed to peer-reviewed research published in the [Journal of Cellular Biochemistry](https://onlinelibrary.wiley.com/doi/10.1002/jcb.25124){:target="_blank" rel="noopener"} (Wiley), one of the leading journals in cell biology and biochemistry.
+
 I created BioFlowHub because I kept noticing a gap: most health content online is either too simplified (and misleading) or too technical (and unreadable). My goal is to sit right in the middle — evidence-based, honest and actually useful.
 
 ---
