@@ -78,17 +78,26 @@ A practical note on safety: regardless of the modality you choose, progression s
 
 ## 4. Manage Chronic Stress
 
-Acute stress is normal and even useful. Chronic stress, meaning sustained elevation of cortisol and other stress hormones, is a slow-burning threat to nearly every system in your body, from immune response to gut microbiome to cardiovascular health.
+Acute stress is normal and even useful. When you exercise, fast, take a cold shower, or face a meaningful deadline, your body activates the same stress response in a controlled and temporary way. Cortisol and adrenaline rise briefly, focus sharpens, energy is mobilized, and the body adapts. Scientists call this positive form of stress "eustress," and it is one of the primary mechanisms behind the benefits of exercise, intermittent fasting, and deliberate cold exposure.
 
-Chronic psychological stress has been associated with accelerated cellular aging through telomere shortening, increased systemic inflammation, and higher risk of anxiety, depression, and cardiovascular events. A review published in *Nature Reviews Cardiology* concluded that psychosocial stress plays a significant and independent role in the development and progression of cardiovascular disease.
+Anger, when brief and proportionate to a real situation, is also a natural and inevitable human emotion. Feeling it is not the problem. The problem begins when it becomes chronic and unresolved, shifting from a passing feeling into a persistent biological burden.
+
+Chronic stress, however, meaning sustained elevation of cortisol and other stress hormones, is a slow-burning threat to nearly every system in your body, from immune response to gut microbiome to cardiovascular health.
 
 It is also worth noting that what ancient wisdom traditions have long taught about anger and resentment finds strong support in modern research. Chronic hostility and rumination, meaning the tendency to dwell repeatedly on negative experiences, are independently associated with increased cardiovascular risk, elevated inflammatory markers, and poorer immune function. Letting go, in whatever form that takes for you, turns out to have measurable biological benefits.
+
+Science has increasingly confirmed what many wisdom traditions have long taught: having a sense of purpose larger than oneself is not merely a philosophical ideal but a measurable health advantage.
+
+Studies consistently show that individuals with a strong sense of purpose have significantly lower all-cause mortality, reduced cardiovascular risk, and greater resilience to stress. Whatever gives your life meaning, whether faith, family, work, or service to others, protecting and nurturing that sense of purpose may be one of the most impactful health decisions you can make.
 
 **What to do:** The most evidence-backed stress management tools are regular physical exercise, quality sleep, social connection, time in nature, and mindfulness-based practices. Even 10 minutes of intentional breathing daily can measurably shift your nervous system toward a calmer state.
 
 **References:**
+- Chu B, et al. (2024). Physiology, Stress Reaction. *StatPearls*, NCBI Bookshelf. [PubMed](https://www.ncbi.nlm.nih.gov/books/NBK541120/){:target="_blank" rel="noopener"}
 - Kivimäki M, Steptoe A. (2018). Effects of stress on the development and progression of cardiovascular disease. *Nature Reviews Cardiology*, 15(4), 215-229. [PubMed](https://pubmed.ncbi.nlm.nih.gov/29213140/){:target="_blank" rel="noopener"}
 - Gerin W, et al. (2006). The role of angry rumination and distraction in blood pressure recovery from emotional arousal. *Psychosomatic Medicine*, 68(1), 64-72. [PubMed](https://pubmed.ncbi.nlm.nih.gov/16449414/){:target="_blank" rel="noopener"}
+- Alimujiang A, et al. (2019). Association between life purpose and mortality among US adults older than 50 years. *JAMA Network Open*, 2(5), e194270. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31125099/){:target="_blank" rel="noopener"}
+- Hill PL, Turiano NA. (2014). Purpose in life as a predictor of mortality across adulthood. *Psychological Science*, 25(7), 1482-1486. [PubMed](https://pubmed.ncbi.nlm.nih.gov/24815612/){:target="_blank" rel="noopener"}
 
 ---
 
