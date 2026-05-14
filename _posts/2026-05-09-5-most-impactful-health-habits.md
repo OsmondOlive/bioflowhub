@@ -82,10 +82,13 @@ Acute stress is normal and even useful. Chronic stress, meaning sustained elevat
 
 Chronic psychological stress has been associated with accelerated cellular aging through telomere shortening, increased systemic inflammation, and higher risk of anxiety, depression, and cardiovascular events. A review published in *Nature Reviews Cardiology* concluded that psychosocial stress plays a significant and independent role in the development and progression of cardiovascular disease.
 
+It is also worth noting that what ancient wisdom traditions have long taught about anger and resentment finds strong support in modern research. Chronic hostility and rumination, meaning the tendency to dwell repeatedly on negative experiences, are independently associated with increased cardiovascular risk, elevated inflammatory markers, and poorer immune function. Letting go, in whatever form that takes for you, turns out to have measurable biological benefits.
+
 **What to do:** The most evidence-backed stress management tools are regular physical exercise, quality sleep, social connection, time in nature, and mindfulness-based practices. Even 10 minutes of intentional breathing daily can measurably shift your nervous system toward a calmer state.
 
 **References:**
 - Kivimäki M, Steptoe A. (2018). Effects of stress on the development and progression of cardiovascular disease. *Nature Reviews Cardiology*, 15(4), 215-229. [PubMed](https://pubmed.ncbi.nlm.nih.gov/29213140/){:target="_blank" rel="noopener"}
+- Gerin W, et al. (2006). The role of angry rumination and distraction in blood pressure recovery from emotional arousal. *Psychosomatic Medicine*, 68(1), 64-72. [PubMed](https://pubmed.ncbi.nlm.nih.gov/16449414/){:target="_blank" rel="noopener"}
 
 ---
 
