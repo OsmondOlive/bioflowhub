@@ -53,22 +53,32 @@ subtitle: Get in touch — I would love to hear from you
 .contact-submit {
   display: inline-block;
   background: linear-gradient(135deg, #2e7d5e, #52b788);
-  color: #fff !important;
+  color: #fff;
   padding: 0.75rem 2rem;
   border: none;
   border-radius: 8px;
   font-size: 1rem;
   font-weight: 600;
   cursor: pointer;
-  text-decoration: none !important;
-  transition: transform 0.2s ease, box-shadow 0.2s ease;
-  box-shadow: 0 4px 14px rgba(46,125,94,0.3);
   width: 100%;
   margin-top: 0.5rem;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  box-shadow: 0 4px 14px rgba(46,125,94,0.3);
 }
 .contact-submit:hover {
   transform: translateY(-2px);
   box-shadow: 0 6px 20px rgba(46,125,94,0.4);
+}
+.contact-success {
+  display: none;
+  background: #f0f9f4;
+  border: 1px solid #b7dbc8;
+  border-radius: 10px;
+  padding: 1.5rem;
+  text-align: center;
+  color: #2e7d5e;
+  font-weight: 500;
+  margin-top: 1rem;
 }
 .contact-alt {
   margin-top: 2rem;
@@ -90,11 +100,18 @@ subtitle: Get in touch — I would love to hear from you
     Have a question about a health topic? Want to suggest something for me to cover? Or just want to say hello? Fill out the form below and I will get back to you as soon as I can.
   </p>
 
-  <form class="contact-form" action="https://formspree.io/f/YOUR_FORM_ID" method="POST">
+  <div class="contact-success" id="contact-success">
+    ✅ Message sent successfully! I will get back to you within 2 business days.
+  </div>
+
+  <form class="contact-form" id="contact-form" action="https://formspree.io/f/mgodjdln" method="POST">
+
+    <input type="hidden" name="_subject" value="New message from BioFlowHub">
+    <input type="hidden" name="_next" value="https://bioflowhub.com/contact">
 
     <div class="form-group">
       <label for="name">Your name</label>
-      <input type="text" id="name" name="name" placeholder="Leonardo Carvalho" required>
+      <input type="text" id="name" name="name" placeholder="Your name" required>
     </div>
 
     <div class="form-group">
@@ -123,8 +140,36 @@ subtitle: Get in touch — I would love to hear from you
   </form>
 
   <div class="contact-alt">
-    <p>Prefer email directly? Reach me at <a href="mailto:contact@bioflowhub.com">contact@bioflowhub.com</a></p>
-    <p style="margin-top:0.5rem;">I typically respond within 2 business days.</p>
+    <p>Prefer email directly? Reach me at
+      <a href="#" onclick="navigator.clipboard.writeText('contact@bioflowhub.com'); this.innerText='Copied!'; setTimeout(()=>this.innerText='contact@bioflowhub.com',2000); return false;">
+        contact@bioflowhub.com
+      </a>
+    </p>
+    <p style="margin-top:0.5rem; font-size:0.8rem; color:#aaa;">Click to copy email address</p>
   </div>
 
 </div>
+
+<script>
+var form = document.getElementById('contact-form');
+var success = document.getElementById('contact-success');
+
+form.addEventListener('submit', function(e) {
+  e.preventDefault();
+  var data = new FormData(form);
+  fetch(form.action, {
+    method: 'POST',
+    body: data,
+    headers: { 'Accept': 'application/json' }
+  }).then(function(response) {
+    if (response.ok) {
+      form.style.display = 'none';
+      success.style.display = 'block';
+    } else {
+      alert('Something went wrong. Please try again or email contact@bioflowhub.com directly.');
+    }
+  }).catch(function() {
+    alert('Something went wrong. Please try again or email contact@bioflowhub.com directly.');
+  });
+});
+</script>
