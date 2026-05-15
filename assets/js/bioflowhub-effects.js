@@ -7,6 +7,8 @@
    5. Back to top button
    6. Glow verde no click/tap
    7. Rastro de partículas no drag/arrastar
+   8. Redes sociais do footer em nova aba
+   9. Botão de email redireciona para página de contato
    ===================================================== */
 
 document.addEventListener('DOMContentLoaded', function () {
@@ -71,6 +73,20 @@ document.addEventListener('DOMContentLoaded', function () {
     btt.style.transform = show ? 'translateY(0)' : 'translateY(10px)';
   });
 
+  // 8. Redes sociais do footer abrem em nova aba
+  document.querySelectorAll('.footer-links a, .author-social a').forEach(function(a) {
+    a.setAttribute('target', '_blank');
+    a.setAttribute('rel', 'noopener');
+  });
+
+  // 9. Botão de email redireciona para página de contato
+  document.querySelectorAll('a[href^="mailto:"]').forEach(function(a) {
+    a.addEventListener('click', function(e) {
+      e.preventDefault();
+      window.location.href = '/contact';
+    });
+  });
+
 });
 
 /* =====================================================
@@ -87,19 +103,15 @@ document.addEventListener('DOMContentLoaded', function () {
   resize();
   window.addEventListener('resize', resize);
 
-  /* --- Glow rings (click/tap) --- */
   var glows = [];
-
   function spawnGlow(x, y) {
     glows.push({ x: x, y: y, r: 0, alpha: 1 });
   }
 
-  /* --- Trail particles (drag/arrastar) --- */
   var trail = [];
   var dragging = false;
 
   function spawnTrail(x, y) {
-    // Adiciona várias partículas por ponto para densidade
     for (var i = 0; i < 3; i++) {
       trail.push({
         x: x + (Math.random()-0.5)*6,
@@ -110,26 +122,22 @@ document.addEventListener('DOMContentLoaded', function () {
         alpha: 0.7 + Math.random()*0.3,
         life: 1.0,
         decay: 0.025 + Math.random()*0.02,
-        hue: 140 + Math.random()*40  // verde a teal
+        hue: 140 + Math.random()*40
       });
     }
   }
 
-  /* --- Loop de animação --- */
   var animId = null;
 
   function loop() {
     ctx.clearRect(0, 0, canvas.width, canvas.height);
     var alive = false;
 
-    // Desenha glows
     glows = glows.filter(function(g){
       g.r   += 4;
       g.alpha -= 0.032;
       if (g.alpha <= 0) return false;
       alive = true;
-
-      // Anel externo
       ctx.beginPath();
       ctx.arc(g.x, g.y, g.r, 0, Math.PI*2);
       ctx.strokeStyle = 'rgba(82,183,136,' + g.alpha * 0.6 + ')';
@@ -137,20 +145,16 @@ document.addEventListener('DOMContentLoaded', function () {
       ctx.shadowColor = 'rgba(82,210,140,0.8)';
       ctx.shadowBlur = 18;
       ctx.stroke();
-
-      // Anel interno menor
       ctx.beginPath();
       ctx.arc(g.x, g.y, g.r * 0.5, 0, Math.PI*2);
       ctx.strokeStyle = 'rgba(180,255,200,' + g.alpha * 0.4 + ')';
       ctx.lineWidth = 1;
       ctx.shadowBlur = 10;
       ctx.stroke();
-
       ctx.shadowBlur = 0;
       return true;
     });
 
-    // Desenha partículas do rastro
     trail = trail.filter(function(p){
       p.life  -= p.decay;
       p.x     += p.vx;
@@ -158,7 +162,6 @@ document.addEventListener('DOMContentLoaded', function () {
       p.size  *= 0.97;
       if (p.life <= 0 || p.size < 0.3) return false;
       alive = true;
-
       var a = p.alpha * p.life;
       ctx.beginPath();
       ctx.arc(p.x, p.y, p.size, 0, Math.PI*2);
@@ -181,7 +184,6 @@ document.addEventListener('DOMContentLoaded', function () {
     if (!animId) animId = requestAnimationFrame(loop);
   }
 
-  /* --- Eventos MOUSE --- */
   document.addEventListener('mousedown', function(){ dragging = true; });
   document.addEventListener('mouseup',   function(){ dragging = false; });
 
@@ -196,7 +198,6 @@ document.addEventListener('DOMContentLoaded', function () {
     startLoop();
   });
 
-  /* --- Eventos TOUCH --- */
   document.addEventListener('touchstart', function(e){
     var t = e.touches[0];
     spawnGlow(t.clientX, t.clientY);
@@ -209,8 +210,4 @@ document.addEventListener('DOMContentLoaded', function () {
     startLoop();
   }, { passive: true });
 
-})( /* Redes sociais do footer abrem em nova aba */
-document.querySelectorAll('.footer-links a, .author-social a').forEach(function(a) {
-  a.setAttribute('target', '_blank');
-  a.setAttribute('rel', 'noopener');
-}););
+})();
