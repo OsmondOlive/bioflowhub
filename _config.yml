@@ -17,19 +17,19 @@ author: Leonardo Olivieri Carvalho
 
 navbar-links:
   Health Tips:
-    - Nutrition & Diet: "tags#nutrition"
-    - Sleep & Recovery: "tags#sleep"
-    - Stress Management: "tags#stress"
-    - Immune System: "tags#immunity"
-    - Gut Health: "tags#gut-health"
+    - Nutrition & Diet: "tags/#nutrition"
+    - Sleep & Recovery: "tags/#sleep"
+    - Stress Management: "tags/#stress"
+    - Immune System: "tags/#immunity"
+    - Gut Health: "tags/#gut-health"
   Fitness & Movement:
-    - Exercise Basics: "tags#exercise"
-    - Stretching & Mobility: "tags#stretching"
-    - Home Workouts: "tags#home-workouts"
+    - Exercise Basics: "tags/#exercise"
+    - Stretching & Mobility: "tags/#stretching"
+    - Home Workouts: "tags/#home-workouts"
   Biomedical Insights:
-    - How the Body Works: "tags#biomedical"
-    - Understanding Lab Tests: "tags#lab-tests"
-    - Evidence-Based Health: "tags#evidence-based"
+    - How the Body Works: "tags/#biomedical"
+    - Understanding Lab Tests: "tags/#lab-tests"
+    - Evidence-Based Health: "tags/#evidence-based"
   Recommended: "recommended"
   About: "aboutme"
   Contact: "contact"
