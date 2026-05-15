@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="{{ page.language | default: site.language | default: 'en' }}">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    {% capture title %}
+      {% if page.title %}
+        {{ page.title }} | {{ site.title }}
+      {% elsif site.title %}
+        {{ site.title }}
+      {% endif %}
+    {% endcapture %}
+    <title>{{ title | strip }}</title>
+
+    {% if page.description %}
+      <meta name="description" content="{{ page.description }}" />
+    {% elsif page.subtitle %}
+      <meta name="description" content="{{ page.subtitle }}" />
+    {% elsif site.description %}
+      <meta name="description" content="{{ site.description }}" />
+    {% endif %}
+
+    {% if page.author %}
+      <meta name="author" content="{{ page.author }}" />
+    {% elsif site.author %}
+      <meta name="author" content="{{ site.author }}" />
+    {% endif %}
+
+    {% if site.canonical_url %}
+      <link rel="canonical" href="{{ site.canonical_url }}{{ page.url }}" />
+    {% endif %}
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="{{ title | strip }}" />
+    {% if page.description %}
+      <meta property="og:description" content="{{ page.description }}" />
+    {% elsif site.description %}
+      <meta property="og:description" content="{{ site.description }}" />
+    {% endif %}
+    {% if page.share-img %}
+      <meta property="og:image" content="{{ page.share-img | absolute_url }}" />
+    {% elsif page.cover-img %}
+      {% if page.cover-img.first %}
+        <meta property="og:image" content="{{ page.cover-img[0].first.first | absolute_url }}" />
+      {% else %}
+        <meta property="og:image" content="{{ page.cover-img | absolute_url }}" />
+      {% endif %}
+    {% elsif site.avatar %}
+      <meta property="og:image" content="{{ site.avatar | absolute_url }}" />
+    {% endif %}
+
+    <!-- Twitter Card -->
+    {% assign img = page.share-img | default: page.cover-img %}
+    {% if img != "" and img != site.avatar %}
+      <meta name="twitter:card" content="summary_large_image" />
+    {% else %}
+      <meta name="twitter:card" content="summary" />
+    {% endif %}
+    {% if site.social-network-links.twitter %}
+      <meta name="twitter:site" content="@{{ site.social-network-links.twitter }}" />
+      <meta name="twitter:creator" content="@{{ site.social-network-links.twitter }}" />
+    {% endif %}
+    <meta property="twitter:title" content="{{ title | strip }}" />
+    {% if page.description %}
+      <meta property="twitter:description" content="{{ page.description }}" />
+    {% endif %}
+    {% if img != "" %}
+      <meta property="twitter:image" content="{{ img | absolute_url }}" />
+    {% endif %}
+
+    {% include matomo.html %}
+
+    {% if page.comments and site.staticman.repository and site.staticman.branch %}
+      <link rel="stylesheet" href="{{ "/assets/css/staticman.css" | relative_url }}" />
+    {% endif %}
+
+    {% if page.head-extra %}
+      {% for file in page.head-extra %}
+        {% include {{ file }} %}
+      {% endfor %}
+    {% endif %}
+
+    <!-- Google AdSense -->
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2249073271563625" crossorigin="anonymous"></script>
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="{{ "/assets/css/bootstrap.min.css" | relative_url }}" />
+
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="{{ "/assets/css/font-awesome.min.css" | relative_url }}" />
+
+    <!-- Beautiful Jekyll CSS -->
+    <link rel="stylesheet" href="{{ "/assets/css/beautifuljekyll.css" | relative_url }}" />
+
+    {% if site.site-css %}
+      {% for css in site.site-css %}
+        <link rel="stylesheet" href="{{ css | relative_url }}" />
+      {% endfor %}
+    {% endif %}
+
+    {% if page.ext-css %}
+      {% for css in page.ext-css %}
+        <link rel="stylesheet" href="{{ css }}" />
+      {% endfor %}
+    {% endif %}
+
+    <!-- Favicon -->
+    {% if site.favicon %}
+      <link rel="icon" type="image/png" href="{{ site.favicon | absolute_url }}" />
+    {% endif %}
+
+    <!-- RSS Feed -->
+    {% if site.feed_show_excerpt != false %}
+      <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | relative_url }}" />
+    {% endif %}
+
+  </head>
