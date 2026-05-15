@@ -1,0 +1,81 @@
+---
+layout: page
+title: Topics
+---
+
+<style>
+.tag-btn {
+  display: inline-block;
+  margin: 4px 3px;
+  padding: 5px 14px;
+  border-radius: 20px;
+  background: rgba(46,125,94,0.1);
+  color: #2e7d5e;
+  font-size: 0.82rem;
+  font-weight: 500;
+  text-decoration: none;
+  border: 1px solid rgba(46,125,94,0.2);
+  transition: background 0.2s ease, color 0.2s ease;
+}
+.tag-btn:hover {
+  background: #2e7d5e;
+  color: #fff;
+  text-decoration: none;
+}
+.tag-section {
+  margin: 2rem 0;
+}
+.tag-section h2 {
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: #1a2e2a;
+  padding: 0.5rem 1rem;
+  background: #f0f9f4;
+  border-left: 4px solid #2e7d5e;
+  border-radius: 0 8px 8px 0;
+  margin-bottom: 1rem;
+}
+.tag-posts {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.tag-posts li {
+  padding: 0.45rem 0;
+  border-bottom: 1px solid #e8f0ec;
+}
+.tag-posts li:last-child { border-bottom: none; }
+.tag-posts a {
+  color: #2e7d5e;
+  font-weight: 500;
+  font-size: 0.95rem;
+  text-decoration: none;
+}
+.tag-posts a:hover { text-decoration: underline; }
+.tag-cloud {
+  margin-bottom: 2.5rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid #e0ede7;
+}
+</style>
+
+<div class="tag-cloud">
+{% assign sorted_tags = site.tags | sort %}
+{% for tag in sorted_tags %}
+  <a href="#{{- tag[0] | slugify -}}" class="tag-btn">
+    {{ tag[0] }}&nbsp;({{ tag[1].size }})
+  </a>
+{% endfor %}
+</div>
+
+{% for tag in sorted_tags %}
+<div class="tag-section" id="{{- tag[0] | slugify -}}">
+  <h2>{{ tag[0] }}</h2>
+  <ul class="tag-posts">
+  {% assign posts = tag[1] | sort: 'date' | reverse %}
+  {% for post in posts %}
+    <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
+  {% endfor %}
+  </ul>
+</div>
+{% endfor %}
