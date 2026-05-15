@@ -6,6 +6,58 @@ tags: [sleep, recovery, health, circadian rhythm, sleep deprivation, habits]
 comments: true
 ---
 
+<style>
+.bio-btn {
+  display: inline-block;
+  background: linear-gradient(135deg, #2e7d5e, #52b788);
+  color: #fff !important; text-decoration: none !important;
+  border-radius: 8px; font-weight: 700; font-size: 0.88rem;
+  padding: 0.55rem 1.3rem; margin: 0.3rem 0.3rem 0.3rem 0;
+  box-shadow: 0 4px 14px rgba(46,125,94,0.3);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  animation: bioPulse 2.5s ease-out infinite;
+}
+.bio-btn:hover {
+  transform: translateY(-2px) scale(1.03);
+  box-shadow: 0 6px 20px rgba(46,125,94,0.45);
+  text-decoration: none !important;
+  animation: none;
+}
+.bio-btn-secondary {
+  display: inline-block;
+  background: transparent;
+  color: #2e7d5e !important;
+  border: 1.5px solid #2e7d5e;
+  border-radius: 8px; font-weight: 600; font-size: 0.88rem;
+  padding: 0.5rem 1.1rem; margin: 0.3rem 0.3rem 0.3rem 0;
+  text-decoration: none !important;
+  transition: background 0.2s ease, color 0.2s ease;
+}
+.bio-btn-secondary:hover {
+  background: #2e7d5e; color: #fff !important;
+  text-decoration: none !important;
+}
+.bio-box {
+  background: linear-gradient(135deg, #f0f9f4, #e8f5e9);
+  border-left: 4px solid #2e7d5e;
+  border-radius: 0 10px 10px 0;
+  padding: 1rem 1.2rem;
+  margin: 1.5rem 0;
+}
+.bio-box p { margin: 0 0 0.7rem; font-size: 0.92rem; color: #1a2e2a; }
+@keyframes bioPulse {
+  0%   { box-shadow: 0 4px 14px rgba(46,125,94,0.3), 0 0 0 0 rgba(82,183,136,0.4); }
+  70%  { box-shadow: 0 4px 14px rgba(46,125,94,0.3), 0 0 0 10px rgba(82,183,136,0); }
+  100% { box-shadow: 0 4px 14px rgba(46,125,94,0.3), 0 0 0 0 rgba(82,183,136,0); }
+}
+</style>
+
+<div class="bio-box">
+  <p>🛏️ <strong>Struggling with poor sleep quality?</strong> An ergonomic pillow that properly supports your neck can make a significant difference in how deeply and comfortably you sleep.</p>
+  <a href="https://572eb4kq73n3ujucopt9l258y0.hop.clickbank.net/?&traffic_source=blog&traffic_type=organic&campaign=bioflowhub" target="_blank" rel="noopener" class="bio-btn">Get Derila Ergo Pillow →</a>
+  <a href="https://amzn.to/49B2xdz" target="_blank" rel="noopener" class="bio-btn-secondary">Sleep Mask on Amazon</a>
+</div>
+
 If you had to choose a single intervention to improve your health, performance, mood, and longevity all at once, sleep would be the strongest candidate the science has to offer. Yet it remains the most consistently sacrificed variable in modern life, treated as something you do when there is nothing more important to do.
 
 This post looks at what sleep actually does, what happens when you do not get enough of it, and what practical steps have the strongest evidence behind them.
@@ -92,6 +144,11 @@ A useful self-assessment: if you feel alert and mentally sharp without caffeine 
 
 Sleep is the foundation of recovery, but it works alongside other variables. Physical recovery after exercise is also supported by adequate protein intake, hydration, light movement on rest days, and stress management. The research on interventions like cold water immersion, compression garments, and massage suggests modest benefits for acute recovery but does not replace the foundational importance of sleep.
 
+<div class="bio-box">
+  <p>📚 <strong>Want to go deeper on sleep science?</strong> <em>Why We Sleep</em> by Matthew Walker is the most comprehensive and accessible book on sleep science available. It will permanently change how you think about rest.</p>
+  <a href="https://amzn.to/3PIEqD2" target="_blank" rel="noopener" class="bio-btn">View on Amazon →</a>
+</div>
+
 ---
 
-*Questions or topics you would like covered? Leave a comment below or [get in touch](mailto:contact@bioflowhub.com).*
+*Questions or topics you would like covered? Leave a comment below or [get in touch](/contact).*
