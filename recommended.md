@@ -10,76 +10,75 @@ subtitle: Tools and products I personally researched and trust
 
 ---
 
+## Joint & Muscle Support
+
+### Balmorex Pro
+A topical cream formulated for joint, back, and muscle support. Contains arnica extract — one of the few botanical ingredients with rigorous clinical trial data for topical pain relief. I wrote a full review explaining the ingredients and the evidence behind them.
+
+[Read my full review](/2026-05-09-balmorex-pro-review/){:target="_blank" rel="noopener"} &nbsp;|&nbsp; [Get Balmorex Pro](https://ef9897nq56z1rh08qksj26zz4n.hop.clickbank.net/?tid=landing1){:target="_blank" rel="noopener"}
+
+---
+
 ## Nutrition & Supplements
 
 ### Magnesium Glycinate
+One of the most bioavailable forms of magnesium — important for sleep, muscle recovery, and stress regulation. Most people do not get enough from diet alone, and deficiency is associated with poor sleep, muscle cramps, and anxiety.
 
-One of the most bioavailable forms of magnesium — important for sleep, muscle recovery, and stress regulation. Most people don't get enough from diet alone.
-
-[Check price on Amazon](https://www.amazon.com/s?k=magnesium+glycinate&tag=bioflowhub-20){:target="_blank" rel="noopener"}
+[Check price on Amazon](https://amzn.to/4dpMhx1){:target="_blank" rel="noopener"}
 
 ---
 
 ### Vitamin D3 + K2
+An essential combination — D3 for immune function, mood, and bone health, K2 to direct calcium to bones rather than arteries. Particularly important for people with limited sun exposure, which includes most people living in northern latitudes or working indoors.
 
-Essential combo — D3 for immune function and mood, K2 to direct calcium to bones (not arteries). Especially important if you live in a low-sunlight region.
-
-[Check price on Amazon](https://www.amazon.com/s?k=vitamin+d3+k2&tag=bioflowhub-20){:target="_blank" rel="noopener"}
+[Check price on Amazon](https://amzn.to/3RGoX70){:target="_blank" rel="noopener"}
 
 ---
 
 ### Omega-3 Fish Oil (High EPA/DHA)
+Anti-inflammatory, heart-protective, and brain-supportive. Nordic Naturals is the gold standard for purity and third-party testing. Look for at least 500mg combined EPA and DHA per serving.
 
-Anti-inflammatory, heart-protective, brain-supportive. Look for at least 500mg EPA + DHA per capsule, with third-party testing.
-
-[Check price on Amazon](https://www.amazon.com/s?k=omega+3+fish+oil+high+epa+dha&tag=bioflowhub-20){:target="_blank" rel="noopener"}
+[Check price on Amazon](https://amzn.to/4dv6Icc){:target="_blank" rel="noopener"}
 
 ---
 
 ## Sleep & Recovery
 
-### Sleep Mask (Contoured)
+### Contoured Sleep Mask
+Blocking light completely is one of the cheapest and most effective ways to improve sleep quality. A contoured design does not press on the eyes, allowing for comfortable use throughout the night.
 
-Blocking light is one of the cheapest and most effective ways to improve sleep quality. A contoured mask doesn't press on your eyes.
-
-[Check price on Amazon](https://www.amazon.com/s?k=contoured+sleep+mask&tag=bioflowhub-20){:target="_blank" rel="noopener"}
+[Check price on Amazon](https://amzn.to/49B2xdz){:target="_blank" rel="noopener"}
 
 ---
 
-### Foam Roller
+### TriggerPoint GRID Foam Roller
+The #1 rated foam roller on Amazon for good reason. Essential for muscle recovery, especially if you sit for long hours or exercise regularly. Ten minutes of rolling can significantly reduce next-day soreness and improve mobility over time.
 
-A non-negotiable for muscle recovery, especially if you sit for long hours or work out regularly. 10 minutes of rolling replaces a lot of soreness.
+[Check price on Amazon](https://amzn.to/4nsSq05){:target="_blank" rel="noopener"}
 
-[Check price on Amazon](https://www.amazon.com/s?k=high+density+foam+roller&tag=bioflowhub-20){:target="_blank" rel="noopener"}
+---
+
+### Resistance Bands Set
+Versatile, portable, and inexpensive — resistance training is one of the most impactful longevity interventions available, and bands allow you to do it anywhere. A complete set covers a wide range of exercises for the whole body.
+
+[Check price on Amazon](https://amzn.to/4uU7yq4){:target="_blank" rel="noopener"}
 
 ---
 
 ## Books I Recommend
 
 ### Why We Sleep — Matthew Walker
+The most important book on sleep science I have ever read. Walker synthesizes decades of research into an accessible, compelling case for why sleep is the single most important thing you can do for your health. It will permanently change how you think about rest.
 
-The most important book on sleep science. Backed by decades of research and will permanently change how you think about rest.
-
-[View on Amazon](https://www.amazon.com/s?k=why+we+sleep+matthew+walker&tag=bioflowhub-20){:target="_blank" rel="noopener"}
+[View on Amazon](https://amzn.to/3PIEqD2){:target="_blank" rel="noopener"}
 
 ---
 
 ### How Not to Die — Michael Greger, M.D.
+A dense, evidence-based guide to using nutrition to prevent and reverse the leading causes of death. Greger goes through the research disease by disease. Not light reading, but one of the most useful health books available.
 
-Evidence-based guide to using nutrition to prevent and reverse disease. Dense with research, written accessibly.
-
-[View on Amazon](https://www.amazon.com/s?k=how+not+to+die+michael+greger&tag=bioflowhub-20){:target="_blank" rel="noopener"}
-
----
-
-## Fitness
-
-### Resistance Bands Set
-
-Versatile, cheap, portable — and research shows resistance training is one of the most impactful longevity interventions available.
-
-[Check price on Amazon](https://www.amazon.com/s?k=resistance+bands+set+workout&tag=bioflowhub-20){:target="_blank" rel="noopener"}
+[View on Amazon](https://amzn.to/4eKtgI8){:target="_blank" rel="noopener"}
 
 ---
 
-*More recommendations coming soon. Have a product you'd like me to evaluate?* [Send me an email](mailto:contact@bioflowhub.com)
+*More recommendations coming soon. Have a product you would like me to evaluate?* [Get in touch](/contact)
