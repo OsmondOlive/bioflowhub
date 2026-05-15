@@ -99,7 +99,16 @@ cover-img: false
 
 <div class="bio-affiliate-box">
   <p>🦴 <strong>Struggling with joint or muscle pain?</strong> I reviewed Balmorex Pro — a topical cream with real biomedical backing for joint, back and muscle support.</p>
-  <a href="/2025-05-10-balmorex-pro-review/" class="bio-affiliate-btn">Read my review →</a>
+  <a href="/2026-05-09-balmorex-pro-review/" class="bio-affiliate-btn">Read my review →</a>
+</div>
+
+<div style="background:linear-gradient(135deg,#1a2e2a,#2e7d5e);border-radius:12px;padding:1.4rem 1.6rem;margin-bottom:2rem;display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:1rem;">
+  <div>
+    <p style="margin:0 0 0.3rem;font-size:0.75rem;font-weight:700;letter-spacing:0.08em;color:#74c69d;text-transform:uppercase;">⭐ Featured Article</p>
+    <p style="margin:0 0 0.4rem;font-size:1rem;font-weight:700;color:#ffffff;line-height:1.4;">The 5 Most Impactful Health Habits Backed by Science</p>
+    <p style="margin:0;font-size:0.82rem;color:#b7dbc8;line-height:1.5;">Sleep, nutrition, movement, stress and prevention — the five habits with the strongest evidence for long-term health.</p>
+  </div>
+  <a href="/2026-05-09-5-most-impactful-health-habits/" style="display:inline-block;background:#52b788;color:#fff !important;padding:0.55rem 1.2rem;border-radius:8px;font-size:0.88rem;font-weight:600;text-decoration:none !important;white-space:nowrap;transition:background 0.2s ease;" onmouseover="this.style.background='#74c69d'" onmouseout="this.style.background='#52b788'">Read now →</a>
 </div>
 
 <hr class="bio-divider">
