@@ -209,4 +209,8 @@ document.addEventListener('DOMContentLoaded', function () {
     startLoop();
   }, { passive: true });
 
-})();
+})( /* Redes sociais do footer abrem em nova aba */
+document.querySelectorAll('.footer-links a, .author-social a').forEach(function(a) {
+  a.setAttribute('target', '_blank');
+  a.setAttribute('rel', 'noopener');
+}););
