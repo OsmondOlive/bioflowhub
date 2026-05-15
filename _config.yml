@@ -32,6 +32,7 @@ navbar-links:
     - Evidence-Based Health: "tags#evidence-based"
   Recommended: "recommended"
   About: "aboutme"
+  Contact: "contact"
   Privacy Policy: "privacypolicy"
 
 ################
@@ -52,9 +53,6 @@ social-network-links:
   twitter: "LeonardoC23116"
   linkedin: "leonardo-carvalho-8a960728"
   rss: true
-
-# Discord nao tem suporte nativo no Beautiful Jekyll
-# Adicionado manualmente no footer via CSS customizado
 
 rss-description: "Evidence-based health tips, biomedical insights, and wellness strategies — written by a biomedical scientist."
 
