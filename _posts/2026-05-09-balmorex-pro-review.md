@@ -2,7 +2,7 @@
 layout: post
 title: "Balmorex Pro Review: Can a Topical Cream Really Relieve Joint and Muscle Pain?"
 subtitle: "A biomedical scientist looks at the ingredients, the claims, and the evidence"
-tags: [joint health, pain relief, muscles, back pain, supplement review, affiliate]
+tags: [joint-health, pain-relief, muscles, back-pain, supplement-review, affiliate]
 comments: true
 ---
 

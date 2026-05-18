@@ -2,7 +2,7 @@
 layout: post
 title: "Stress Management: Understanding Your Body's Response and How to Work With It"
 subtitle: "Chronic stress is one of the most damaging forces in modern health — and one of the most manageable"
-tags: [stress, stress management, cortisol, mental health, nervous system, habits]
+tags: [stress, cortisol, mental-health, nervous-system, habits, evidence-based]
 comments: true
 ---
 

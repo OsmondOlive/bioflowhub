@@ -2,7 +2,7 @@
 layout: post
 title: "Evidence-Based Health: How to Think About Health Information in a World Full of Noise"
 subtitle: "Not all health claims are equal — here is how to tell the difference"
-tags: [evidence-based, health, critical thinking, biomedical, science]
+tags: [evidence-based, health, critical-thinking, biomedical, science]
 comments: true
 ---
 

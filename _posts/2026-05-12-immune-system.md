@@ -2,7 +2,7 @@
 layout: post
 title: "How to Support Your Immune System: What the Science Actually Says"
 subtitle: "Separating evidence from marketing — what genuinely strengthens your immune defenses"
-tags: [immunity, immune system, health, inflammation, nutrition, evidence-based]
+tags: [immunity, health, inflammation, nutrition, evidence-based]
 comments: true
 ---
 

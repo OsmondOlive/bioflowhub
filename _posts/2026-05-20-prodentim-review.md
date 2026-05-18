@@ -2,7 +2,7 @@
 layout: post
 title: "ProDentim Review: Do Oral Probiotics Actually Improve Dental Health?"
 subtitle: "A biomedical scientist examines the science behind oral microbiome supplementation"
-tags: [oral health, probiotics, microbiome, dental, supplement review, affiliate]
+tags: [oral-health, probiotics, microbiome, dental, supplement-review, affiliate]
 comments: true
 ---
 

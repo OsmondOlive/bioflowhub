@@ -2,7 +2,7 @@
 layout: post
 title: "The 5 Most Impactful Health Habits Backed by Science Community"
 subtitle: "Reach big results with small changes: what the research actually supports"
-tags: [health, habits, sleep, nutrition, fitness, stress, prevention]
+tags: [health, habits, sleep, nutrition, fitness, stress, prevention, evidence-based]
 comments: true
 ---
 

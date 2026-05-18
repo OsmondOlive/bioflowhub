@@ -2,7 +2,7 @@
 layout: post
 title: "Sleep and Recovery: The Most Underrated Health Intervention Available"
 subtitle: "Why sleep is not a luxury but a biological necessity with profound consequences for your health"
-tags: [sleep, recovery, health, circadian rhythm, sleep deprivation, habits]
+tags: [sleep, recovery, health, circadian-rhythm, sleep-deprivation, habits]
 comments: true
 ---
 

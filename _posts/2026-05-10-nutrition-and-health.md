@@ -2,7 +2,7 @@
 layout: post
 title: "Nutrition and Health: What the Science Actually Says About Food"
 subtitle: "Cutting through nutrition confusion with evidence — what matters, what does not, and why the research is harder to interpret than it looks"
-tags: [nutrition, diet, health, food, evidence-based, whole foods]
+tags: [nutrition, diet, health, food, evidence-based, whole-foods]
 comments: true
 ---
 
