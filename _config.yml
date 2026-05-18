@@ -30,10 +30,10 @@ navbar-links:
     - How the Body Works: "tags#biomedical"
     - Understanding Lab Tests: "tags#lab-tests"
     - Evidence-Based Health: "tags#evidence-based"
-  Recommended: "recommended"
-  About: "aboutme"
-  Contact: "contact"
-  Privacy Policy: "privacypolicy"
+  Recommended: "recommended/"
+  About: "aboutme/"
+  Contact: "contact/"
+  Privacy Policy: "privacypolicy/"
 
 ################
 # --- Logo --- #

@@ -2,6 +2,7 @@
 layout: page
 title: Privacy Policy
 subtitle: How BioFlowHub collects, uses, and protects your information
+permalink: /privacypolicy/
 ---
 
 *Last updated: May 2026*

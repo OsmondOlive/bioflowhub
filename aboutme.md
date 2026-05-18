@@ -2,6 +2,7 @@
 layout: page
 title: About Me
 subtitle: Biomedical Scientist. Health Researcher. Lifelong Learner.
+permalink: /aboutme/
 ---
 
 <div style="text-align: center; margin-bottom: 2rem;">

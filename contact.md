@@ -2,6 +2,7 @@
 layout: page
 title: Contact
 subtitle: Get in touch — I would love to hear from you
+permalink: /contact/
 ---
 
 <style>

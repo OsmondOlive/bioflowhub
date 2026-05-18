@@ -2,6 +2,7 @@
 layout: page
 title: Recommended Products
 subtitle: Tools and products I personally researched and trust
+permalink: /recommended/
 ---
 
 *As a biomedical scientist, I only list products I have personally evaluated or that have strong scientific backing.*
