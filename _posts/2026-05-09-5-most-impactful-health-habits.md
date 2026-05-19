@@ -22,7 +22,7 @@ comments: true
 <!-- HERO IMAGE: foto inspiradora de pessoa saudável ao ar livre, luminosa -->
 <!-- Sugestão Unsplash: buscar "healthy lifestyle outdoor" ou "morning run nature" -->
 <figure class="post-figure">
-  <img src="/assets/img/posts/health-habits-hero.jpg" alt="Person embracing a healthy lifestyle outdoors" class="post-img">
+  <img src="/assets/img/posts/health-habits-hero.webp" alt="Person embracing a healthy lifestyle outdoors" class="post-img">
   <figcaption>Small, consistent habits compound into dramatic long-term results.</figcaption>
 </figure>
 
@@ -37,7 +37,7 @@ Here are the five with the strongest evidence and the biggest impact on long-ter
 <!-- SLEEP IMAGE: quarto escuro e aconchegante, pessoa dormindo tranquilamente -->
 <!-- Sugestão Unsplash: buscar "peaceful sleep dark bedroom" -->
 <figure class="post-figure">
-  <img src="/assets/img/posts/health-habits-sleep.jpg" alt="Peaceful sleep in a dark, cool bedroom" class="post-img">
+  <img src="/assets/img/posts/health-habits-sleep.webp" alt="Peaceful sleep in a dark, cool bedroom" class="post-img">
   <figcaption>A dark, cool bedroom (18–19°C) is one of the most effective and free sleep interventions available.</figcaption>
 </figure>
 
@@ -69,7 +69,7 @@ If you are having trouble sleeping, try calming your mind through meditation. Sc
 <!-- NUTRITION IMAGE: prato colorido e variado com vegetais, grãos e proteínas -->
 <!-- Sugestão Unsplash: buscar "colorful healthy meal whole foods" ou "Mediterranean diet plate" -->
 <figure class="post-figure">
-  <img src="/assets/img/posts/health-habits-nutrition.jpg" alt="Colorful plate with whole foods, vegetables, and grains" class="post-img">
+  <img src="/assets/img/posts/health-habits-nutrition.webp" alt="Colorful plate with whole foods, vegetables, and grains" class="post-img">
   <figcaption>A simple rule: if you can't recognize most of the ingredients, eat it less often.</figcaption>
 </figure>
 
@@ -104,7 +104,7 @@ These products are formulated in ways that promote dependence and tend to replac
 <!-- EXERCISE IMAGE: pessoa praticando exercício ao ar livre, caminhada ou corrida em natureza -->
 <!-- Sugestão Unsplash: buscar "outdoor exercise walking nature" ou "resistance training home" -->
 <figure class="post-figure">
-  <img src="/assets/img/posts/health-habits-exercise.jpg" alt="Person exercising outdoors in nature" class="post-img">
+  <img src="/assets/img/posts/health-habits-exercise.webp" alt="Person exercising outdoors in nature" class="post-img">
   <figcaption>The best exercise is the one you will actually do consistently — outdoors whenever possible.</figcaption>
 </figure>
 
@@ -139,7 +139,7 @@ A practical note on safety: regardless of the modality you choose, progression s
 <!-- STRESS IMAGE: pessoa meditando ou em natureza, calma e paz -->
 <!-- Sugestão Unsplash: buscar "meditation nature calm" ou "mindfulness outdoor peaceful" -->
 <figure class="post-figure">
-  <img src="/assets/img/posts/health-habits-stress.jpg" alt="Person meditating peacefully in nature" class="post-img">
+  <img src="/assets/img/posts/health-habits-stress.webp" alt="Person meditating peacefully in nature" class="post-img">
   <figcaption>Even 10 minutes of intentional breathing daily can measurably shift your nervous system toward a calmer state.</figcaption>
 </figure>
 
@@ -176,7 +176,7 @@ Studies consistently show that individuals with a strong sense of purpose have s
 <!-- SCREENING IMAGE: exame de sangue ou consulta médica preventiva, tom profissional -->
 <!-- Sugestão Unsplash: buscar "blood test medical checkup" ou "doctor preventive care" -->
 <figure class="post-figure">
-  <img src="/assets/img/posts/health-habits-screening.jpg" alt="Preventive health screening and blood work" class="post-img">
+  <img src="/assets/img/posts/health-habits-screening.webp" alt="Preventive health screening and blood work" class="post-img">
   <figcaption>Knowing your numbers is one of the most powerful preventive health decisions you can make.</figcaption>
 </figure>
 
