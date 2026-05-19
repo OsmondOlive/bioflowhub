@@ -2,7 +2,7 @@
 layout: post
 title: "The 5 Most Impactful Health Habits Backed by Science Community"
 subtitle: "Reach big results with small changes: what the research actually supports"
-tags: [health, habits, sleep, nutrition, fitness, stress, prevention, evidence-based]
+tags: [health, habits, sleep, nutrition, fitness, stress, prevention]
 comments: true
 ---
 
@@ -13,8 +13,18 @@ comments: true
 .bio-btn-secondary:hover { background:#2e7d5e;color:#fff !important;text-decoration:none !important; }
 .bio-box { background:linear-gradient(135deg,#f0f9f4,#e8f5e9);border-left:4px solid #2e7d5e;border-radius:0 10px 10px 0;padding:1rem 1.2rem;margin:1.5rem 0; }
 .bio-box p { margin:0 0 0.7rem;font-size:0.92rem;color:#1a2e2a; }
+.post-img { max-width:100%; border-radius:8px; display:block; margin: 0 auto; }
+.post-figure { text-align:center; margin: 2rem 0; }
+.post-figure figcaption { font-size:0.82rem; color:#666; margin-top:0.5rem; font-style:italic; }
 @keyframes bioPulse { 0% { box-shadow:0 4px 14px rgba(46,125,94,0.3),0 0 0 0 rgba(82,183,136,0.4); } 70% { box-shadow:0 4px 14px rgba(46,125,94,0.3),0 0 0 10px rgba(82,183,136,0); } 100% { box-shadow:0 4px 14px rgba(46,125,94,0.3),0 0 0 0 rgba(82,183,136,0); } }
 </style>
+
+<!-- HERO IMAGE: foto inspiradora de pessoa saudável ao ar livre, luminosa -->
+<!-- Sugestão Unsplash: buscar "healthy lifestyle outdoor" ou "morning run nature" -->
+<figure class="post-figure">
+  <img src="/assets/img/posts/health-habits-hero.jpg" alt="Person embracing a healthy lifestyle outdoors" class="post-img">
+  <figcaption>Small, consistent habits compound into dramatic long-term results.</figcaption>
+</figure>
 
 When it comes to health, the internet is full of noise. Detox teas, miracle supplements, 30-day challenges. This sometimes happens due to ignorance, but also because money has often been prioritized over human life and health. But if you strip all that away and look at what the research consistently shows, a handful of habits stand out above the rest.
 
@@ -23,6 +33,13 @@ Here are the five with the strongest evidence and the biggest impact on long-ter
 ---
 
 ## 1. Sleep 7 to 9 Hours Every Night
+
+<!-- SLEEP IMAGE: quarto escuro e aconchegante, pessoa dormindo tranquilamente -->
+<!-- Sugestão Unsplash: buscar "peaceful sleep dark bedroom" -->
+<figure class="post-figure">
+  <img src="/assets/img/posts/health-habits-sleep.jpg" alt="Peaceful sleep in a dark, cool bedroom" class="post-img">
+  <figcaption>A dark, cool bedroom (18–19°C) is one of the most effective and free sleep interventions available.</figcaption>
+</figure>
 
 Sleep is not optional. It's much more important than you imagine. During sleep, your body consolidates memory, regulates hormones, repairs tissue and clears metabolic waste from the brain through the glymphatic system. This cleaning process, driven by cerebrospinal fluid flowing through channels that open during sleep, is one of the most impactful neuroscience discoveries of the past decade.
 
@@ -48,6 +65,13 @@ If you are having trouble sleeping, try calming your mind through meditation. Sc
 ---
 
 ## 2. Eat Mostly Whole, Unprocessed Foods
+
+<!-- NUTRITION IMAGE: prato colorido e variado com vegetais, grãos e proteínas -->
+<!-- Sugestão Unsplash: buscar "colorful healthy meal whole foods" ou "Mediterranean diet plate" -->
+<figure class="post-figure">
+  <img src="/assets/img/posts/health-habits-nutrition.jpg" alt="Colorful plate with whole foods, vegetables, and grains" class="post-img">
+  <figcaption>A simple rule: if you can't recognize most of the ingredients, eat it less often.</figcaption>
+</figure>
 
 No need to follow a specific diet label, because the most important thing here is the balance and harmony of food choices so that you can supply the main nutrients that your body needs. The scientific community argues that all dietary patterns harmonize on one thing: ultra-processed foods are harmful, and whole foods are protective.
 
@@ -77,6 +101,13 @@ These products are formulated in ways that promote dependence and tend to replac
 
 ## 3. Move Your Body Regularly
 
+<!-- EXERCISE IMAGE: pessoa praticando exercício ao ar livre, caminhada ou corrida em natureza -->
+<!-- Sugestão Unsplash: buscar "outdoor exercise walking nature" ou "resistance training home" -->
+<figure class="post-figure">
+  <img src="/assets/img/posts/health-habits-exercise.jpg" alt="Person exercising outdoors in nature" class="post-img">
+  <figcaption>The best exercise is the one you will actually do consistently — outdoors whenever possible.</figcaption>
+</figure>
+
 Physical exercise is one of the most well-documented interventions for health and longevity across the entire scientific literature. Regular movement improves cardiovascular function, metabolic health, mental health, immune regulation, bone density, and cognitive performance — and its benefits are independent of age, meaning it is never too late to start.
 
 Aerobic exercise has decades of evidence behind it. Activities like walking, running, cycling, swimming, and dancing improve cardiorespiratory fitness, which is consistently one of the strongest predictors of longevity in large cohort studies. Beyond the direct cardiovascular benefits, outdoor aerobic exercise adds the advantages of sun exposure, which supports vitamin D synthesis and circadian rhythm regulation, and of contact with natural environments, which independently reduces stress markers.
@@ -104,6 +135,13 @@ A practical note on safety: regardless of the modality you choose, progression s
 ---
 
 ## 4. Manage Chronic Stress
+
+<!-- STRESS IMAGE: pessoa meditando ou em natureza, calma e paz -->
+<!-- Sugestão Unsplash: buscar "meditation nature calm" ou "mindfulness outdoor peaceful" -->
+<figure class="post-figure">
+  <img src="/assets/img/posts/health-habits-stress.jpg" alt="Person meditating peacefully in nature" class="post-img">
+  <figcaption>Even 10 minutes of intentional breathing daily can measurably shift your nervous system toward a calmer state.</figcaption>
+</figure>
 
 Acute stress is normal and even useful. When you exercise, fast, take a cold shower, or face a meaningful deadline, your body activates the same stress response in a controlled and temporary way. Cortisol and adrenaline rise briefly, focus sharpens, energy is mobilized, and the body adapts. Scientists call this positive form of stress "eustress," and it is one of the primary mechanisms behind the benefits of exercise, intermittent fasting, and deliberate cold exposure.
 
@@ -134,6 +172,13 @@ Studies consistently show that individuals with a strong sense of purpose have s
 ---
 
 ## 5. Get Regular Health Screenings
+
+<!-- SCREENING IMAGE: exame de sangue ou consulta médica preventiva, tom profissional -->
+<!-- Sugestão Unsplash: buscar "blood test medical checkup" ou "doctor preventive care" -->
+<figure class="post-figure">
+  <img src="/assets/img/posts/health-habits-screening.jpg" alt="Preventive health screening and blood work" class="post-img">
+  <figcaption>Knowing your numbers is one of the most powerful preventive health decisions you can make.</figcaption>
+</figure>
 
 Prevention is one of the most powerful tools in medicine — and one of the most underused. Many of the leading causes of death and disability develop silently for years before producing any symptoms. By the time something feels wrong, the window for easy intervention has often already closed.
 
