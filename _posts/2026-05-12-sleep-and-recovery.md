@@ -43,7 +43,7 @@ During **REM sleep**, emotional memories are processed, motor learning is consol
 
 One of the most significant recent discoveries is the role of the **glymphatic system** during sleep. This network of channels surrounds blood vessels in the brain and is primarily active during sleep. It flushes metabolic waste products, including amyloid-beta and tau proteins that accumulate during waking hours and are strongly associated with Alzheimer's disease. This discovery fundamentally changed how neuroscientists think about sleep's role in long-term brain health.
 
-As someone with published research in cellular biology, I find this discovery particularly compelling. The idea that the brain has its own dedicated waste-clearance system that only activates during sleep reframes everything we thought we knew about why we need to sleep at all. It is not simply rest. It is maintenance that cannot happen any other way.
+As a biomedical scientist passionate about the engineering of nature, I find this discovery particularly compelling. The idea that the brain has its own dedicated waste-clearance system that only activates during sleep reframes everything we thought we knew about why we need to sleep at all. It is not simply rest. It is maintenance that cannot happen any other way.
 
 <figure class="post-figure">
   <img src="/assets/img/posts/sleep-recovery-brain.webp" alt="Illuminated human brain illustration representing the glymphatic system active during sleep" class="post-img">
