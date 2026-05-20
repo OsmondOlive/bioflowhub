@@ -66,7 +66,7 @@ Balmorex Pro is a topical cream formulated to provide localized support for join
 Arnica montana has one of the strongest evidence bases among topical agents for pain and inflammation. Multiple clinical trials support its use for reducing muscle soreness, bruising, and post-exercise discomfort when applied topically. It is one of the few botanical ingredients with enough rigorous human trial data to be taken seriously in clinical settings.
 
 **References:**
-- Adkison JD, et al. (2010). The effect of topical arnica on muscle pain. *Alternative Therapies in Health and Medicine*, 16(2), 72-78. [PubMed](https://pubmed.ncbi.nlm.nih.gov/20232616/){:target="_blank" rel="noopener"}
+- Adkison JD, et al. (2010). The effect of topical arnica on muscle pain. *Annals of Pharmacotherapy*, 44(10), 1579-1584. [PubMed](https://pubmed.ncbi.nlm.nih.gov/20807867/){:target="_blank" rel="noopener"}
 
 **Hemp Seed Oil**
 

@@ -118,7 +118,7 @@ This does not mean stress is harmless. It means that how you relate to stress ma
 - Chu B, et al. (2024). Physiology, Stress Reaction. *StatPearls*, NCBI Bookshelf. [PubMed](https://www.ncbi.nlm.nih.gov/books/NBK541120/){:target="_blank" rel="noopener"}
 - Krause N, Pargament KI. (2018). Reading the Bible, Stressful Life Events, and Hope: Assessing an Overlooked Coping Resource. *Journal of Religion and Health*, 57(4), 1428-1439. [PubMed](https://pubmed.ncbi.nlm.nih.gov/29594651/){:target="_blank" rel="noopener"}
 - Li H, Xia N. (2020). The role of oxidative stress in cardiovascular disease caused by social isolation and loneliness. *Redox Biology*, 37, 101585. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32709420/){:target="_blank" rel="noopener"}
-- Pedersen J, et al. (2022). Effects of limiting digital screen use on well-being, mood, and biomarkers of stress in adults. *npj Mental Health Research*, 1, 14. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36605769/){:target="_blank" rel="noopener"}
+- Pedersen J, et al. (2022). Effects of limiting digital screen use on well-being, mood, and biomarkers of stress in adults. *npj Mental Health Research*, 1, 14. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37521498/){:target="_blank" rel="noopener"}
 
 ---
 

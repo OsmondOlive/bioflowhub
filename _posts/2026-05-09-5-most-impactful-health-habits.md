@@ -162,7 +162,7 @@ Studies consistently show that individuals with a strong sense of purpose have s
 **References:**
 - Chu B, et al. (2024). Physiology, Stress Reaction. *StatPearls*, NCBI Bookshelf. [PubMed](https://www.ncbi.nlm.nih.gov/books/NBK541120/){:target="_blank" rel="noopener"}
 - Kivimäki M, Steptoe A. (2018). Effects of stress on the development and progression of cardiovascular disease. *Nature Reviews Cardiology*, 15(4), 215-229. [PubMed](https://pubmed.ncbi.nlm.nih.gov/29213140/){:target="_blank" rel="noopener"}
-- Gerin W, et al. (2006). The role of angry rumination and distraction in blood pressure recovery from emotional arousal. *Psychosomatic Medicine*, 68(1), 64-72. [PubMed](https://pubmed.ncbi.nlm.nih.gov/16449414/){:target="_blank" rel="noopener"}
+- Gerin W, et al. (2006). The role of angry rumination and distraction in blood pressure recovery from emotional arousal. *Psychosomatic Medicine*, 68(1), 64-72. [PubMed](https://pubmed.ncbi.nlm.nih.gov/16449413/){:target="_blank" rel="noopener"}
 - Alimujiang A, et al. (2019). Association between life purpose and mortality among US adults older than 50 years. *JAMA Network Open*, 2(5), e194270. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31125099/){:target="_blank" rel="noopener"}
 - Hill PL, Turiano NA. (2014). Purpose in life as a predictor of mortality across adulthood. *Psychological Science*, 25(7), 1482-1486. [PubMed](https://pubmed.ncbi.nlm.nih.gov/24815612/){:target="_blank" rel="noopener"}
 
