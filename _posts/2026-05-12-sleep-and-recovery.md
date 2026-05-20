@@ -5,6 +5,7 @@ subtitle: "Why sleep is not a luxury but a biological necessity with profound co
 tags: [sleep, recovery, health, circadian-rhythm, sleep-deprivation, habits]
 comments: true
 description: "Why sleep is the most impactful health intervention available — the biology of sleep architecture, the glymphatic system, circadian rhythms, and evidence-based habits for better sleep quality."
+thumbnail-img: /assets/img/posts/sleep-recovery-hero.webp
 ---
 
 <style>
@@ -14,8 +15,16 @@ description: "Why sleep is the most impactful health intervention available — 
 .bio-btn-secondary:hover { background:#2e7d5e;color:#fff !important;text-decoration:none !important; }
 .bio-box { background:linear-gradient(135deg,#f0f9f4,#e8f5e9);border-left:4px solid #2e7d5e;border-radius:0 10px 10px 0;padding:1rem 1.2rem;margin:1.5rem 0; }
 .bio-box p { margin:0 0 0.7rem;font-size:0.92rem;color:#1a2e2a; }
+.post-img { max-width:100%; border-radius:8px; display:block; margin: 0 auto; }
+.post-figure { text-align:center; margin: 2rem 0; }
+.post-figure figcaption { font-size:0.82rem; color:#666; margin-top:0.5rem; font-style:italic; }
 @keyframes bioPulse { 0% { box-shadow:0 4px 14px rgba(46,125,94,0.3),0 0 0 0 rgba(82,183,136,0.4); } 70% { box-shadow:0 4px 14px rgba(46,125,94,0.3),0 0 0 10px rgba(82,183,136,0); } 100% { box-shadow:0 4px 14px rgba(46,125,94,0.3),0 0 0 0 rgba(82,183,136,0); } }
 </style>
+
+<figure class="post-figure">
+  <img src="/assets/img/posts/sleep-recovery-hero.webp" alt="Person sleeping deeply in a dark bedroom with warm ambient light" class="post-img">
+  <figcaption>Sleep is not a passive state — it is one of the most active and consequential biological processes your body performs.</figcaption>
+</figure>
 
 If you had to choose a single intervention to improve your health, performance, mood, and longevity all at once, sleep would be the strongest candidate the science has to offer. Yet it remains the most consistently sacrificed variable in modern life, treated as something you do when there is nothing more important to do.
 
@@ -32,6 +41,11 @@ During **slow-wave sleep**, the brain consolidates declarative memories, the bod
 During **REM sleep**, emotional memories are processed, motor learning is consolidated, and the brain appears to make creative connections between previously unrelated information.
 
 One of the most significant recent discoveries is the role of the **glymphatic system** during sleep. This network of channels surrounds blood vessels in the brain and is primarily active during sleep. It flushes metabolic waste products, including amyloid-beta and tau proteins that accumulate during waking hours and are strongly associated with Alzheimer's disease. This discovery fundamentally changed how neuroscientists think about sleep's role in long-term brain health.
+
+<figure class="post-figure">
+  <img src="/assets/img/posts/sleep-recovery-brain.webp" alt="Illuminated human brain illustration representing the glymphatic system active during sleep" class="post-img">
+  <figcaption>The glymphatic system — active primarily during sleep — flushes toxic waste products from the brain that accumulate throughout the day.</figcaption>
+</figure>
 
 If you are having trouble falling asleep, consider calming practices before bed. Scientific evidence consistently shows that mindfulness meditation reduces cortisol levels and anxiety, two of the most common drivers of insomnia. For those with a spiritual practice, prayer can serve a similar purpose. The state of calm and surrender it promotes shares many of the same physiological mechanisms as meditation. If these approaches do not resolve the problem, consult a qualified healthcare professional.
 
@@ -78,6 +92,11 @@ Light is the most powerful regulator of the circadian clock. Exposure to bright 
 
 Sleep pressure, the other regulatory system, is driven by the accumulation of adenosine in the brain during waking hours. Caffeine works by blocking adenosine receptors, which is why it reduces sleepiness but does not eliminate the underlying sleep pressure that has been building throughout the day.
 
+<figure class="post-figure">
+  <img src="/assets/img/posts/sleep-recovery-morning.webp" alt="Morning sunlight entering through a window, representing the circadian rhythm anchor" class="post-img">
+  <figcaption>Natural light in the morning is the most powerful signal for anchoring your circadian rhythm — even 10 minutes of exposure makes a measurable difference.</figcaption>
+</figure>
+
 **References:**
 - Czeisler CA, et al. (1999). Stability, precision, and near-24-hour period of the human circadian pacemaker. *Science*, 284(5423), 2177-2181. [PubMed](https://pubmed.ncbi.nlm.nih.gov/10381883/){:target="_blank" rel="noopener"}
 
@@ -94,6 +113,11 @@ Sleep pressure, the other regulatory system, is driven by the accumulation of ad
 **Limit caffeine after early afternoon.** Caffeine has a half-life of approximately 5 to 7 hours in most adults. A coffee consumed at 3pm still has significant effects at 10pm.
 
 **Avoid alcohol as a sleep aid.** Although alcohol can accelerate sleep onset, it significantly disrupts sleep architecture, suppressing REM sleep and causing fragmented sleep in the second half of the night. The net effect on sleep quality is negative.
+
+<figure class="post-figure">
+  <img src="/assets/img/posts/sleep-recovery-habits.webp" alt="Person reading a physical book in bed with warm lamp light — a healthy wind-down routine before sleep" class="post-img">
+  <figcaption>A 30 to 60 minute wind-down routine — reading, dim lighting, no screens — consistently improves sleep onset and overall sleep quality.</figcaption>
+</figure>
 
 **References:**
 - Irish LA, et al. (2015). The role of sleep hygiene in promoting public health: a review of empirical evidence. *Sleep Medicine Reviews*, 22, 23-36. [PubMed](https://pubmed.ncbi.nlm.nih.gov/25454674/){:target="_blank" rel="noopener"}
