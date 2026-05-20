@@ -116,10 +116,9 @@ This does not mean stress is harmless. It means that how you relate to stress ma
 **References:**
 - Hofmann SG, et al. (2010). The effect of mindfulness-based therapy on anxiety and depression: a meta-analytic review. *Journal of Consulting and Clinical Psychology*, 78(2), 169-183. [PubMed](https://pubmed.ncbi.nlm.nih.gov/20350028/){:target="_blank" rel="noopener"}
 - Chu B, et al. (2024). Physiology, Stress Reaction. *StatPearls*, NCBI Bookshelf. [PubMed](https://www.ncbi.nlm.nih.gov/books/NBK541120/){:target="_blank" rel="noopener"}
-- Masters KS. (2021). Scripture reflection and cardiovascular stress reactivity. *Psychology of Religion and Spirituality*. [PubMed](https://pubmed.ncbi.nlm.nih.gov/29594651/){:target="_blank" rel="noopener"}
+- Krause N, Pargament KI. (2018). Reading the Bible, Stressful Life Events, and Hope: Assessing an Overlooked Coping Resource. *Journal of Religion and Health*, 57(4), 1428-1439. [PubMed](https://pubmed.ncbi.nlm.nih.gov/29594651/){:target="_blank" rel="noopener"}
 - Li H, Xia N. (2020). The role of oxidative stress in cardiovascular disease caused by social isolation and loneliness. *Redox Biology*, 37, 101585. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32709420/){:target="_blank" rel="noopener"}
-- Lanham-New SA, et al. (2011). Vitamin D and sunlight exposure. *Proceedings of the Nutrition Society*, 70(2), 187-195. [PubMed](https://pubmed.ncbi.nlm.nih.gov/21348959/){:target="_blank" rel="noopener"}
-- Mather A, et al. (2022). Effects of limiting digital screen use on well-being, mood, and biomarkers of stress in adults. *npj Mental Health Research*, 1, 10. [PubMed](https://www.nature.com/articles/s44184-022-00015-6){:target="_blank" rel="noopener"}
+- Pedersen J, et al. (2022). Effects of limiting digital screen use on well-being, mood, and biomarkers of stress in adults. *npj Mental Health Research*, 1, 14. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36605769/){:target="_blank" rel="noopener"}
 
 ---
 
