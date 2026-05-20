@@ -23,7 +23,7 @@ thumbnail-img: /assets/img/posts/sleep-recovery-hero.webp
 
 <figure class="post-figure">
   <img src="/assets/img/posts/sleep-recovery-hero.webp" alt="Person sleeping deeply in a dark bedroom with warm ambient light" class="post-img">
-  <figcaption>Sleep is not a passive state — it is one of the most active and consequential biological processes your body performs.</figcaption>
+  <figcaption>Sleep is not a passive state. It is one of the most active and consequential biological processes your body performs.</figcaption>
 </figure>
 
 If you had to choose a single intervention to improve your health, performance, mood, and longevity all at once, sleep would be the strongest candidate the science has to offer. Yet it remains the most consistently sacrificed variable in modern life, treated as something you do when there is nothing more important to do.
@@ -44,7 +44,7 @@ One of the most significant recent discoveries is the role of the **glymphatic s
 
 <figure class="post-figure">
   <img src="/assets/img/posts/sleep-recovery-brain.webp" alt="Illuminated human brain illustration representing the glymphatic system active during sleep" class="post-img">
-  <figcaption>The glymphatic system — active primarily during sleep — flushes toxic waste products from the brain that accumulate throughout the day.</figcaption>
+  <figcaption>The glymphatic system is active primarily during sleep. It flushes toxic waste products from the brain that accumulate throughout the day.</figcaption>
 </figure>
 
 If you are having trouble falling asleep, consider calming practices before bed. Scientific evidence consistently shows that mindfulness meditation reduces cortisol levels and anxiety, two of the most common drivers of insomnia. For those with a spiritual practice, prayer can serve a similar purpose. The state of calm and surrender it promotes shares many of the same physiological mechanisms as meditation. If these approaches do not resolve the problem, consult a qualified healthcare professional.
@@ -94,7 +94,7 @@ Sleep pressure, the other regulatory system, is driven by the accumulation of ad
 
 <figure class="post-figure">
   <img src="/assets/img/posts/sleep-recovery-morning.webp" alt="Morning sunlight entering through a window, representing the circadian rhythm anchor" class="post-img">
-  <figcaption>Natural light in the morning is the most powerful signal for anchoring your circadian rhythm — even 10 minutes of exposure makes a measurable difference.</figcaption>
+  <figcaption>Natural light in the morning is the most powerful signal for anchoring your circadian rhythm. Even 10 minutes of exposure makes a measurable difference.</figcaption>
 </figure>
 
 **References:**
@@ -116,7 +116,7 @@ Sleep pressure, the other regulatory system, is driven by the accumulation of ad
 
 <figure class="post-figure">
   <img src="/assets/img/posts/sleep-recovery-habits.webp" alt="Person reading a physical book in bed with warm lamp light — a healthy wind-down routine before sleep" class="post-img">
-  <figcaption>A 30 to 60 minute wind-down routine — reading, dim lighting, no screens — consistently improves sleep onset and overall sleep quality.</figcaption>
+  <figcaption>A 30 to 60 minute wind-down routine, reading, dim lighting, no screens, consistently improves sleep onset and overall sleep quality.</figcaption>
 </figure>
 
 **References:**
