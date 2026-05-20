@@ -152,4 +152,64 @@
   <!-- Google AdSense -->
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2249073271563625" crossorigin="anonymous"></script>
 
+  <!-- Schema Markup JSON-LD -->
+  {% if page.id %}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "{{ page.title | strip_html | xml_escape }}",
+    "description": "{{ description | strip_html | xml_escape }}",
+    "datePublished": "{{ page.date | date_to_xmlschema }}",
+    "dateModified": "{{ page.date | date_to_xmlschema }}",
+    "author": {
+      "@type": "Person",
+      "name": "Leonardo Olivieri Carvalho",
+      "jobTitle": "Biomedical Scientist",
+      "url": "https://bioflowhub.com/aboutme/",
+      "sameAs": [
+        "https://www.linkedin.com/in/leonardo-carvalho-8a960728",
+        "https://onlinelibrary.wiley.com/doi/10.1002/jcb.25124"
+      ]
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "BioFlowHub",
+      "url": "https://bioflowhub.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://bioflowhub.com/assets/img/bioflowhub-logo.png"
+      }
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "{{ page.url | absolute_url }}"
+    }{% if img != "" %},
+    "image": {
+      "@type": "ImageObject",
+      "url": "{{ img | absolute_url }}"
+    }{% endif %}
+  }
+  </script>
+  {% else %}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "BioFlowHub",
+    "url": "https://bioflowhub.com",
+    "description": "Evidence-based health insights by a biomedical scientist",
+    "author": {
+      "@type": "Person",
+      "name": "Leonardo Olivieri Carvalho",
+      "jobTitle": "Biomedical Scientist",
+      "sameAs": [
+        "https://www.linkedin.com/in/leonardo-carvalho-8a960728",
+        "https://onlinelibrary.wiley.com/doi/10.1002/jcb.25124"
+      ]
+    }
+  }
+  </script>
+  {% endif %}
+
 </head>
