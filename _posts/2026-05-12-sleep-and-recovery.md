@@ -4,6 +4,7 @@ title: "Sleep and Recovery: The Most Underrated Health Intervention Available"
 subtitle: "Why sleep is not a luxury but a biological necessity with profound consequences for your health"
 tags: [sleep, recovery, health, circadian-rhythm, sleep-deprivation, habits]
 comments: true
+description: "Why sleep is the most impactful health intervention available — the biology of sleep architecture, the glymphatic system, circadian rhythms, and evidence-based habits for better sleep quality."
 ---
 
 <style>

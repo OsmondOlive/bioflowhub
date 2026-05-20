@@ -4,6 +4,7 @@ title: "How to Support Your Immune System: What the Science Actually Says"
 subtitle: "Separating evidence from marketing — what genuinely strengthens your immune defenses"
 tags: [immunity, health, inflammation, nutrition, evidence-based]
 comments: true
+description: "How the immune system actually works, what genuinely supports immune function, and what the evidence does not support — written by a published biomedical scientist."
 ---
 
 <style>

@@ -4,6 +4,7 @@ title: "Stretching and Mobility: What the Science Says About Flexibility and Mov
 subtitle: "Beyond touching your toes — why mobility matters for health, longevity, and pain prevention"
 tags: [stretching, mobility, flexibility, fitness, movement, evidence-based]
 comments: true
+description: "What the research says about flexibility and mobility — when static stretching helps, why mobility declines, and how movement quality predicts longevity."
 ---
 
 <style>

@@ -4,6 +4,7 @@ title: "Home Workouts: How to Build Real Fitness Without a Gym"
 subtitle: "Equipment-free training backed by science — practical, effective, and sustainable"
 tags: [home-workouts, fitness, exercise, bodyweight, habits, evidence-based]
 comments: true
+description: "How to build real fitness without a gym — evidence-based bodyweight training, progressive overload at home, and the minimal equipment worth owning."
 ---
 
 <style>

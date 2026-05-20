@@ -4,6 +4,7 @@ title: "Exercise Basics: What You Actually Need to Know to Get Started"
 subtitle: "Cutting through the confusion — evidence-based principles for building a sustainable exercise habit"
 tags: [exercise, fitness, health, movement, habits, evidence-based]
 comments: true
+description: "Evidence-based principles for starting and sustaining an exercise habit — aerobic training, resistance training, and why consistency matters more than intensity for long-term health."
 ---
 
 <style>

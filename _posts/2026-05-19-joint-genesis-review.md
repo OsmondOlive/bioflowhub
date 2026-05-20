@@ -4,6 +4,7 @@ title: "Joint Genesis Review: Can a Supplement Actually Rebuild Joint Health?"
 subtitle: "A biomedical scientist examines the ingredients, the claims, and what the research actually supports"
 tags: [joint health, supplement review, inflammation, cartilage, affiliate]
 comments: true
+description: "A biomedical scientist reviews Joint Genesis — examining the evidence for hyaluronic acid, Boswellia, Pycnogenol, and ginger for joint health and cartilage support."
 permalink: /2026-05-19-joint-genesis-review/
 ---
 
