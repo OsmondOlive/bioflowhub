@@ -10,6 +10,8 @@
 
 title: BioFlowHub
 author: Leonardo Olivieri Carvalho
+url: "https://bioflowhub.com"
+baseurl: ""
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -158,3 +160,4 @@ exclude:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-seo-tag

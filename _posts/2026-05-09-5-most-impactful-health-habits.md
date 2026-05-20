@@ -4,7 +4,7 @@ title: "The 5 Most Impactful Health Habits Backed by Science Community"
 subtitle: "Reach big results with small changes: what the research actually supports"
 tags: [health, habits, sleep, nutrition, fitness, stress, prevention]
 comments: true
-thumbnail-img: /assets/img/posts/health-habits-hero.webp
+thumbnail-img: https://bioflowhub.com/assets/img/posts/health-habits-hero.webp
 ---
 
 <style>
