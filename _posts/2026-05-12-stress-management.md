@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Stress Management: Understanding Your Body's Response and How to Work With It"
-subtitle: "Chronic stress is one of the most damaging forces in modern health — and one of the most manageable"
+subtitle: "Chronic stress is one of the most damaging forces in modern health, and one of the most manageable"
 tags: [stress, cortisol, mental-health, nervous-system, habits, evidence-based]
 comments: true
 description: "What chronic stress does to your cardiovascular system, brain, immune function, and metabolism — and which stress management interventions have the strongest scientific evidence."
@@ -69,6 +69,7 @@ Science has increasingly confirmed something many traditions have long understoo
 **References:**
 - Kivimäki M, Steptoe A. (2018). Effects of stress on the development and progression of cardiovascular disease. *Nature Reviews Cardiology*, 15(4), 215-229. [PubMed](https://pubmed.ncbi.nlm.nih.gov/29213140/){:target="_blank" rel="noopener"}
 - Epel ES, et al. (2004). Accelerated telomere shortening in response to life stress. *PNAS*, 101(49), 17312-17315. [PubMed](https://pubmed.ncbi.nlm.nih.gov/15574496/){:target="_blank" rel="noopener"}
+- Gerin W, et al. (2006). The role of angry rumination and distraction in blood pressure recovery from emotional arousal. *Psychosomatic Medicine*, 68(1), 64-72. [PubMed](https://pubmed.ncbi.nlm.nih.gov/16449413/){:target="_blank" rel="noopener"}
 - Alimujiang A, et al. (2019). Association between life purpose and mortality among US adults older than 50 years. *JAMA Network Open*, 2(5), e194270. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31125099/){:target="_blank" rel="noopener"}
 
 <div class="bio-box">

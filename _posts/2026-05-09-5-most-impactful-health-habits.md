@@ -5,7 +5,7 @@ subtitle: "Reach big results with small changes: what the research actually supp
 tags: [health, habits, sleep, nutrition, fitness, stress, prevention]
 comments: true
 description: "Five evidence-based health habits with the strongest scientific support for longevity — written by a biomedical scientist with peer-reviewed research published in the Wiley Journal of Cellular Biochemistry."
-thumbnail-img: https://bioflowhub.com/assets/img/posts/health-habits-hero.webp
+thumbnail-img: /assets/img/posts/health-habits-hero.webp
 ---
 
 <style>
