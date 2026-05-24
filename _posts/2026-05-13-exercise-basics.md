@@ -18,6 +18,11 @@ thumbnail-img: /assets/img/posts/exercise-basics-hero.webp
 @keyframes bioPulse { 0% { box-shadow:0 4px 14px rgba(46,125,94,0.3),0 0 0 0 rgba(82,183,136,0.4); } 70% { box-shadow:0 4px 14px rgba(46,125,94,0.3),0 0 0 10px rgba(82,183,136,0); } 100% { box-shadow:0 4px 14px rgba(46,125,94,0.3),0 0 0 0 rgba(82,183,136,0); } }
 </style>
 
+<figure class="post-figure">
+  <img src="/assets/img/posts/exercise-basics-hero.webp" alt="A person running on a tree-lined path in golden morning light" class="post-img">
+  <figcaption>Cardiorespiratory fitness is one of the strongest predictors of longevity — and it is highly modifiable.</figcaption>
+</figure>
+
 The fitness industry is one of the most effective confusion machines ever created. Contradictory advice, extreme programs, and the constant pressure to do more, faster, and harder drive many people away from exercise entirely before they ever find a sustainable rhythm.
 
 The science of exercise is actually much simpler than the industry suggests. This post covers the fundamentals: what the research says about how much exercise you need, what types matter most, and how to build a habit that lasts.

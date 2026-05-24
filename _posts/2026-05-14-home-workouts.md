@@ -18,6 +18,11 @@ thumbnail-img: /assets/img/posts/home-workouts-hero.webp
 @keyframes bioPulse { 0% { box-shadow:0 4px 14px rgba(46,125,94,0.3),0 0 0 0 rgba(82,183,136,0.4); } 70% { box-shadow:0 4px 14px rgba(46,125,94,0.3),0 0 0 10px rgba(82,183,136,0); } 100% { box-shadow:0 4px 14px rgba(46,125,94,0.3),0 0 0 0 rgba(82,183,136,0); } }
 </style>
 
+<figure class="post-figure">
+  <img src="/assets/img/posts/home-workouts-hero.webp" alt="Two people performing push-ups on yoga mats in a bright living room" class="post-img">
+  <figcaption>The gym is a convenient tool, not a prerequisite — your bodyweight and consistency are enough to build real fitness.</figcaption>
+</figure>
+
 The gym is a convenient tool, not a prerequisite. The human body was built to move, and it carries everything needed for an effective workout wherever you go: your own bodyweight, gravity, and the capacity to generate force against resistance.
 
 This post covers what the research says about home-based and equipment-free training, and how to build a genuinely effective workout practice without a gym membership.

@@ -16,6 +16,11 @@ thumbnail-img: /assets/img/posts/gut-health-hero.webp
 @keyframes bioPulse { 0% { box-shadow:0 4px 14px rgba(46,125,94,0.3),0 0 0 0 rgba(82,183,136,0.4); } 70% { box-shadow:0 4px 14px rgba(46,125,94,0.3),0 0 0 10px rgba(82,183,136,0); } 100% { box-shadow:0 4px 14px rgba(46,125,94,0.3),0 0 0 0 rgba(82,183,136,0); } }
 </style>
 
+<figure class="post-figure">
+  <img src="/assets/img/posts/gut-health-hero.webp" alt="A diverse spread of fermented foods and fiber-rich whole foods" class="post-img">
+  <figcaption>Diversity on your plate translates to diversity in your microbiome — one of the most robust findings in gut health research.</figcaption>
+</figure>
+
 There are approximately 38 trillion microorganisms living in your gut right now. Bacteria, fungi, viruses, and archaea, collectively known as the gut microbiome, outnumber your own human cells and carry roughly 150 times more genes than your entire genome.
 
 For most of medical history, these microorganisms were considered passengers at best and threats at worst. The science of the past two decades has fundamentally overturned that view. We now understand that the gut microbiome is not just tolerated by the body. It is actively essential to human health in ways that extend far beyond digestion.

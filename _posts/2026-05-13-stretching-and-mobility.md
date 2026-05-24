@@ -18,6 +18,11 @@ thumbnail-img: /assets/img/posts/stretching-hero.webp
 @keyframes bioPulse { 0% { box-shadow:0 4px 14px rgba(46,125,94,0.3),0 0 0 0 rgba(82,183,136,0.4); } 70% { box-shadow:0 4px 14px rgba(46,125,94,0.3),0 0 0 10px rgba(82,183,136,0); } 100% { box-shadow:0 4px 14px rgba(46,125,94,0.3),0 0 0 0 rgba(82,183,136,0); } }
 </style>
 
+<figure class="post-figure">
+  <img src="/assets/img/posts/stretching-hero.webp" alt="A person performing a seated forward stretch in a calm well-lit room" class="post-img">
+  <figcaption>Consistent daily mobility work produces better long-term results than occasional aggressive stretching.</figcaption>
+</figure>
+
 Stretching is one of the most recommended and least understood interventions in health and fitness. Most people think of it as something you do before exercise to prevent injury, or something you should do but never quite get around to. The reality, as with most things in health, is considerably more nuanced.
 
 This post covers what flexibility and mobility actually are, what the research says about their effects on health and longevity, and what practices have the strongest evidence behind them.

@@ -18,6 +18,11 @@ thumbnail-img: /assets/img/posts/nutrition-hero.webp
 @keyframes bioPulse { 0% { box-shadow:0 4px 14px rgba(46,125,94,0.3),0 0 0 0 rgba(82,183,136,0.4); } 70% { box-shadow:0 4px 14px rgba(46,125,94,0.3),0 0 0 10px rgba(82,183,136,0); } 100% { box-shadow:0 4px 14px rgba(46,125,94,0.3),0 0 0 0 rgba(82,183,136,0); } }
 </style>
 
+<figure class="post-figure">
+  <img src="/assets/img/posts/nutrition-hero.webp" alt="A colorful array of whole fruits, vegetables, and plant foods" class="post-img">
+  <figcaption>Food is information — the quality of what you eat shapes your biology at a cellular level.</figcaption>
+</figure>
+
 Nutrition science is one of the most misrepresented fields in public health. Unlike pharmaceutical trials, where a single drug can be tested against a placebo, dietary studies involve thousands of variables interacting simultaneously over years or decades. This complexity has produced a literature full of contradictory findings, headline-generating studies that fail to replicate, and an industry of advocates using legitimate scientific uncertainty to promote almost any dietary philosophy imaginable.
 
 The good news is that beneath all the noise, a core of genuinely well-established findings exists. This post covers what is actually supported by strong evidence, what remains contested, and what practical conclusions you can draw.

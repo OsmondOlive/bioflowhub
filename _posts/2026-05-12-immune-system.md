@@ -18,6 +18,11 @@ thumbnail-img: /assets/img/posts/immune-system-hero.webp
 @keyframes bioPulse { 0% { box-shadow:0 4px 14px rgba(46,125,94,0.3),0 0 0 0 rgba(82,183,136,0.4); } 70% { box-shadow:0 4px 14px rgba(46,125,94,0.3),0 0 0 10px rgba(82,183,136,0); } 100% { box-shadow:0 4px 14px rgba(46,125,94,0.3),0 0 0 0 rgba(82,183,136,0); } }
 </style>
 
+<figure class="post-figure">
+  <img src="/assets/img/posts/immune-system-hero.webp" alt="A person eating a healthy meal rich in vegetables and fruits" class="post-img">
+  <figcaption>Supporting your immune system starts with the fundamentals — sleep, nutrition, exercise, and stress management.</figcaption>
+</figure>
+
 "Boost your immune system" is one of the most common phrases in wellness marketing, and one of the most biologically misleading. Your immune system is not an engine that can simply be turned up. It is a precisely calibrated network of cells, proteins, and signaling molecules that must remain in a state of dynamic balance.
 
 An immune system that is too active causes autoimmune disease. One that is too suppressed leaves you vulnerable to infection. The goal is not "boosting." It is supporting optimal function and reducing the chronic inflammation that undermines it.
