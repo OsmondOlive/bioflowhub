@@ -5,6 +5,7 @@ subtitle: "A biomedical scientist examines the ingredients, the claims, and what
 tags: [joint-health, supplement-review, inflammation, cartilage, affiliate]
 comments: true
 description: "A biomedical scientist reviews Joint Genesis — examining the evidence for hyaluronic acid, Boswellia, Pycnogenol, and ginger for joint health and cartilage support."
+thumbnail-img: /assets/img/posts/joint-genesis-hero.webp
 permalink: /2026-05-19-joint-genesis-review/
 ---
 

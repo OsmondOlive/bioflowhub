@@ -5,6 +5,7 @@ subtitle: "A biomedical scientist looks at the ingredients, the claims, and the 
 tags: [joint-health, pain-relief, muscles, back-pain, supplement-review, affiliate]
 comments: true
 description: "A biomedical scientist examines Balmorex Pro — ingredients, clinical evidence, and what topical creams can and cannot do for joint and muscle pain relief."
+thumbnail-img: /assets/img/posts/balmorex-pro-hero.webp
 ---
 
 <style>

@@ -5,6 +5,7 @@ subtitle: "A biomedical scientist looks at cervical spine alignment, sleep archi
 tags: [sleep, recovery, sleep-quality, pillow, review, affiliate]
 comments: true
 description: "Can an ergonomic pillow improve sleep quality? A biomedical scientist examines cervical spine alignment during sleep, sleep architecture, and what the evidence says about pillow design."
+thumbnail-img: /assets/img/posts/derila-pillow-hero.webp
 permalink: /2026-05-17-derila-pillow-review/
 ---
 
