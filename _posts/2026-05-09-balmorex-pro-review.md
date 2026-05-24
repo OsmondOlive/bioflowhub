@@ -136,6 +136,10 @@ Critical feedback mostly centers on expectations. Some users compare it to presc
   <figcaption>Product overview video. My own ingredient analysis with peer-reviewed citations is in the section above.</figcaption>
 </figure>
 
+<div style="text-align:center; margin: 1rem 0 2rem;">
+  <a href="https://ef9897nq56z1rh08qksj26zz4n.hop.clickbank.net/?tid=landing1" target="_blank" rel="noopener" class="bio-btn">Get Balmorex Pro (Official Site) →</a>
+</div>
+
 ---
 
 ## Pricing and Guarantee
