@@ -146,7 +146,6 @@ defaults:
       path: ""
     values:
       layout: "page"
-      permalink: /:title/
 
 exclude:
   - CHANGELOG.md
