@@ -5,6 +5,7 @@ subtitle: "Cutting through nutrition confusion with evidence — what matters, w
 tags: [nutrition, diet, health, food, evidence-based, whole-foods]
 comments: true
 description: "What nutrition science actually supports — cutting through the confusion on ultra-processed foods, dietary fiber, omega-3s, and why the research is harder to interpret than headlines suggest."
+thumbnail-img: /assets/img/posts/nutrition-hero.webp
 ---
 
 <style>

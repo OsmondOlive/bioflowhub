@@ -5,6 +5,7 @@ subtitle: "Beyond touching your toes — why mobility matters for health, longev
 tags: [stretching, mobility, flexibility, fitness, movement, evidence-based]
 comments: true
 description: "What the research says about flexibility and mobility — when static stretching helps, why mobility declines, and how movement quality predicts longevity."
+thumbnail-img: /assets/img/posts/stretching-hero.webp
 ---
 
 <style>

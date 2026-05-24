@@ -5,6 +5,7 @@ subtitle: "A biomedical scientist's guide to interpreting the numbers that matte
 tags: [lab-tests, biomedical, prevention, health, evidence-based]
 comments: true
 description: "A biomedical scientist explains what your blood work actually means — CBC, metabolic panel, lipids, thyroid, vitamin D, and inflammatory markers beyond the normal/abnormal binary."
+thumbnail-img: /assets/img/posts/lab-tests-hero.webp
 ---
 
 Most people receive their lab results as a list of numbers, each next to a reference range, with little explanation of what those numbers mean in practice. Some fall neatly within range and are dismissed. Others trigger anxiety or confusion without enough context to act on them meaningfully.

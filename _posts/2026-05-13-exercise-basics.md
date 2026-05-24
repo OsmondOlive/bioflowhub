@@ -5,6 +5,7 @@ subtitle: "Cutting through the confusion — evidence-based principles for build
 tags: [exercise, fitness, health, movement, habits, evidence-based]
 comments: true
 description: "Evidence-based principles for starting and sustaining an exercise habit — aerobic training, resistance training, and why consistency matters more than intensity for long-term health."
+thumbnail-img: /assets/img/posts/exercise-basics-hero.webp
 ---
 
 <style>

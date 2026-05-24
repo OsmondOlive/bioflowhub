@@ -5,6 +5,7 @@ subtitle: "Not all health claims are equal — here is how to tell the differenc
 tags: [evidence-based, health, critical-thinking, biomedical, science]
 comments: true
 description: "How to evaluate health claims — the hierarchy of evidence, the difference between association and causation, publication bias, and how to think critically about nutrition and supplement research."
+thumbnail-img: /assets/img/posts/evidence-based-health-hero.webp
 ---
 
 We live in an era of unprecedented access to health information, and unprecedented confusion about what to do with it. Wellness influencers, supplement companies, news headlines, and well-meaning friends all confidently contradict each other, leaving most people uncertain about even basic questions.

@@ -5,6 +5,7 @@ subtitle: "Why the trillions of microorganisms living in your gut may be the mos
 tags: [gut-health, microbiome, nutrition, immunity, mental-health, evidence-based]
 comments: true
 description: "The science of the gut microbiome — what your trillions of gut bacteria actually do, how the gut-brain axis works, and what genuinely supports microbiome health."
+thumbnail-img: /assets/img/posts/gut-health-hero.webp
 ---
 
 <style>
