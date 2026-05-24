@@ -114,12 +114,21 @@ cover-img: false
 <hr class="bio-divider">
 <p class="bio-posts-title">Latest Articles</p>
 
+{% assign counter = 1 %}
 {% for post in site.posts %}
-<div style="margin-bottom:1.5rem; padding-bottom:1.5rem; border-bottom: 1px solid #e8f0ec;">
-  <a href="{{ post.url }}" style="font-size:1.05rem; font-weight:600; color:#1a2e2a; text-decoration:none;">{{ post.title }}</a>
-  <p style="font-size:0.85rem; color:#888; margin:0.2rem 0 0.4rem;">{{ post.date | date: "%B %-d, %Y" }}</p>
-  <p style="font-size:0.92rem; color:#555; margin:0; line-height:1.6;">{{ post.excerpt | strip_html | truncatewords: 30 }}</p>
+<div style="display:flex;gap:1rem;align-items:flex-start;margin-bottom:1.5rem;padding-bottom:1.5rem;border-bottom:1px solid #e8f0ec;">
+  {% if post.thumbnail-img %}
+  <a href="{{ post.url }}" style="flex-shrink:0;">
+    <img src="{{ post.thumbnail-img }}" alt="{{ post.title }}" style="width:90px;height:65px;object-fit:cover;border-radius:8px;display:block;transition:transform 0.2s ease;" onmouseover="this.style.transform='scale(1.04)'" onmouseout="this.style.transform='scale(1)'">
+  </a>
+  {% endif %}
+  <div style="flex:1;">
+    <a href="{{ post.url }}" style="font-size:1.05rem;font-weight:600;color:#1a2e2a;text-decoration:none;">{{ post.title }}</a>
+    <p style="font-size:0.85rem;color:#888;margin:0.2rem 0 0.4rem;">{{ post.date | date: "%B %-d, %Y" }}</p>
+    <p style="font-size:0.92rem;color:#555;margin:0;line-height:1.6;">{{ post.excerpt | strip_html | truncatewords: 25 }}</p>
+  </div>
 </div>
+{% assign counter = counter | plus: 1 %}
 {% endfor %}
 
 <script>

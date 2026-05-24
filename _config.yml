@@ -42,7 +42,7 @@ navbar-links:
 ################
 
 round-avatar: false
-title-img: "/assets/img/bioflowhub-logo.png"
+title-img: "/assets/img/bioflowhub-logo.svg"
 favicon: "/assets/img/favicon-32x32.png"
 
 #####################################
@@ -105,7 +105,7 @@ site-js:
 # --- Web Analytics Section --- #
 #################################
 
-google_analytics: "G-FB1TX9TM1M"
+gtag: "G-F6DJKSMT6E"
 
 ####################
 # --- Comments --- #
