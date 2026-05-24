@@ -80,7 +80,7 @@ The delivery format matters here. Topical products act locally, delivering activ
 
 <div class="ingr-block">
 <h4>Epsom Salt (Magnesium Sulfate) <span class="ev ev-mod">Moderate Evidence</span></h4>
-<p>Epsom salt provides transdermal magnesium, which plays a role in muscle relaxation and neuromuscular signaling. Magnesium is an essential cofactor in over 300 enzymatic reactions and is widely used in physical therapy for post-exercise muscle tension. A 2017 study published in <em>Nutrients</em> found measurable increases in serum magnesium after topical application over 12 weeks, supporting the plausibility of transdermal delivery. Its contribution here is primarily to muscle relaxation and comfort rather than joint inflammation directly.</p>
+<p>Epsom salt provides transdermal magnesium, which plays a role in muscle relaxation and neuromuscular signaling. Magnesium is an essential cofactor in over 300 enzymatic reactions and is widely used in physical therapy for post-exercise muscle tension. A 2017 pilot study published in <em>PLoS ONE</em> found measurable increases in serum magnesium after topical application over two weeks, supporting the plausibility of transdermal delivery. Its contribution here is primarily to muscle relaxation and comfort rather than joint inflammation directly.</p>
 </div>
 
 <div class="ingr-block">
@@ -94,15 +94,15 @@ The delivery format matters here. Topical products act locally, delivering activ
 </div>
 
 **References:**
-- Toguchi A, et al. (2023). Methylsulfonylmethane improves knee quality of life in participants with mild knee pain. *Nutrients*, 15(13), 2995. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37447321/){:target="_blank" rel="noopener"}
-- Kim LS, et al. (2006). Efficacy of methylsulfonylmethane (MSM) in osteoarthritis pain of the knee: a pilot clinical trial. *Osteoarthritis and Cartilage*, 14(3), 286-294. [PubMed](https://pubmed.ncbi.nlm.nih.gov/16309928/){:target="_blank" rel="noopener"}
-- Majeed A, et al. (2024). A standardized Boswellia serrata extract shows improvements in knee osteoarthritis within five days. *Frontiers in Pharmacology*, 15, 1428440. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39092235/){:target="_blank" rel="noopener"}
-- Dipankar DG, et al. (2025). Efficacy and safety of Boswellia serrata and Apium graveolens extract against knee osteoarthritis: a randomized, double-blind, multicenter, placebo-controlled clinical trial. *Pharmaceutical Research*. [SpringerLink](https://link.springer.com/article/10.1007/s11095-025-03818-2){:target="_blank" rel="noopener"}
-- Siddiqui MZ, et al. (2025). Therapeutic potential of Boswellia serrata in arthritis management: mechanistic insights into COX-2, 5-LOX, and NFkB modulation. [PubMed](https://pubmed.ncbi.nlm.nih.gov/40810753/){:target="_blank" rel="noopener"}
-- Abbasifard M, et al. (2025). Effect of topical hemp seed oil on knee osteoarthritis: a randomized double-blind controlled trial. *Pain Management Nursing*, 26(1), e74-e81. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39256070/){:target="_blank" rel="noopener"}
-- Perez-Cano FJ, et al. (2022). Acyclic diterpene phytol from hemp seed oil exerts anti-inflammatory activity on primary human monocytes-macrophages. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC9367727/){:target="_blank" rel="noopener"}
-- Capecchi G, et al. (2024). Effects of Arnica phytotherapeutic and homeopathic formulations on traumatic injuries and inflammatory conditions: a systematic review. *Plants*, 13(21), 3112. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39519949/){:target="_blank" rel="noopener"}
-- Kass L, et al. (2017). Effect of transdermal magnesium cream on serum and urinary magnesium levels in humans: a pilot study. *Nutrients*, 9(9), 916. [PubMed](https://pubmed.ncbi.nlm.nih.gov/28891497/){:target="_blank" rel="noopener"}
+- Toguchi A, Noguchi N, Kanno T, Yamada A. (2023). Methylsulfonylmethane improves knee quality of life in participants with mild knee pain: a randomized, double-blind, placebo-controlled trial. *Nutrients*, 15(13), 2995. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37447321/){:target="_blank" rel="noopener"}
+- Kim LS, Axelrod LJ, Howard P, Buratovich N, Waters RF. (2006). Efficacy of methylsulfonylmethane (MSM) in osteoarthritis pain of the knee: a pilot clinical trial. *Osteoarthritis and Cartilage*, 14(3), 286-294. [PubMed](https://pubmed.ncbi.nlm.nih.gov/16309928/){:target="_blank" rel="noopener"}
+- Majeed A, Majeed S, Satish G, Manjunatha R, Rabbani SN, Patil NVP, Mundkur L. (2024). A standardized Boswellia serrata extract shows improvements in knee osteoarthritis within five days: a double-blind, randomized, multi-center, placebo-controlled trial. *Frontiers in Pharmacology*, 15, 1428440. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39092235/){:target="_blank" rel="noopener"}
+- Nair S, et al. (2025). Efficacy and safety of Boswellia serrata and Apium graveolens extract against knee osteoarthritis: a randomized, double-blind, multicenter, placebo-controlled clinical trial. *Pharmaceutical Research*, 42(2), 249-269. [SpringerLink](https://link.springer.com/article/10.1007/s11095-025-03818-2){:target="_blank" rel="noopener"}
+- Mahto K, Kuwar OK, Maloo A, Kumar A, et al. (2025). Therapeutic potential of Boswellia serrata in arthritis management: mechanistic insights into COX-2, 5-LOX, and NFkB modulation. *Inflammopharmacology*, 33(9), 5085-5096. [PubMed](https://pubmed.ncbi.nlm.nih.gov/40810753/){:target="_blank" rel="noopener"}
+- Abbasifard M, Moosavi Z, Azimi M, Kamiab Z, Bazmandegan G, Madahian A, Raeiszadeh M. (2025). Effect of topical hemp seed oil on knee osteoarthritis: a randomized double-blind controlled trial. *Pain Management Nursing*, 26(1), e74-e81. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39256070/){:target="_blank" rel="noopener"}
+- Claro-Cala CM, Grao-Cruces E, Toscano R, Millan-Linares MC, Montserrat-de la Paz S, Martin ME. (2022). Acyclic diterpene phytol from hemp seed oil (Cannabis sativa L.) exerts anti-inflammatory activity on primary human monocytes-macrophages. *Foods*, 11(15), 2366. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC9367727/){:target="_blank" rel="noopener"}
+- Toma CC, Marrelli M, Puticiu M, Conforti F, Statti G. (2024). Effects of Arnica phytotherapeutic and homeopathic formulations on traumatic injuries and inflammatory conditions: a systematic review. *Plants*, 13(21), 3112. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39519949/){:target="_blank" rel="noopener"}
+- Kass L, Rosanoff A, Tanner A, Sullivan K, McAuley W, Plesset M. (2017). Effect of transdermal magnesium cream on serum and urinary magnesium levels in humans: a pilot study. *PLoS ONE*, 12(4), e0174817. [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC5389641/){:target="_blank" rel="noopener"}
 
 ---
 
