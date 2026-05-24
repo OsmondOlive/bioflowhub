@@ -14,8 +14,8 @@ cover-img: false
   position: absolute; top: 0; left: 0;
   width: 100%; height: 100%; pointer-events: none; z-index: 0;
 }
-.bio-logo-wrap { flex-shrink: 0; position: relative; z-index: 1; width: 90px; height: 90px; }
-.bio-hero-logo { width: 90px; height: 90px; object-fit: contain; transition: filter 0.5s ease; display: block; }
+.bio-logo-wrap { flex-shrink: 0; position: relative; z-index: 1; width: 160px; height: 160px; }
+.bio-hero-logo { width: 160px; height: 160px; object-fit: contain; transition: filter 0.5s ease; display: block; }
 .bio-hero-logo.energized {
   filter: drop-shadow(0 0 8px rgba(82,183,136,0.8)) drop-shadow(0 0 20px rgba(46,125,94,0.4));
 }
@@ -60,7 +60,7 @@ cover-img: false
 
 @media (max-width: 580px) {
   .bio-hero-wrap { flex-direction: column; align-items: center; gap: 1rem; min-height: unset; }
-  .bio-logo-wrap, .bio-hero-logo { width: 64px; height: 64px; }
+  .bio-logo-wrap, .bio-hero-logo { width: 110px; height: 110px; }
   #bio-energy-canvas { display: none; }
   .bio-btn-list { display: grid; grid-template-columns: 1fr 1fr; gap: 0.6rem; width: 100%; }
   .bio-btn { flex-direction: column; align-items: flex-start; padding: 0.85rem 0.9rem; gap: 0.35rem; }
@@ -75,7 +75,7 @@ cover-img: false
 <div class="bio-hero-wrap" id="bio-hero">
   <canvas id="bio-energy-canvas"></canvas>
   <div class="bio-logo-wrap" id="bio-logo-wrap">
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 220" width="90" height="90" style="display:block;" id="bio-logo" class="bio-hero-logo">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 220" width="160" height="160" style="display:block;" id="bio-logo" class="bio-hero-logo">
       <defs>
         <style>
           .idx-lb{transform-origin:62px 110px;animation:idx-br 4s ease-in-out infinite}
