@@ -83,8 +83,7 @@ Several common features of modern life are directly harmful to microbiome divers
 **Excessive alcohol consumption** disrupts the balance between beneficial and harmful bacteria and increases intestinal permeability, allowing bacterial products to enter the bloodstream and trigger systemic inflammation.
 
 **References:**
-- Liang X, FitzGerald GA. (2017). Timing the microbes: the circadian rhythm of the gut microbiome. *Journal of Biological Rhythms*, 32(6), 505-515. [PubMed](https://pubmed.ncbi.nlm.nih.gov/29224445/){:target="_blank" rel="noopener"}
-- Voigt RM, et al. (2019). Gut microbiota and circadian rhythms. *Microorganisms*, 7(2), 41. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30709031/){:target="_blank" rel="noopener"}
+- Parkar SG, Kalsbeek A, Cheeseman JF. (2019). Potential role for the gut microbiota in modulating host circadian rhythms and metabolic health. *Microorganisms*, 7(2), 41. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30709031/){:target="_blank" rel="noopener"}
 
 ---
 
