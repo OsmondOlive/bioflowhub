@@ -13,7 +13,7 @@ subtitle: Tools and products I personally researched and trust
 ## Joint, Back & Muscle Support
 
 ### Balmorex Pro
-A topical cream formulated for joint, back, and muscle support. Contains arnica extract — one of the few botanical ingredients with rigorous clinical trial data for topical pain relief. I wrote a full review explaining the ingredients and the evidence behind them.
+A topical cream formulated for joint, back, and muscle support. Contains arnica extract, one of the few botanical ingredients with rigorous clinical trial data for topical pain relief. I wrote a full review explaining the ingredients and the evidence behind them.
 
 <style>
 .rec-btn {
@@ -88,7 +88,7 @@ Blocking light completely is one of the cheapest and most effective ways to impr
 ## Oral Health & Microbiome
 
 ### ProDentim
-A probiotic supplement specifically formulated for oral health. The oral microbiome is increasingly recognized as an important factor in overall health — imbalances are linked to inflammation, cardiovascular disease, and systemic conditions beyond the mouth.
+A probiotic supplement specifically formulated for oral health. The oral microbiome is increasingly recognized as an important factor in overall health, imbalances are linked to inflammation, cardiovascular disease, and systemic conditions beyond the mouth.
 
 <a href="https://5f7d58he3809shse1bqcupxjc5.hop.clickbank.net/?&traffic_source=blog&traffic_type=organic&campaign=bioflowhub" target="_blank" rel="noopener" class="rec-btn">Get ProDentim →</a>
 <a href="/2026-05-16-prodentim-review/" class="rec-btn-secondary">Read my review</a>
@@ -98,14 +98,14 @@ A probiotic supplement specifically formulated for oral health. The oral microbi
 ## Nutrition & Supplements
 
 ### Magnesium Glycinate
-One of the most bioavailable forms of magnesium — important for sleep, muscle recovery, and stress regulation. Most people do not get enough from diet alone.
+One of the most bioavailable forms of magnesium, important for sleep, muscle recovery, and stress regulation. Most people do not get enough from diet alone.
 
 <a href="https://amzn.to/4dpMhx1" target="_blank" rel="noopener" class="rec-btn">Check price on Amazon →</a>
 
 <hr class="rec-divider">
 
 ### Vitamin D3 + K2
-An essential combination — D3 for immune function, mood, and bone health, K2 to direct calcium to bones rather than arteries. Particularly important for people with limited sun exposure.
+An essential combination, D3 for immune function, mood, and bone health, K2 to direct calcium to bones rather than arteries. Particularly important for people with limited sun exposure.
 
 <a href="https://amzn.to/3RGoX70" target="_blank" rel="noopener" class="rec-btn">Check price on Amazon →</a>
 
@@ -128,7 +128,7 @@ The #1 rated foam roller on Amazon. Essential for muscle recovery, especially if
 <hr class="rec-divider">
 
 ### Resistance Bands Set
-Versatile, portable, and inexpensive — resistance training is one of the most impactful longevity interventions available, and bands allow you to do it anywhere.
+Versatile, portable, and inexpensive, resistance training is one of the most impactful longevity interventions available, and bands allow you to do it anywhere.
 
 <a href="https://amzn.to/4uU7yq4" target="_blank" rel="noopener" class="rec-btn">Check price on Amazon →</a>
 
@@ -136,14 +136,14 @@ Versatile, portable, and inexpensive — resistance training is one of the most 
 
 ## Books I Recommend
 
-### Why We Sleep — Matthew Walker
+### Why We Sleep, Matthew Walker
 The most important book on sleep science I have read. It will permanently change how you think about rest.
 
 <a href="https://amzn.to/3PIEqD2" target="_blank" rel="noopener" class="rec-btn">View on Amazon →</a>
 
 <hr class="rec-divider">
 
-### How Not to Die — Michael Greger, M.D.
+### How Not to Die, Michael Greger, M.D.
 A dense, evidence-based guide to using nutrition to prevent and reverse the leading causes of death.
 
 <a href="https://amzn.to/4eKtgI8" target="_blank" rel="noopener" class="rec-btn">View on Amazon →</a>

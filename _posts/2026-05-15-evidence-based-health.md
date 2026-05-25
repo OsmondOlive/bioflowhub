@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Evidence-Based Health: How to Think About Health Information in a World Full of Noise"
-subtitle: "Not all health claims are equal — here is how to tell the difference"
+subtitle: "Not all health claims are equal, here is how to tell the difference"
 tags: [evidence-based, health, critical-thinking, biomedical, science]
 comments: true
-description: "How to evaluate health claims — the hierarchy of evidence, the difference between association and causation, publication bias, and how to think critically about nutrition and supplement research."
+description: "How to evaluate health claims, the hierarchy of evidence, the difference between association and causation, publication bias, and how to think critically about nutrition and supplement research."
 thumbnail-img: /assets/img/posts/evidence-based-health-hero.webp
 ---
 

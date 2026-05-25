@@ -4,7 +4,7 @@ title: "Gut Health and the Microbiome: Your Body's Hidden Ecosystem"
 subtitle: "Why the trillions of microorganisms living in your gut may be the most important factor in your overall health"
 tags: [gut-health, microbiome, nutrition, immunity, mental-health, evidence-based]
 comments: true
-description: "The science of the gut microbiome — what your trillions of gut bacteria actually do, how the gut-brain axis works, and what genuinely supports microbiome health."
+description: "The science of the gut microbiome, what your trillions of gut bacteria actually do, how the gut-brain axis works, and what genuinely supports microbiome health."
 thumbnail-img: /assets/img/posts/gut-health-hero.webp
 ---
 
@@ -18,7 +18,7 @@ thumbnail-img: /assets/img/posts/gut-health-hero.webp
 
 <figure class="post-figure">
   <img src="/assets/img/posts/gut-health-hero.webp" alt="A diverse spread of fermented foods and fiber-rich whole foods" class="post-img">
-  <figcaption>Diversity on your plate translates to diversity in your microbiome — one of the most robust findings in gut health research.</figcaption>
+  <figcaption>Diversity on your plate translates to diversity in your microbiome, one of the most robust findings in gut health research.</figcaption>
 </figure>
 
 There are approximately 38 trillion microorganisms living in your gut right now. Bacteria, fungi, viruses, and archaea, collectively known as the gut microbiome, outnumber your own human cells and carry roughly 150 times more genes than your entire genome.

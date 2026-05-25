@@ -4,7 +4,7 @@ title: "Understanding Your Lab Tests: What Your Blood Work Is Actually Telling Y
 subtitle: "A biomedical scientist's guide to interpreting the numbers that matter most for your health"
 tags: [lab-tests, biomedical, prevention, health, evidence-based]
 comments: true
-description: "A biomedical scientist explains what your blood work actually means — CBC, metabolic panel, lipids, thyroid, vitamin D, and inflammatory markers beyond the normal/abnormal binary."
+description: "A biomedical scientist explains what your blood work actually means, CBC, metabolic panel, lipids, thyroid, vitamin D, and inflammatory markers beyond the normal/abnormal binary."
 thumbnail-img: /assets/img/posts/lab-tests-hero.webp
 ---
 

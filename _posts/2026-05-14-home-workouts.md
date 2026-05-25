@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Home Workouts: How to Build Real Fitness Without a Gym"
-subtitle: "Equipment-free training backed by science — practical, effective, and sustainable"
+subtitle: "Equipment-free training backed by science, practical, effective, and sustainable"
 tags: [home-workouts, fitness, exercise, bodyweight, habits, evidence-based]
 comments: true
-description: "How to build real fitness without a gym — evidence-based bodyweight training, progressive overload at home, and the minimal equipment worth owning."
+description: "How to build real fitness without a gym, evidence-based bodyweight training, progressive overload at home, and the minimal equipment worth owning."
 thumbnail-img: /assets/img/posts/home-workouts-hero.webp
 ---
 
@@ -20,7 +20,7 @@ thumbnail-img: /assets/img/posts/home-workouts-hero.webp
 
 <figure class="post-figure">
   <img src="/assets/img/posts/home-workouts-hero.webp" alt="Two people performing push-ups on yoga mats in a bright living room" class="post-img">
-  <figcaption>The gym is a convenient tool, not a prerequisite — your bodyweight and consistency are enough to build real fitness.</figcaption>
+  <figcaption>The gym is a convenient tool, not a prerequisite, your bodyweight and consistency are enough to build real fitness.</figcaption>
 </figure>
 
 The gym is a convenient tool, not a prerequisite. The human body was built to move, and it carries everything needed for an effective workout wherever you go: your own bodyweight, gravity, and the capacity to generate force against resistance.

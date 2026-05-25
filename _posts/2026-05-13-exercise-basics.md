@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Exercise Basics: What You Actually Need to Know to Get Started"
-subtitle: "Cutting through the confusion — evidence-based principles for building a sustainable exercise habit"
+subtitle: "Cutting through the confusion, evidence-based principles for building a sustainable exercise habit"
 tags: [exercise, fitness, health, movement, habits, evidence-based]
 comments: true
-description: "Evidence-based principles for starting and sustaining an exercise habit — aerobic training, resistance training, and why consistency matters more than intensity for long-term health."
+description: "Evidence-based principles for starting and sustaining an exercise habit, aerobic training, resistance training, and why consistency matters more than intensity for long-term health."
 thumbnail-img: /assets/img/posts/exercise-basics-hero.webp
 ---
 
@@ -20,7 +20,7 @@ thumbnail-img: /assets/img/posts/exercise-basics-hero.webp
 
 <figure class="post-figure">
   <img src="/assets/img/posts/exercise-basics-hero.webp" alt="A person running on a tree-lined path in golden morning light" class="post-img">
-  <figcaption>Cardiorespiratory fitness is one of the strongest predictors of longevity — and it is highly modifiable.</figcaption>
+  <figcaption>Cardiorespiratory fitness is one of the strongest predictors of longevity, and it is highly modifiable.</figcaption>
 </figure>
 
 The fitness industry is one of the most effective confusion machines ever created. Contradictory advice, extreme programs, and the constant pressure to do more, faster, and harder drive many people away from exercise entirely before they ever find a sustainable rhythm.

@@ -4,7 +4,7 @@ title: "Joint Genesis Review: A Biomedical Scientist's Look at the Synovial Flui
 subtitle: "Does targeting hyaluronan actually work? An honest assessment of the formula, the evidence, and who this supplement is for"
 tags: [joint-health, supplement-review, hyaluronic-acid, inflammation, affiliate]
 comments: true
-description: "A science-based review of Joint Genesis by BioDynamix — covering Mobilee, Boswellia, Pycnogenol, and Ginger Root with PubMed citations, honest limitations, and who benefits most."
+description: "A science-based review of Joint Genesis by BioDynamix, covering Mobilee, Boswellia, Pycnogenol, and Ginger Root with PubMed citations, honest limitations, and who benefits most."
 thumbnail-img: /assets/img/posts/joint-genesis-hero.webp
 ---
 
@@ -69,7 +69,7 @@ Joint Genesis is a daily oral supplement by BioDynamix, formulated by Dr. Mark W
 
 <figure class="post-figure">
   <img src="/assets/img/posts/joint-genesis-1pack.webp" alt="Joint Genesis BioDynamix single bottle 30 capsules dietary supplement" class="post-img">
-  <figcaption>A single bottle contains 30 capsules — a 30-day supply. The manufacturer recommends consistent daily use for at least 60 to 90 days to evaluate meaningful results, which reflects the cumulative nature of hyaluronan restoration.</figcaption>
+  <figcaption>A single bottle contains 30 capsules, a 30-day supply. The manufacturer recommends consistent daily use for at least 60 to 90 days to evaluate meaningful results, which reflects the cumulative nature of hyaluronan restoration.</figcaption>
 </figure>
 
 ---
@@ -103,7 +103,7 @@ Joint Genesis is a daily oral supplement by BioDynamix, formulated by Dr. Mark W
 
 <div class="ingr-block">
 <h4>BioPerine (Black Pepper Extract) <span class="ev ev-good">Strong Evidence</span></h4>
-<p>BioPerine is a standardized piperine extract included as a bioavailability enhancer. It inhibits intestinal and hepatic enzymes involved in first-pass metabolism, increasing the absorption of co-administered compounds by up to 30% in published studies. Its inclusion reflects genuine formulation sophistication — without a bioavailability enhancer, a meaningful fraction of the botanical actives would pass through without adequate absorption.</p>
+<p>BioPerine is a standardized piperine extract included as a bioavailability enhancer. It inhibits intestinal and hepatic enzymes involved in first-pass metabolism, increasing the absorption of co-administered compounds by up to 30% in published studies. Its inclusion reflects genuine formulation sophistication: without a bioavailability enhancer, a meaningful fraction of the botanical actives would pass through without adequate absorption.</p>
 </div>
 
 <figure class="post-figure">
@@ -142,7 +142,7 @@ The formula is produced under current Good Manufacturing Practices in a facility
 
 <figure class="post-figure">
   <img src="/assets/img/posts/joint-genesis-joints.webp" alt="Active woman in her 50s stretching on a yoga mat with good joint mobility" class="post-img">
-  <figcaption>Joint Genesis is designed for adults with age-related joint stiffness and early to moderate mobility decline — not for severe structural joint damage or bone-on-bone conditions that require orthopedic intervention.</figcaption>
+  <figcaption>Joint Genesis is designed for adults with age-related joint stiffness and early to moderate mobility decline, not for severe structural joint damage or bone-on-bone conditions that require orthopedic intervention.</figcaption>
 </figure>
 
 This formula is best suited for adults over 40 experiencing age-related joint stiffness and reduced mobility, particularly morning stiffness that gradually improves with movement, discomfort in the knees, hips, or shoulders during daily activities, and those who have had limited results with basic glucosamine or chondroitin products.

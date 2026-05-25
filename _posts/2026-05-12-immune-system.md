@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "How to Support Your Immune System: What the Science Actually Says"
-subtitle: "Separating evidence from marketing — what genuinely strengthens your immune defenses"
+subtitle: "Separating evidence from marketing, what genuinely strengthens your immune defenses"
 tags: [immunity, health, inflammation, nutrition, evidence-based]
 comments: true
-description: "How the immune system actually works, what genuinely supports immune function, and what the evidence does not support — written by a published biomedical scientist."
+description: "How the immune system actually works, what genuinely supports immune function, and what the evidence does not support, written by a published biomedical scientist."
 thumbnail-img: /assets/img/posts/immune-system-hero.webp
 ---
 
@@ -20,7 +20,7 @@ thumbnail-img: /assets/img/posts/immune-system-hero.webp
 
 <figure class="post-figure">
   <img src="/assets/img/posts/immune-system-hero.webp" alt="A person eating a healthy meal rich in vegetables and fruits" class="post-img">
-  <figcaption>Supporting your immune system starts with the fundamentals — sleep, nutrition, exercise, and stress management.</figcaption>
+  <figcaption>Supporting your immune system starts with the fundamentals, sleep, nutrition, exercise, and stress management.</figcaption>
 </figure>
 
 "Boost your immune system" is one of the most common phrases in wellness marketing, and one of the most biologically misleading. Your immune system is not an engine that can simply be turned up. It is a precisely calibrated network of cells, proteins, and signaling molecules that must remain in a state of dynamic balance.

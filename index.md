@@ -140,7 +140,7 @@ cover-img: false
     </a>
     <a href="/tags#fitness" class="bio-btn" data-dot="2">
       <span class="bio-btn-icon">🏋️</span>
-      <span><p class="bio-btn-title">Fitness & Movement</p><p class="bio-btn-desc">Evidence-based exercise — no hype, no gimmicks</p></span>
+      <span><p class="bio-btn-title">Fitness & Movement</p><p class="bio-btn-desc">Evidence-based exercise, no hype, no gimmicks</p></span>
     </a>
     <a href="/tags#biomedical" class="bio-btn" data-dot="1">
       <span class="bio-btn-icon">🔬</span>
@@ -150,7 +150,7 @@ cover-img: false
 </div>
 
 <div class="bio-affiliate-box">
-  <p>🦴 <strong>Struggling with joint or muscle pain?</strong> I reviewed Balmorex Pro — a topical cream with real biomedical backing for joint, back and muscle support.</p>
+  <p>🦴 <strong>Struggling with joint or muscle pain?</strong> I reviewed Balmorex Pro, a topical cream with real biomedical backing for joint, back and muscle support.</p>
   <a href="/2026-05-09-balmorex-pro-review/" class="bio-affiliate-btn">Read my review →</a>
 </div>
 
@@ -158,7 +158,7 @@ cover-img: false
   <div>
     <p style="margin:0 0 0.3rem;font-size:0.75rem;font-weight:700;letter-spacing:0.08em;color:#74c69d;text-transform:uppercase;">⭐ Featured Article</p>
     <p style="margin:0 0 0.4rem;font-size:1rem;font-weight:700;color:#ffffff;line-height:1.4;">The 5 Most Impactful Health Habits Backed by Science</p>
-    <p style="margin:0;font-size:0.82rem;color:#b7dbc8;line-height:1.5;">Sleep, nutrition, movement, stress and prevention — the five habits with the strongest evidence for long-term health.</p>
+    <p style="margin:0;font-size:0.82rem;color:#b7dbc8;line-height:1.5;">Sleep, nutrition, movement, stress and prevention, the five habits with the strongest evidence for long-term health.</p>
   </div>
   <a href="/2026-05-09-5-most-impactful-health-habits/" style="display:inline-block;background:#52b788;color:#fff !important;padding:0.55rem 1.2rem;border-radius:8px;font-size:0.88rem;font-weight:600;text-decoration:none !important;white-space:nowrap;transition:background 0.2s ease;" onmouseover="this.style.background='#74c69d'" onmouseout="this.style.background='#52b788'">Read now →</a>
 </div>

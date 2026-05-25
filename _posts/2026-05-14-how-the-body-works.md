@@ -4,7 +4,7 @@ title: "How the Human Body Works: A Biomedical Overview of Your Most Important S
 subtitle: "Understanding your own biology is one of the most empowering things you can do for your health"
 tags: [biomedical, how-body-works, biology, health, evidence-based]
 comments: true
-description: "A biomedical overview of the major body systems — cells, cardiovascular, immune, endocrine, and nervous system — and why understanding your biology changes how you make health decisions."
+description: "A biomedical overview of the major body systems, cells, cardiovascular, immune, endocrine, and nervous system, and why understanding your biology changes how you make health decisions."
 thumbnail-img: /assets/img/posts/how-the-body-works-hero.webp
 ---
 

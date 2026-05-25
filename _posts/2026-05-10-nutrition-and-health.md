@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Nutrition and Health: What the Science Actually Says About Food"
-subtitle: "Cutting through nutrition confusion with evidence — what matters, what does not, and why the research is harder to interpret than it looks"
+subtitle: "Cutting through nutrition confusion with evidence, what matters, what does not, and why the research is harder to interpret than it looks"
 tags: [nutrition, diet, health, food, evidence-based, whole-foods]
 comments: true
-description: "What nutrition science actually supports — cutting through the confusion on ultra-processed foods, dietary fiber, omega-3s, and why the research is harder to interpret than headlines suggest."
+description: "What nutrition science actually supports, cutting through the confusion on ultra-processed foods, dietary fiber, omega-3s, and why the research is harder to interpret than headlines suggest."
 thumbnail-img: /assets/img/posts/nutrition-hero.webp
 ---
 
@@ -20,7 +20,7 @@ thumbnail-img: /assets/img/posts/nutrition-hero.webp
 
 <figure class="post-figure">
   <img src="/assets/img/posts/nutrition-hero.webp" alt="A colorful array of whole fruits, vegetables, and plant foods" class="post-img">
-  <figcaption>Food is information — the quality of what you eat shapes your biology at a cellular level.</figcaption>
+  <figcaption>Food is information, the quality of what you eat shapes your biology at a cellular level.</figcaption>
 </figure>
 
 Nutrition science is one of the most misrepresented fields in public health. Unlike pharmaceutical trials, where a single drug can be tested against a placebo, dietary studies involve thousands of variables interacting simultaneously over years or decades. This complexity has produced a literature full of contradictory findings, headline-generating studies that fail to replicate, and an industry of advocates using legitimate scientific uncertainty to promote almost any dietary philosophy imaginable.

@@ -4,7 +4,7 @@ title: "Stress Management: Understanding Your Body's Response and How to Work Wi
 subtitle: "Chronic stress is one of the most damaging forces in modern health, and one of the most manageable"
 tags: [stress, cortisol, mental-health, nervous-system, habits, evidence-based]
 comments: true
-description: "What chronic stress does to your cardiovascular system, brain, immune function, and metabolism — and which stress management interventions have the strongest scientific evidence."
+description: "What chronic stress does to your cardiovascular system, brain, immune function, and metabolism, and which stress management interventions have the strongest scientific evidence."
 thumbnail-img: /assets/img/posts/stress-management-hero.webp
 ---
 
