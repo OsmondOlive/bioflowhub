@@ -70,6 +70,11 @@ Chronic low-grade inflammation, now recognized as a central driver of cardiovasc
 
 **Gut microbiome health** is central to immune function in ways that most people have not yet fully appreciated. Approximately 70% of immune cells reside in or adjacent to the gut. A diverse, well-nourished microbiome actively trains and calibrates these cells throughout life. Disruptions to the microbiome consistently show up as disruptions to immune regulation.
 
+<div class="bio-box">
+  <p>🦷 <strong>The microbiome begins in your mouth.</strong> ProDentim is a probiotic formulated specifically for the oral microbiome, supporting the bacterial balance that connects oral health to systemic immune function. The mouth is the entry point for most pathogens, and its microbial environment is more clinically relevant to immunity than most people realize.</p>
+  <a href="https://5f7d58he3809shse1bqcupxjc5.hop.clickbank.net/?&traffic_source=blog&traffic_type=organic&campaign=bioflowhub" target="_blank" rel="noopener" class="bio-btn">Learn More About ProDentim →</a>
+</div>
+
 **References:**
 - Gombart AF, Pierre A, Maggini S. (2020). A review of micronutrients and the immune system: working in harmony to reduce the risk of infection. *Nutrients*, 12(1), 236. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31963293/){:target="_blank" rel="noopener"}
 - Besedovsky L, Lange T, Haack M. (2019). The sleep-immune crosstalk in health and disease. *Physiological Reviews*, 99(3), 1325-1380. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30920354/){:target="_blank" rel="noopener"}
