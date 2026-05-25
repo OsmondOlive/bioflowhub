@@ -4,7 +4,7 @@ title: "ProDentim Review: Can Oral Probiotics Actually Improve Dental Health?"
 subtitle: "What the oral microbiome research actually says, and whether this formula holds up to scrutiny"
 tags: [oral-health, probiotics, supplement-review, dental, microbiome, affiliate]
 comments: true
-description: "A science-based review of ProDentim oral probiotic supplement — analyzing Lactobacillus paracasei, L. reuteri, BLIS K12, and B. lactis with PubMed citations and honest assessment of who benefits most."
+description: "A science-based review of ProDentim oral probiotic supplement, analyzing Lactobacillus paracasei, L. reuteri, BLIS K12, and B. lactis with PubMed citations and honest assessment of who benefits most."
 thumbnail-img: /assets/img/posts/prodentim-hero.webp
 ---
 
@@ -34,7 +34,7 @@ thumbnail-img: /assets/img/posts/prodentim-hero.webp
   <figcaption>ProDentim is an oral probiotic supplement formulated with 3.5 billion CFU of clinically studied bacterial strains, targeting the oral microbiome rather than just masking symptoms.</figcaption>
 </figure>
 
-ProDentim has been circulating widely across health forums and supplement review sites, generating enough interest that a closer look at the actual science seemed worthwhile. The concept behind it — supporting oral health through beneficial bacteria rather than just chemical agents — is grounded in real and growing research. The question worth asking is whether this specific formula delivers on that premise.
+ProDentim has been circulating widely across health forums and supplement review sites, generating enough interest that a closer look at the actual science seemed worthwhile. The concept behind it, supporting oral health through beneficial bacteria rather than just chemical agents, is grounded in real and growing research. The question worth asking is whether this specific formula delivers on that premise.
 
 ---
 
@@ -44,7 +44,7 @@ Most oral hygiene products work by trying to eliminate bacteria indiscriminately
 
 <figure class="post-figure">
   <img src="/assets/img/posts/prodentim-b1.webp" alt="Scanning electron microscope image of beneficial oral bacteria" class="post-img">
-  <figcaption>The oral microbiome contains over 700 microbial species. When beneficial bacteria are crowded out by pathogenic species, the result is dysbiosis — an imbalance linked not only to dental decay and gum disease but to broader systemic inflammation.</figcaption>
+  <figcaption>The oral microbiome contains over 700 microbial species. When beneficial bacteria are crowded out by pathogenic species, the result is dysbiosis, an imbalance linked not only to dental decay and gum disease but to broader systemic inflammation.</figcaption>
 </figure>
 
 Oral dysbiosis, the disruption of this microbial balance, is now recognized as a central driver of periodontal disease, dental caries, and persistent bad breath. More significantly, a 2024 review published in *Medicina* confirmed that periodontal dysbiosis has systemic implications, with periodontal pathogens linked via hematogenous routes to cardiovascular disease, diabetes, and inflammatory conditions elsewhere in the body.
@@ -103,7 +103,7 @@ ProDentim is an oral probiotic supplement in soft tablet form, with 3.5 billion 
 
 <div class="ingr-block">
 <h4>Inulin (Prebiotic Fiber) <span class="ev ev-mod">Moderate Evidence</span></h4>
-<p>Inulin functions as a prebiotic — a substrate that selectively feeds beneficial bacteria. In the oral context, it supports the growth and persistence of the probiotic strains delivered in each tablet, extending their activity beyond the immediate dissolution period. Prebiotic-probiotic combinations consistently outperform probiotics alone in colonization studies.</p>
+<p>Inulin functions as a prebiotic, a substrate that selectively feeds beneficial bacteria. In the oral context, it supports the growth and persistence of the probiotic strains delivered in each tablet, extending their activity beyond the immediate dissolution period. Prebiotic-probiotic combinations consistently outperform probiotics alone in colonization studies.</p>
 </div>
 
 <div class="ingr-block">
@@ -131,7 +131,7 @@ ProDentim is an oral probiotic supplement in soft tablet form, with 3.5 billion 
 
 <figure class="post-figure">
   <img src="/assets/img/posts/prodentim-doctor.webp" alt="Dental professional holding tooth model" class="post-img">
-  <figcaption>Oral probiotics are most appropriate as a complement to regular dental hygiene — not a replacement for brushing, flossing, and professional cleanings.</figcaption>
+  <figcaption>Oral probiotics are most appropriate as a complement to regular dental hygiene, not a replacement for brushing, flossing, and professional cleanings.</figcaption>
 </figure>
 
 ProDentim is most appropriate for people who experience persistent bad breath despite regular brushing, recurring gum sensitivity or mild inflammation, frequent mouth discomfort or oral infections, or those who have taken antibiotics that disrupted their oral microbiome and want to support its recovery.
