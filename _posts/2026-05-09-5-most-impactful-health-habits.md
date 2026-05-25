@@ -206,7 +206,7 @@ Depression and anxiety are among the most prevalent conditions globally, yet the
 <div class="bio-box">
   <p>🦴 <strong>Joint and muscle pain affecting your daily habits?</strong> Balmorex Pro is a topical cream with evidence-backed ingredients for joint, back, and muscle relief, supporting your ability to stay active and consistent.</p>
   <a href="https://ef9897nq56z1rh08qksj26zz4n.hop.clickbank.net/?tid=landing1" target="_blank" rel="noopener" class="bio-btn">Get Balmorex Pro →</a>
-  <a href="https://90bb3bgiwzq7r5se0bqsu4zp0z.hop.clickbank.net/?&traffic_source=blog&traffic_type=organic&campaign=bioflowhub" target="_blank" rel="noopener" class="bio-btn-secondary">Try Joint Genesis</a>
+  <a href="https://63a224hm04xcpjw9s9oew2zo1p.hop.clickbank.net/?&traffic_source=blog&traffic_type=organic&campaign=bioflowhub" target="_blank" rel="noopener" class="bio-btn-secondary">Try Joint Genesis</a>
 </div>
 
 ---

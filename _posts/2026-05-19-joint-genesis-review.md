@@ -161,7 +161,7 @@ Given that the formula works cumulatively and most users need at least two to th
 
 <div class="bio-box">
   <p>🦴 <strong>Joint Genesis</strong> targets synovial fluid restoration directly through Mobilee, a clinically studied high-molecular-weight hyaluronic acid complex, combined with Boswellia Serrata, Pycnogenol, Ginger Root, and BioPerine in a cGMP-manufactured formula with a 180-day money-back guarantee.</p>
-  <a href="https://completejointcare.net/cb/" target="_blank" rel="noopener" class="bio-btn">Get Joint Genesis (Official Site) →</a>
+  <a href="https://63a224hm04xcpjw9s9oew2zo1p.hop.clickbank.net/?&traffic_source=blog&traffic_type=organic&campaign=bioflowhub" target="_blank" rel="noopener" class="bio-btn">Get Joint Genesis (Official Site) →</a>
 </div>
 
 ---

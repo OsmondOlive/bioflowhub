@@ -153,7 +153,7 @@ Managing stress is not about eliminating all difficulty from your life. It is ab
 
 <div class="bio-box">
   <p>🌿 <strong>Looking for natural support for stress and anxiety?</strong> Joint Genesis contains Boswellia Serrata, which has well-documented anti-inflammatory properties that also support stress-related inflammatory pathways, alongside other ingredients targeting physical tension and discomfort that chronic stress often produces in the body.</p>
-  <a href="https://90bb3bgiwzq7r5se0bqsu4zp0z.hop.clickbank.net/?&traffic_source=blog&traffic_type=organic&campaign=bioflowhub" target="_blank" rel="noopener" class="bio-btn">Try Joint Genesis →</a>
+  <a href="https://63a224hm04xcpjw9s9oew2zo1p.hop.clickbank.net/?&traffic_source=blog&traffic_type=organic&campaign=bioflowhub" target="_blank" rel="noopener" class="bio-btn">Try Joint Genesis →</a>
   <a href="https://amzn.to/4dpMhx1" target="_blank" rel="noopener" class="bio-btn-secondary">Magnesium on Amazon</a>
 </div>
 
