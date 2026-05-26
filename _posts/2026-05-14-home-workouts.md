@@ -43,8 +43,8 @@ The honest limitation is in progressive overload for advanced strength developme
 </figure>
 
 **References:**
-- Calatayud J, et al. (2015). Muscle activation during push-ups with different suspension training systems. *Journal of Human Kinetics*, 46, 49-56. [PubMed](https://pubmed.ncbi.nlm.nih.gov/26240575/){:target="_blank" rel="noopener"}
-- Kotarsky CJ, et al. (2018). Effect of progressive calisthenic push-up training on muscle strength and thickness. *Journal of Strength and Conditioning Research*, 32(3), 651-659. [PubMed](https://pubmed.ncbi.nlm.nih.gov/28005059/){:target="_blank" rel="noopener"}
+- Calatayud J, et al. (2015). Muscle activation during push-ups with different suspension training systems. *Journal of Human Kinetics*, 46, 49-56. [PubMed](https://pubmed.ncbi.nlm.nih.gov/25177174/){:target="_blank" rel="noopener"}
+- Kotarsky CJ, et al. (2018). Effect of progressive calisthenic push-up training on muscle strength and thickness. *Journal of Strength and Conditioning Research*, 32(3), 651-659. [PubMed](https://pubmed.ncbi.nlm.nih.gov/29466268/){:target="_blank" rel="noopener"}
 
 ---
 
@@ -86,7 +86,7 @@ Jumping rope deserves more credit than it typically receives in home workout dis
 
 **References:**
 - Gibala MJ, et al. (2012). Physiological adaptations to low-volume, high-intensity interval training in health and disease. *Journal of Physiology*, 590(5), 1077-1084. [PubMed](https://pubmed.ncbi.nlm.nih.gov/22289907/){:target="_blank" rel="noopener"}
-- Trecroci A, et al. (2015). Jump rope training: balance and motor coordination in preadolescent soccer players. *Journal of Sports Science and Medicine*, 14(4), 792-798. [PubMed](https://pubmed.ncbi.nlm.nih.gov/26664278/){:target="_blank" rel="noopener"}
+- Trecroci A, et al. (2015). Jump rope training: balance and motor coordination in preadolescent soccer players. *Journal of Sports Science and Medicine*, 14(4), 792-798. [PubMed](https://pubmed.ncbi.nlm.nih.gov/26664276/){:target="_blank" rel="noopener"}
 
 ---
 
