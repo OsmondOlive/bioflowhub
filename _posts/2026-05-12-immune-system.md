@@ -75,6 +75,13 @@ Chronic low-grade inflammation, now recognized as a central driver of cardiovasc
   <a href="https://5f7d58he3809shse1bqcupxjc5.hop.clickbank.net/?&traffic_source=blog&traffic_type=organic&campaign=bioflowhub" target="_blank" rel="noopener" class="bio-btn">Learn More About ProDentim →</a>
 </div>
 
+<div class="bio-box">
+  <p>🌿 <strong>Supporting gut microbiome diversity?</strong> PrimeBiome combines Bacillus Coagulans, a clinically studied probiotic strain, with inulin (prebiotic) and anti-inflammatory botanicals to support microbiome balance. Given that approximately 70% of immune cells reside in the gut, a well-supported microbiome is one of the more practical immune interventions available.</p>
+  <a href="https://23248yem3608vj3i-f12e9zdil.hop.clickbank.net/?&traffic_source=blog&traffic_type=organic&campaign=bioflowhub" target="_blank" rel="noopener" class="bio-btn">Learn More About PrimeBiome →</a>
+</div>
+
+
+
 **References:**
 - Gombart AF, Pierre A, Maggini S. (2020). A review of micronutrients and the immune system: working in harmony to reduce the risk of infection. *Nutrients*, 12(1), 236. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31963293/){:target="_blank" rel="noopener"}
 - Besedovsky L, Lange T, Haack M. (2019). The sleep-immune crosstalk in health and disease. *Physiological Reviews*, 99(3), 1325-1380. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30920354/){:target="_blank" rel="noopener"}

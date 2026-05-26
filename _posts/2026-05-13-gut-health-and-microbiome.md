@@ -138,6 +138,13 @@ One area where the evidence is particularly interesting is oral health. The oral
 </div>
 
 
+
+<div class="bio-box">
+  <p>🌿 <strong>Looking for a probiotic that supports both gut and skin?</strong> PrimeBiome combines Bacillus Coagulans, one of the most clinically studied probiotic strains for bloating and IBS, with prebiotics and botanical ingredients targeting the gut-skin axis. A useful option for those dealing with digestive discomfort alongside skin concerns.</p>
+  <a href="https://23248yem3608vj3i-f12e9zdil.hop.clickbank.net/?&traffic_source=blog&traffic_type=organic&campaign=bioflowhub" target="_blank" rel="noopener" class="bio-btn">Learn More About PrimeBiome →</a>
+</div>
+
+
 ---
 
 ## Where to Start
