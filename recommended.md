@@ -101,6 +101,8 @@ A probiotic gummy supplement formulated to target the gut-skin axis. The core pr
 
 <a href="https://23248yem3608vj3i-f12e9zdil.hop.clickbank.net/?&traffic_source=blog&traffic_type=organic&campaign=bioflowhub" target="_blank" rel="noopener" class="rec-btn">Get PrimeBiome →</a>
 
+<a href="/2026-05-26-primebiome-review/" class="rec-btn-secondary">Read my review</a>
+
 <hr class="rec-divider">
 
 ## Nutrition & Supplements
