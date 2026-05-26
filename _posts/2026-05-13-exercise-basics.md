@@ -47,8 +47,8 @@ A 2022 follow-up from Kokkinos and colleagues, analyzing over 750,000 U.S. veter
 Physical inactivity is not a neutral baseline state. It is an active risk factor, with measurable physiological consequences that accumulate quietly over years.
 
 **References:**
-- Mandsager K, et al. (2018). Association of cardiorespiratory fitness with long-term mortality among adults undergoing exercise treadmill testing. *JAMA Network Open*, 1(6), e183605. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30418464/){:target="_blank" rel="noopener"}
-- Kokkinos P, et al. (2022). Cardiorespiratory fitness and mortality risk across the spectra of age, race, and sex. *Journal of the American College of Cardiology*, 80(6), 598-609. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35926935/){:target="_blank" rel="noopener"}
+- Mandsager K, et al. (2018). Association of cardiorespiratory fitness with long-term mortality among adults undergoing exercise treadmill testing. *JAMA Network Open*, 1(6), e183605. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30646252/){:target="_blank" rel="noopener"}
+- Kokkinos P, et al. (2022). Cardiorespiratory fitness and mortality risk across the spectra of age, race, and sex. *Journal of the American College of Cardiology*, 80(6), 598-609. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35926933/){:target="_blank" rel="noopener"}
 
 ---
 
