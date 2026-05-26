@@ -53,6 +53,12 @@ Unlike processed foods (such as cheeses and simple breads), which can be consume
 
 **Omega-3 fatty acids matter.** EPA and DHA from marine sources reduce triglycerides, support heart rhythm stability, and have potent anti-inflammatory effects. The evidence is strongest for cardiovascular outcomes and brain health, and most people do not consume adequate amounts from diet alone.
 
+
+<div class="bio-box">
+  <p>🌿 <strong>Struggling with blood glucose or metabolic balance?</strong> Berberine HCl 500mg is one of the most clinically studied botanical compounds for metabolic health, activating AMPK to improve insulin sensitivity and support healthy glucose levels. Nature's Truth offers the clinically studied dose in a vegan, non-GMO formula.</p>
+  <a href="https://amzn.to/3RKbgnE" target="_blank" rel="noopener" class="bio-btn">Check Berberine HCl on Amazon →</a>
+</div>
+
 **Excess added sugar is harmful.** Independent of total caloric intake, high consumption of added sugar, particularly from sugar-sweetened beverages, is associated with metabolic dysfunction, fatty liver disease, and cardiovascular risk.
 
 **References:**

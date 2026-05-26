@@ -131,6 +131,13 @@ One area where the evidence is particularly interesting is oral health. The oral
   <a href="https://5f7d58he3809shse1bqcupxjc5.hop.clickbank.net/?&traffic_source=blog&traffic_type=organic&campaign=bioflowhub" target="_blank" rel="noopener" class="bio-btn">Learn More About ProDentim →</a>
 </div>
 
+
+<div class="bio-box">
+  <p>🌿 <strong>Berberine and gut-metabolic health.</strong> Berberine HCl 500mg has documented effects on gut microbiome composition alongside its well-known metabolic benefits for blood glucose and insulin sensitivity. Nature's Truth offers the clinically studied dose in a vegan, non-GMO formula.</p>
+  <a href="https://amzn.to/3RKbgnE" target="_blank" rel="noopener" class="bio-btn">Check Berberine on Amazon →</a>
+</div>
+
+
 ---
 
 ## Where to Start

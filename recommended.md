@@ -63,7 +63,7 @@ A topical cream formulated for joint, back, and muscle support. Contains arnica 
 ### Joint Genesis
 A dietary supplement formulated specifically for joint health, developed under medical direction and produced in an FDA-inspected facility. Targets the underlying mechanisms of joint discomfort rather than just masking symptoms.
 
-<a href="https://90bb3bgiwzq7r5se0bqsu4zp0z.hop.clickbank.net/?&traffic_source=blog&traffic_type=organic&campaign=bioflowhub" target="_blank" rel="noopener" class="rec-btn">Get Joint Genesis →</a>
+<a href="https://63a224hm04xcpjw9s9oew2zo1p.hop.clickbank.net/?&traffic_source=blog&traffic_type=organic&campaign=bioflowhub" target="_blank" rel="noopener" class="rec-btn">Get Joint Genesis →</a>
 <a href="/2026-05-19-joint-genesis-review/" class="rec-btn-secondary">Read my review</a>
 
 <hr class="rec-divider">
@@ -115,6 +115,13 @@ An essential combination, D3 for immune function, mood, and bone health, K2 to d
 Anti-inflammatory, heart-protective, and brain-supportive. Nordic Naturals is the gold standard for purity and third-party testing.
 
 <a href="https://amzn.to/4dv6Icc" target="_blank" rel="noopener" class="rec-btn">Check price on Amazon →</a>
+
+<hr class="rec-divider">
+
+### Berberine HCl 500mg (Nature's Truth)
+One of the most studied botanical compounds in metabolic medicine. Berberine activates AMPK, the same cellular energy-sensing pathway targeted by metformin, improving insulin sensitivity and supporting healthy blood glucose levels. Nature's Truth offers the clinically studied 500mg dose per capsule in a vegan, non-GMO, gluten-free formula at an accessible price point.
+
+<a href="https://amzn.to/3RKbgnE" target="_blank" rel="noopener" class="rec-btn">Check price on Amazon →</a>
 
 <hr class="rec-divider">
 

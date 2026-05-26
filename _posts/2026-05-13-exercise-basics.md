@@ -92,6 +92,12 @@ Two to three sessions per week targeting all major muscle groups is sufficient f
 - Kraschnewski JL, et al. (2016). Is strength training associated with mortality benefits? A 15 year cohort study of US adults. *Preventive Medicine*, 87, 121-127. [PubMed](https://pubmed.ncbi.nlm.nih.gov/26921660/){:target="_blank" rel="noopener"}
 - Westcott WL. (2012). Resistance training is medicine: effects of strength training on health. *Current Sports Medicine Reports*, 11(4), 209-216. [PubMed](https://pubmed.ncbi.nlm.nih.gov/22777332/){:target="_blank" rel="noopener"}
 
+<div class="bio-box">
+  <p>🌿 <strong>Supporting insulin sensitivity beyond exercise?</strong> Berberine HCl 500mg activates the same metabolic pathway as metformin, improving glucose disposal and complementing the metabolic gains built through resistance training. Nature's Truth offers the clinically studied dose in a vegan, non-GMO formula.</p>
+  <a href="https://amzn.to/3RKbgnE" target="_blank" rel="noopener" class="bio-btn">Check Berberine on Amazon →</a>
+</div>
+
+
 ---
 
 ## The Consistency Problem
