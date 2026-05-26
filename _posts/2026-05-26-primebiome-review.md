@@ -132,7 +132,7 @@ The gummy format has a practical advantage over capsule-based probiotics: it is 
 </div>
 
 **References:**
-- Gupta AK, Maity C. (2021). Efficacy and safety of Bacillus coagulans LBSC in irritable bowel syndrome: a prospective, interventional, randomized, double-blind, placebo-controlled clinical study. *Medicine*, 100(3), e23641. [PubMed](https://pubmed.ncbi.nlm.nih.gov/33545979/){:target="_blank" rel="noopener"}
+- Gupta AK, Maity C. (2021). Efficacy and safety of Bacillus coagulans LBSC in irritable bowel syndrome: a prospective, interventional, randomized, double-blind, placebo-controlled clinical study. *Medicine*, 100(3), e23641. [PubMed](https://pubmed.ncbi.nlm.nih.gov/33545934/){:target="_blank" rel="noopener"}
 - Mori K, et al. (2019). Improving effects of the mushroom Yamabushitake (Hericium erinaceus) on mild cognitive impairment: a double-blind placebo-controlled clinical trial. *Biomedical Research*, 31(4), 231-237. [PubMed](https://pubmed.ncbi.nlm.nih.gov/18844328/){:target="_blank" rel="noopener"}
 - Lete I, Allué J. (2016). The effectiveness of ginger in the prevention of nausea and vomiting during pregnancy and chemotherapy. *Integrative Medicine Insights*, 11, 11-17. [PubMed](https://pubmed.ncbi.nlm.nih.gov/27053918/){:target="_blank" rel="noopener"}
 
