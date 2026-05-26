@@ -84,6 +84,12 @@ High-intensity interval training (HIIT), alternating brief periods of maximum ef
 
 Jumping rope deserves more credit than it typically receives in home workout discussions. It elevates heart rate rapidly, improves coordination and footwork, and can be performed in a small space. Research on jump rope training shows improvements in cardiovascular fitness, body composition, and motor skills comparable to jogging, at a fraction of the equipment cost.
 
+
+<figure class="post-figure">
+  <img src="/assets/img/posts/hw-jump-rope.webp" alt="Woman jumping rope indoors surrounded by plants" class="post-img">
+  <figcaption>Jumping rope indoors requires minimal space and produces cardiovascular responses comparable to running. Ten minutes of moderate jump rope elevates heart rate into the aerobic training zone for most adults.</figcaption>
+</figure>
+
 **References:**
 - Gibala MJ, et al. (2012). Physiological adaptations to low-volume, high-intensity interval training in health and disease. *Journal of Physiology*, 590(5), 1077-1084. [PubMed](https://pubmed.ncbi.nlm.nih.gov/22289907/){:target="_blank" rel="noopener"}
 - Trecroci A, et al. (2015). Jump rope training: balance and motor coordination in preadolescent soccer players. *Journal of Sports Science and Medicine*, 14(4), 792-798. [PubMed](https://pubmed.ncbi.nlm.nih.gov/26664276/){:target="_blank" rel="noopener"}
