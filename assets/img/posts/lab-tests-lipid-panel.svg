@@ -1,0 +1,70 @@
+<svg viewBox="0 0 800 380" xmlns="http://www.w3.org/2000/svg" font-family="Georgia, serif">
+  <!-- Background -->
+  <rect width="800" height="380" fill="#f8faf9" rx="12"/>
+  
+  <!-- Title -->
+  <text x="400" y="38" text-anchor="middle" font-size="18" font-weight="bold" fill="#1a2e2a">Understanding Your Lipid Panel</text>
+  <text x="400" y="58" text-anchor="middle" font-size="12" fill="#666">Four markers, four different parts of the cardiovascular risk picture</text>
+  
+  <!-- LDL Card -->
+  <rect x="30" y="78" width="170" height="160" rx="10" fill="#fff" stroke="#e0e0e0" stroke-width="1.5"/>
+  <rect x="30" y="78" width="170" height="8" rx="10" fill="#e57373"/>
+  <rect x="30" y="82" width="170" height="4" fill="#e57373"/>
+  <text x="115" y="112" text-anchor="middle" font-size="14" font-weight="bold" fill="#1a2e2a">LDL Cholesterol</text>
+  <text x="115" y="130" text-anchor="middle" font-size="11" fill="#555">"Bad" cholesterol</text>
+  <line x1="50" y1="140" x2="180" y2="140" stroke="#eee" stroke-width="1"/>
+  <text x="115" y="158" text-anchor="middle" font-size="11" fill="#333">Optimal: &lt;100 mg/dL</text>
+  <text x="115" y="175" text-anchor="middle" font-size="11" fill="#333">Borderline: 130-159</text>
+  <text x="115" y="192" text-anchor="middle" font-size="11" fill="#e57373">High risk: &gt;160</text>
+  <text x="115" y="218" text-anchor="middle" font-size="10" fill="#888" font-style="italic">Particle size matters</text>
+  <text x="115" y="230" text-anchor="middle" font-size="10" fill="#888" font-style="italic">more than total count</text>
+
+  <!-- HDL Card -->
+  <rect x="215" y="78" width="170" height="160" rx="10" fill="#fff" stroke="#e0e0e0" stroke-width="1.5"/>
+  <rect x="215" y="78" width="170" height="8" rx="10" fill="#4caf50"/>
+  <rect x="215" y="82" width="170" height="4" fill="#4caf50"/>
+  <text x="300" y="112" text-anchor="middle" font-size="14" font-weight="bold" fill="#1a2e2a">HDL Cholesterol</text>
+  <text x="300" y="130" text-anchor="middle" font-size="11" fill="#555">"Good" cholesterol</text>
+  <line x1="235" y1="140" x2="365" y2="140" stroke="#eee" stroke-width="1"/>
+  <text x="300" y="158" text-anchor="middle" font-size="11" fill="#4caf50">Optimal: &gt;60 mg/dL</text>
+  <text x="300" y="175" text-anchor="middle" font-size="11" fill="#333">Acceptable: 40-59</text>
+  <text x="300" y="192" text-anchor="middle" font-size="11" fill="#e57373">Low: &lt;40 mg/dL</text>
+  <text x="300" y="218" text-anchor="middle" font-size="10" fill="#888" font-style="italic">Higher is generally</text>
+  <text x="300" y="230" text-anchor="middle" font-size="10" fill="#888" font-style="italic">protective</text>
+
+  <!-- Triglycerides Card -->
+  <rect x="400" y="78" width="170" height="160" rx="10" fill="#fff" stroke="#e0e0e0" stroke-width="1.5"/>
+  <rect x="400" y="78" width="170" height="8" rx="10" fill="#ff9800"/>
+  <rect x="400" y="82" width="170" height="4" fill="#ff9800"/>
+  <text x="485" y="112" text-anchor="middle" font-size="14" font-weight="bold" fill="#1a2e2a">Triglycerides</text>
+  <text x="485" y="130" text-anchor="middle" font-size="11" fill="#555">Dietary fat + carbs</text>
+  <line x1="420" y1="140" x2="550" y2="140" stroke="#eee" stroke-width="1"/>
+  <text x="485" y="158" text-anchor="middle" font-size="11" fill="#4caf50">Normal: &lt;150 mg/dL</text>
+  <text x="485" y="175" text-anchor="middle" font-size="11" fill="#ff9800">Borderline: 150-199</text>
+  <text x="485" y="192" text-anchor="middle" font-size="11" fill="#e57373">High: &gt;200 mg/dL</text>
+  <text x="485" y="218" text-anchor="middle" font-size="10" fill="#888" font-style="italic">Responds quickly</text>
+  <text x="485" y="230" text-anchor="middle" font-size="10" fill="#888" font-style="italic">to dietary changes</text>
+
+  <!-- TG/HDL Ratio Card -->
+  <rect x="585" y="78" width="185" height="160" rx="10" fill="#fff" stroke="#2e7d5e" stroke-width="2"/>
+  <rect x="585" y="78" width="185" height="8" rx="10" fill="#2e7d5e"/>
+  <rect x="585" y="82" width="185" height="4" fill="#2e7d5e"/>
+  <text x="677" y="112" text-anchor="middle" font-size="14" font-weight="bold" fill="#1a2e2a">TG / HDL Ratio</text>
+  <text x="677" y="130" text-anchor="middle" font-size="11" fill="#555">Insulin resistance proxy</text>
+  <line x1="605" y1="140" x2="750" y2="140" stroke="#eee" stroke-width="1"/>
+  <text x="677" y="158" text-anchor="middle" font-size="11" fill="#4caf50">Favorable: &lt;2.0</text>
+  <text x="677" y="175" text-anchor="middle" font-size="11" fill="#ff9800">Watch: 2.0 - 3.0</text>
+  <text x="677" y="192" text-anchor="middle" font-size="11" fill="#e57373">Concern: &gt;3.0</text>
+  <text x="677" y="218" text-anchor="middle" font-size="10" fill="#2e7d5e" font-style="italic">Simple ratio, powerful</text>
+  <text x="677" y="230" text-anchor="middle" font-size="10" fill="#2e7d5e" font-style="italic">metabolic signal</text>
+
+  <!-- Bottom note -->
+  <rect x="30" y="255" width="740" height="50" rx="8" fill="#f0f9f4" stroke="#2e7d5e" stroke-width="1"/>
+  <text x="400" y="276" text-anchor="middle" font-size="11" fill="#1a2e2a" font-weight="bold">Key insight:</text>
+  <text x="400" y="293" text-anchor="middle" font-size="11" fill="#333">Total cholesterol alone is a poor predictor of cardiovascular risk. The ratio between markers, trends over time,</text>
+  <text x="400" y="308" text-anchor="middle" font-size="11" fill="#333">and particle size tell a far more complete story than any single number.</text>
+
+  <!-- Footer -->
+  <text x="400" y="355" text-anchor="middle" font-size="10" fill="#aaa">Reference values based on American Heart Association and ACC guidelines</text>
+  <text x="400" y="370" text-anchor="middle" font-size="10" fill="#aaa">bioflowhub.com</text>
+</svg>

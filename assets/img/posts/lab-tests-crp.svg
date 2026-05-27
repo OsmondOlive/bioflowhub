@@ -1,0 +1,62 @@
+<svg viewBox="0 0 800 320" xmlns="http://www.w3.org/2000/svg" font-family="Georgia, serif">
+  <!-- Background -->
+  <rect width="800" height="320" fill="#f8faf9" rx="12"/>
+  
+  <!-- Title -->
+  <text x="400" y="38" text-anchor="middle" font-size="18" font-weight="bold" fill="#1a2e2a">High-Sensitivity CRP and Cardiovascular Risk</text>
+  <text x="400" y="58" text-anchor="middle" font-size="12" fill="#666">A marker of chronic low-grade inflammation, independent of acute illness</text>
+
+  <!-- Risk bar -->
+  <rect x="60" y="82" width="680" height="50" rx="8" fill="url(#crpGrad)"/>
+  <defs>
+    <linearGradient id="crpGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#4caf50"/>
+      <stop offset="35%" style="stop-color:#8bc34a"/>
+      <stop offset="60%" style="stop-color:#ff9800"/>
+      <stop offset="100%" style="stop-color:#e53935"/>
+    </linearGradient>
+  </defs>
+  
+  <!-- Zone markers -->
+  <line x1="298" y1="78" x2="298" y2="140" stroke="#fff" stroke-width="2" stroke-dasharray="4,3"/>
+  <line x1="480" y1="78" x2="480" y2="140" stroke="#fff" stroke-width="2" stroke-dasharray="4,3"/>
+
+  <!-- Zone labels on bar -->
+  <text x="180" y="102" text-anchor="middle" font-size="13" font-weight="bold" fill="#fff">LOW RISK</text>
+  <text x="180" y="120" text-anchor="middle" font-size="12" fill="#fff">&lt; 1 mg/L</text>
+  <text x="389" y="102" text-anchor="middle" font-size="13" font-weight="bold" fill="#fff">INTERMEDIATE</text>
+  <text x="389" y="120" text-anchor="middle" font-size="12" fill="#fff">1 to 3 mg/L</text>
+  <text x="640" y="102" text-anchor="middle" font-size="13" font-weight="bold" fill="#fff">HIGH RISK</text>
+  <text x="640" y="120" text-anchor="middle" font-size="12" fill="#fff">&gt; 3 mg/L</text>
+
+  <!-- Cards row -->
+  <!-- Card 1 -->
+  <rect x="60" y="155" width="200" height="110" rx="8" fill="#fff" stroke="#4caf50" stroke-width="1.5"/>
+  <text x="160" y="178" text-anchor="middle" font-size="13" font-weight="bold" fill="#4caf50">Low (&lt;1 mg/L)</text>
+  <text x="160" y="196" text-anchor="middle" font-size="11" fill="#444">Low cardiovascular risk</text>
+  <text x="160" y="213" text-anchor="middle" font-size="11" fill="#444">Inflammation well</text>
+  <text x="160" y="228" text-anchor="middle" font-size="11" fill="#444">controlled</text>
+  <text x="160" y="248" text-anchor="middle" font-size="10" fill="#888" font-style="italic">Maintain current habits</text>
+
+  <!-- Card 2 -->
+  <rect x="300" y="155" width="200" height="110" rx="8" fill="#fff" stroke="#ff9800" stroke-width="1.5"/>
+  <text x="400" y="178" text-anchor="middle" font-size="13" font-weight="bold" fill="#ff9800">Intermediate (1-3)</text>
+  <text x="400" y="196" text-anchor="middle" font-size="11" fill="#444">Average cardiovascular</text>
+  <text x="400" y="213" text-anchor="middle" font-size="11" fill="#444">risk for adults</text>
+  <text x="400" y="228" text-anchor="middle" font-size="11" fill="#444">Lifestyle review</text>
+  <text x="400" y="248" text-anchor="middle" font-size="10" fill="#888" font-style="italic">Track trend over time</text>
+
+  <!-- Card 3 -->
+  <rect x="540" y="155" width="200" height="110" rx="8" fill="#fff" stroke="#e53935" stroke-width="1.5"/>
+  <text x="640" y="178" text-anchor="middle" font-size="13" font-weight="bold" fill="#e53935">High (&gt;3 mg/L)</text>
+  <text x="640" y="196" text-anchor="middle" font-size="11" fill="#444">Elevated cardiovascular</text>
+  <text x="640" y="213" text-anchor="middle" font-size="11" fill="#444">risk, or acute illness</text>
+  <text x="640" y="228" text-anchor="middle" font-size="11" fill="#444">present</text>
+  <text x="640" y="248" text-anchor="middle" font-size="10" fill="#888" font-style="italic">Repeat after recovery</text>
+
+  <!-- Important note -->
+  <rect x="60" y="278" width="680" height="28" rx="6" fill="#fff3e0" stroke="#ff9800" stroke-width="1"/>
+  <text x="400" y="296" text-anchor="middle" font-size="11" fill="#5d4037">Important: CRP rises with any acute infection or injury. Always interpret in the context of your overall health status.</text>
+
+  <text x="400" y="315" text-anchor="middle" font-size="10" fill="#aaa">bioflowhub.com</text>
+</svg>
