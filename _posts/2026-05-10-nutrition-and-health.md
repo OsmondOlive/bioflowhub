@@ -28,7 +28,7 @@ thumbnail-img: /assets/img/posts/nutrition-hero.webp
 
 Nutrition science is one of the most misrepresented fields in public health. Unlike pharmaceutical trials, where a single drug can be tested against a placebo, dietary studies involve thousands of variables interacting simultaneously over years or decades. This complexity has produced a literature full of contradictory findings, headline-generating studies that fail to replicate, and an industry of advocates using legitimate scientific uncertainty to promote almost any dietary philosophy imaginable.
 
-The good news is that beneath all the noise, a core of genuinely well-established findings exists. This post covers what is actually supported by strong evidence, what remains contested, and what practical conclusions a reasonable person can draw.
+The good news is that beneath all the noise, a core of genuinely well-established findings exists. This post covers what is actually supported by strong evidence, what remains contested, and what practical conclusions you can draw.
 
 ---
 
