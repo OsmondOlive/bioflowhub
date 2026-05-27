@@ -37,7 +37,7 @@ The good news is that beneath all the noise, a core of genuinely well-establishe
 Most nutrition research relies on observational studies. Researchers ask people what they eat and track health outcomes over time. These studies are valuable for generating hypotheses but cannot establish causation on their own.
 
 <figure class="post-figure">
-  <img src="/assets/img/posts/nutrition-research.webp" alt="Scientist reviewing nutrition data and research papers" class="post-img">
+  <img src="/assets/img/posts/nutrition-research-lab.webp" alt="Scientist reviewing nutrition data and research papers" class="post-img">
   <figcaption>Observational nutrition studies face a fundamental limitation: people who eat more vegetables also tend to exercise more, sleep better, and smoke less. Separating these variables is statistically complex and never fully complete.</figcaption>
 </figure>
 
