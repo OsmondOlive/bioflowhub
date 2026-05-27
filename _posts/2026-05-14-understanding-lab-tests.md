@@ -170,6 +170,61 @@ Chronic low-grade inflammation is now recognized as a central mechanism in the d
 
 ---
 
+## Kidney Function: Creatinine and eGFR
+
+The kidneys filter approximately 200 liters of blood per day and are remarkably silent when their function begins to decline. Chronic kidney disease affects an estimated 10% of the global population and progresses without symptoms until significant damage has already occurred.
+
+**Creatinine** is a waste product of muscle metabolism, filtered almost entirely by the kidneys. Elevated serum creatinine suggests reduced filtration capacity, but its interpretation depends heavily on muscle mass, age, and sex. A highly muscular individual will have higher baseline creatinine than a sedentary person of the same kidney function.
+
+**eGFR** (estimated glomerular filtration rate) corrects for these variables and provides a more standardized measure of kidney function. An eGFR above 90 mL/min/1.73m2 is considered normal. Values between 60 and 89 warrant monitoring. Below 60, kidney function is meaningfully reduced and specialist evaluation is indicated.
+
+**BUN** (blood urea nitrogen) reflects protein metabolism and kidney filtration together. The BUN-to-creatinine ratio can help distinguish between kidney disease and pre-renal causes of elevated creatinine such as dehydration.
+
+Hypertension and diabetes are the two leading causes of chronic kidney disease, which is another reason those metabolic markers matter beyond their immediate cardiovascular implications.
+
+---
+
+## Iron Studies: Ferritin, Serum Iron, and TIBC
+
+A CBC can identify anemia, but it cannot tell you why it exists. For that, you need iron studies.
+
+**Ferritin** is the storage form of iron and the most sensitive marker of iron deficiency. Crucially, ferritin can fall significantly below optimal levels before hemoglobin drops enough to produce frank anemia. Many people with low-normal hemoglobin are functionally iron deficient, with fatigue, cognitive sluggishness, and exercise intolerance, while their CBC appears normal.
+
+The conventional lower limit of normal for ferritin is often set at 12 to 20 ng/mL. Many functional medicine physicians and hematologists consider levels below 50 ng/mL to be suboptimal for wellbeing, particularly in women. This is an area where knowing where you are within the range matters considerably.
+
+**Serum iron and TIBC** (total iron-binding capacity) together reveal how much iron is circulating and how much capacity exists to transport it. The **transferrin saturation** calculated from these two values, ideally between 20% and 50%, helps distinguish between iron deficiency anemia, anemia of chronic disease, and hemochromatosis, conditions with different causes that require different approaches.
+
+**Vitamin B12 and folate** complete the anemia picture. Both are essential for red blood cell maturation. B12 deficiency can cause macrocytic anemia and, more seriously, irreversible neurological damage if left untreated. It is particularly common in older adults, vegetarians and vegans, and individuals on long-term metformin therapy.
+
+---
+
+## Homocysteine: The Underordered Cardiovascular Marker
+
+Homocysteine is an amino acid produced during methionine metabolism. Elevated levels are an independent risk factor for cardiovascular disease, stroke, and cognitive decline, yet it is rarely included in standard panels.
+
+The mechanism involves direct endothelial damage, promotion of oxidative stress, and interference with normal blood clotting. Meta-analyses have consistently shown that elevated homocysteine is associated with increased cardiovascular event risk independently of traditional lipid markers.
+
+Levels above 15 micromol/L are generally considered elevated. Values above 30 indicate severe hyperhomocysteinemia. Homocysteine responds reliably to nutritional intervention: B12, folate, and B6 are the primary regulators of homocysteine metabolism, and supplementation in deficient individuals produces consistent reductions.
+
+If you have a family history of early cardiovascular disease or stroke, or if your other cardiovascular markers are borderline, homocysteine is worth adding to your workup.
+
+**References:**
+- Refsum H, et al. (2004). The Hordaland Homocysteine Study: a community-based study of homocysteine, its determinants, and associations with disease. *Journal of Nutrition*, 134(6 Suppl), 1731S-1740S. [PubMed](https://pubmed.ncbi.nlm.nih.gov/15173453/){:target="_blank" rel="noopener"}
+
+---
+
+## Uric Acid: More Than Gout
+
+Uric acid is the end product of purine metabolism and the marker most associated with gout. But its clinical relevance extends considerably beyond joint disease.
+
+Elevated uric acid has been consistently associated with hypertension, insulin resistance, metabolic syndrome, and cardiovascular risk in large epidemiological studies. Whether elevated uric acid is a cause or consequence of metabolic dysfunction remains debated, but its presence as a marker is well established.
+
+Levels above 7 mg/dL in men and 6 mg/dL in women are generally considered elevated. High fructose intake, alcohol, red meat, and seafood are the primary dietary drivers. Uric acid tends to rise in parallel with other metabolic markers, which is why it clusters predictably with high triglycerides and low HDL.
+
+In the context of a preventive panel, a high uric acid alongside other metabolic markers tells a consistent story about underlying metabolic health that warrants lifestyle attention.
+
+---
+
 ## How to Get the Most From Your Lab Results
 
 <figure class="post-figure">
