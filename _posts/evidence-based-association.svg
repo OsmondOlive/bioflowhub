@@ -1,0 +1,78 @@
+<svg viewBox="0 0 820 365" xmlns="http://www.w3.org/2000/svg" font-family="Georgia, serif">
+  <rect width="820" height="365" fill="#f8faf9" rx="12"/>
+  <text x="410" y="34" text-anchor="middle" font-size="17" font-weight="bold" fill="#1a2e2a">Association vs. Causation</text>
+  <text x="410" y="54" text-anchor="middle" font-size="11" fill="#666">Three reasons two things can be correlated without one causing the other</text>
+
+  <!-- Box 1: Real causation -->
+  <rect x="20" y="68" width="240" height="258" rx="10" fill="#fff" stroke="#2e7d5e" stroke-width="2"/>
+  <rect x="20" y="68" width="240" height="10" rx="10" fill="#2e7d5e"/>
+  <rect x="20" y="74" width="240" height="4" fill="#2e7d5e"/>
+  <text x="140" y="102" text-anchor="middle" font-size="12" font-weight="bold" fill="#1a2e2a">Real causation</text>
+
+  <circle cx="95" cy="170" r="28" fill="#c8e6c9" stroke="#2e7d5e" stroke-width="2"/>
+  <text x="95" y="174" text-anchor="middle" font-size="10" fill="#1b5e20">Exercise</text>
+  <circle cx="195" cy="170" r="28" fill="#c8e6c9" stroke="#2e7d5e" stroke-width="2"/>
+  <text x="195" y="174" text-anchor="middle" font-size="10" fill="#1b5e20">Lower CVD</text>
+  <line x1="125" y1="170" x2="165" y2="170" stroke="#2e7d5e" stroke-width="2" marker-end="url(#green)"/>
+  <defs>
+    <marker id="green" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto"><path d="M0,0 L0,6 L8,3 z" fill="#2e7d5e"/></marker>
+    <marker id="orange" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto"><path d="M0,0 L0,6 L8,3 z" fill="#ff9800"/></marker>
+    <marker id="red" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto"><path d="M0,0 L0,6 L8,3 z" fill="#e53935"/></marker>
+  </defs>
+
+  <line x1="36" y1="212" x2="244" y2="212" stroke="#e8f5e9" stroke-width="1"/>
+  <text x="140" y="232" text-anchor="middle" font-size="9.5" fill="#333">A directly causes B.</text>
+  <text x="140" y="248" text-anchor="middle" font-size="9.5" fill="#333">This is what headlines</text>
+  <text x="140" y="264" text-anchor="middle" font-size="9.5" fill="#333">usually imply.</text>
+  <text x="140" y="288" text-anchor="middle" font-size="9" fill="#2e7d5e" font-style="italic">Needs RCT to confirm</text>
+  <text x="140" y="304" text-anchor="middle" font-size="9" fill="#2e7d5e" font-style="italic">true causation</text>
+
+  <!-- Box 2: Confounding -->
+  <rect x="290" y="68" width="240" height="258" rx="10" fill="#fff" stroke="#ff9800" stroke-width="2"/>
+  <rect x="290" y="68" width="240" height="10" rx="10" fill="#ff9800"/>
+  <rect x="290" y="74" width="240" height="4" fill="#ff9800"/>
+  <text x="410" y="102" text-anchor="middle" font-size="12" font-weight="bold" fill="#1a2e2a">Confounding</text>
+
+  <circle cx="410" cy="138" r="26" fill="#fff3e0" stroke="#ff9800" stroke-width="2"/>
+  <text x="410" y="135" text-anchor="middle" font-size="9" fill="#e65100">Healthy</text>
+  <text x="410" y="148" text-anchor="middle" font-size="9" fill="#e65100">lifestyle</text>
+
+  <circle cx="355" cy="198" r="26" fill="#fff3e0" stroke="#ff9800" stroke-width="1.5"/>
+  <text x="355" y="202" text-anchor="middle" font-size="9" fill="#e65100">Vegetables</text>
+  <circle cx="465" cy="198" r="26" fill="#fff3e0" stroke="#ff9800" stroke-width="1.5"/>
+  <text x="465" y="202" text-anchor="middle" font-size="9" fill="#e65100">Longevity</text>
+
+  <line x1="392" y1="157" x2="368" y2="173" stroke="#ff9800" stroke-width="1.5" marker-end="url(#orange)"/>
+  <line x1="428" y1="157" x2="452" y2="173" stroke="#ff9800" stroke-width="1.5" marker-end="url(#orange)"/>
+  <line x1="381" y1="198" x2="437" y2="198" stroke="#ccc" stroke-width="1.5" stroke-dasharray="4,3"/>
+
+  <line x1="306" y1="232" x2="514" y2="232" stroke="#fff3e0" stroke-width="1"/>
+  <text x="410" y="252" text-anchor="middle" font-size="9.5" fill="#333">A and B are correlated</text>
+  <text x="410" y="268" text-anchor="middle" font-size="9.5" fill="#333">because C causes both.</text>
+  <text x="410" y="288" text-anchor="middle" font-size="9" fill="#ff9800" font-style="italic">Very common in</text>
+  <text x="410" y="304" text-anchor="middle" font-size="9" fill="#ff9800" font-style="italic">nutrition research</text>
+
+  <!-- Box 3: Reverse causation -->
+  <rect x="560" y="68" width="240" height="258" rx="10" fill="#fff" stroke="#e53935" stroke-width="2"/>
+  <rect x="560" y="68" width="240" height="10" rx="10" fill="#e53935"/>
+  <rect x="560" y="74" width="240" height="4" fill="#e53935"/>
+  <text x="680" y="102" text-anchor="middle" font-size="12" font-weight="bold" fill="#1a2e2a">Reverse causation</text>
+
+  <circle cx="625" cy="170" r="28" fill="#ffebee" stroke="#e53935" stroke-width="2"/>
+  <text x="625" y="167" text-anchor="middle" font-size="9" fill="#c62828">Low</text>
+  <text x="625" y="179" text-anchor="middle" font-size="9" fill="#c62828">activity</text>
+  <circle cx="735" cy="170" r="28" fill="#ffebee" stroke="#e53935" stroke-width="2"/>
+  <text x="735" y="167" text-anchor="middle" font-size="9" fill="#c62828">Poor</text>
+  <text x="735" y="179" text-anchor="middle" font-size="9" fill="#c62828">health</text>
+  <line x1="705" y1="163" x2="655" y2="163" stroke="#e53935" stroke-width="2" marker-end="url(#red)"/>
+
+  <line x1="576" y1="212" x2="784" y2="212" stroke="#ffebee" stroke-width="1"/>
+  <text x="680" y="232" text-anchor="middle" font-size="9.5" fill="#333">B causes A, not the</text>
+  <text x="680" y="248" text-anchor="middle" font-size="9.5" fill="#333">other way around.</text>
+  <text x="680" y="264" text-anchor="middle" font-size="9.5" fill="#333">Sick people exercise</text>
+  <text x="680" y="280" text-anchor="middle" font-size="9.5" fill="#333">less because they are sick.</text>
+  <text x="680" y="300" text-anchor="middle" font-size="9" fill="#e53935" font-style="italic">Common in</text>
+  <text x="680" y="314" text-anchor="middle" font-size="9" fill="#e53935" font-style="italic">cross-sectional data</text>
+
+  <text x="410" y="348" text-anchor="middle" font-size="9.5" fill="#aaa">bioflowhub.com</text>
+</svg>
