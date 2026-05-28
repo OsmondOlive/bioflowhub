@@ -29,7 +29,7 @@ We live in an era of unprecedented access to health information and unprecedente
   <figcaption>Producing reliable health evidence is a slow, painstaking process. Evaluating it critically requires understanding the specific limitations of each study design, something that rarely makes it into the headline.</figcaption>
 </figure>
 
-The solution is not to find better authorities to trust blindly. It is to develop a working understanding of how health evidence is generated, evaluated, and misrepresented, so you can assess claims yourself. As a biomedical scientist, this is probably the most useful thing I can share on this site.
+The solution is not to find better authorities to trust blindly. It is to develop a working understanding of how health evidence is generated, evaluated, and misrepresented, so you can assess claims yourself. Simple, consistent health habits will always matter more than sophisticated research literacy — but knowing how to evaluate what you read helps you protect those habits from being disrupted by every new headline.
 
 ---
 
