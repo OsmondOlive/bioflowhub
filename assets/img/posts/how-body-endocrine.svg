@@ -1,0 +1,63 @@
+<svg viewBox="0 0 820 420" xmlns="http://www.w3.org/2000/svg" font-family="Georgia, serif">
+  <rect width="820" height="420" fill="#f8faf9" rx="12"/>
+  <text x="410" y="34" text-anchor="middle" font-size="17" font-weight="bold" fill="#1a2e2a">The Endocrine System: Glands and Hormones</text>
+  <text x="410" y="54" text-anchor="middle" font-size="11" fill="#666">Hormones regulate metabolism, growth, reproduction, stress, sleep, mood, and immunity</text>
+
+  <!-- Body silhouette simplified -->
+  <!-- Head -->
+  <ellipse cx="260" cy="105" rx="40" ry="48" fill="#f5f5f5" stroke="#ccc" stroke-width="1.5"/>
+  <!-- Neck -->
+  <rect x="245" y="150" width="30" height="30" fill="#f5f5f5" stroke="#ccc" stroke-width="1.5"/>
+  <!-- Torso -->
+  <path d="M 195 178 Q 185 220 190 290 Q 195 340 225 360 L 295 360 Q 325 340 330 290 Q 335 220 325 178 Z" fill="#f5f5f5" stroke="#ccc" stroke-width="1.5"/>
+
+  <!-- Hypothalamus/Pituitary -->
+  <circle cx="260" cy="118" r="9" fill="#7c4dff" stroke="#4a148c" stroke-width="2"/>
+  <line x1="269" y1="118" x2="340" y2="110" stroke="#7c4dff" stroke-width="1.5" stroke-dasharray="4,3"/>
+  <rect x="340" y="94" width="150" height="48" rx="6" fill="#ede7f6" stroke="#7c4dff" stroke-width="1.5"/>
+  <text x="415" y="112" text-anchor="middle" font-size="11" font-weight="bold" fill="#4a148c">Hypothalamus / Pituitary</text>
+  <text x="415" y="127" text-anchor="middle" font-size="10" fill="#555">Master control: signals all other</text>
+  <text x="415" y="140" text-anchor="middle" font-size="10" fill="#555">endocrine glands via hormones</text>
+
+  <!-- Thyroid -->
+  <ellipse cx="260" cy="172" rx="18" ry="10" fill="#26c6da" stroke="#006064" stroke-width="2"/>
+  <line x1="278" y1="172" x2="340" y2="175" stroke="#26c6da" stroke-width="1.5" stroke-dasharray="4,3"/>
+  <rect x="340" y="158" width="150" height="48" rx="6" fill="#e0f7fa" stroke="#26c6da" stroke-width="1.5"/>
+  <text x="415" y="176" text-anchor="middle" font-size="11" font-weight="bold" fill="#006064">Thyroid</text>
+  <text x="415" y="191" text-anchor="middle" font-size="10" fill="#555">T3, T4: regulate metabolic rate,</text>
+  <text x="415" y="203" text-anchor="middle" font-size="10" fill="#555">energy, heart rate, mood</text>
+
+  <!-- Adrenal glands -->
+  <ellipse cx="225" cy="250" rx="14" ry="10" fill="#ff7043" stroke="#bf360c" stroke-width="2"/>
+  <ellipse cx="295" cy="250" rx="14" ry="10" fill="#ff7043" stroke="#bf360c" stroke-width="2"/>
+  <line x1="211" y1="250" x2="145" y2="248" stroke="#ff7043" stroke-width="1.5" stroke-dasharray="4,3"/>
+  <rect x="0" y="232" width="145" height="48" rx="6" fill="#fbe9e7" stroke="#ff7043" stroke-width="1.5"/>
+  <text x="72" y="250" text-anchor="middle" font-size="11" font-weight="bold" fill="#bf360c">Adrenal Glands</text>
+  <text x="72" y="265" text-anchor="middle" font-size="10" fill="#555">Cortisol, adrenaline:</text>
+  <text x="72" y="277" text-anchor="middle" font-size="10" fill="#555">stress and energy response</text>
+
+  <!-- Pancreas -->
+  <ellipse cx="235" cy="290" rx="30" ry="12" fill="#ffee58" stroke="#f57f17" stroke-width="2"/>
+  <line x1="265" y1="290" x2="340" y2="295" stroke="#ffee58" stroke-width="1.5" stroke-dasharray="4,3"/>
+  <rect x="340" y="278" width="150" height="48" rx="6" fill="#fffde7" stroke="#ffee58" stroke-width="1.5"/>
+  <text x="415" y="296" text-anchor="middle" font-size="11" font-weight="bold" fill="#f57f17">Pancreas</text>
+  <text x="415" y="311" text-anchor="middle" font-size="10" fill="#555">Insulin, glucagon:</text>
+  <text x="415" y="323" text-anchor="middle" font-size="10" fill="#555">blood glucose regulation</text>
+
+  <!-- Gonads -->
+  <ellipse cx="245" cy="345" rx="12" ry="9" fill="#ec407a" stroke="#880e4f" stroke-width="2"/>
+  <ellipse cx="275" cy="345" rx="12" ry="9" fill="#ec407a" stroke="#880e4f" stroke-width="2"/>
+  <line x1="233" y1="345" x2="145" y2="355" stroke="#ec407a" stroke-width="1.5" stroke-dasharray="4,3"/>
+  <rect x="0" y="338" width="145" height="48" rx="6" fill="#fce4ec" stroke="#ec407a" stroke-width="1.5"/>
+  <text x="72" y="356" text-anchor="middle" font-size="11" font-weight="bold" fill="#880e4f">Gonads</text>
+  <text x="72" y="371" text-anchor="middle" font-size="10" fill="#555">Estrogen, testosterone:</text>
+  <text x="72" y="383" text-anchor="middle" font-size="10" fill="#555">reproduction, bone, mood</text>
+
+  <!-- Key insight -->
+  <rect x="500" y="340" width="300" height="52" rx="8" fill="#f0f9f4" stroke="#2e7d5e" stroke-width="1"/>
+  <text x="650" y="360" text-anchor="middle" font-size="10.5" font-weight="bold" fill="#1a2e2a">Hormonal balance is dynamic.</text>
+  <text x="650" y="375" text-anchor="middle" font-size="10" fill="#333">Sleep, diet, exercise, and stress directly</text>
+  <text x="650" y="389" text-anchor="middle" font-size="10" fill="#333">affect every gland in this system.</text>
+
+  <text x="410" y="410" text-anchor="middle" font-size="9.5" fill="#aaa">bioflowhub.com</text>
+</svg>

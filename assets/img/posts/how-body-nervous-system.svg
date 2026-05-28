@@ -1,0 +1,77 @@
+<svg viewBox="0 0 820 420" xmlns="http://www.w3.org/2000/svg" font-family="Georgia, serif">
+  <rect width="820" height="420" fill="#f8faf9" rx="12"/>
+  <text x="410" y="34" text-anchor="middle" font-size="17" font-weight="bold" fill="#1a2e2a">The Autonomic Nervous System</text>
+  <text x="410" y="54" text-anchor="middle" font-size="11" fill="#666">Two complementary divisions that regulate the body's stress and recovery states</text>
+
+  <!-- Divider -->
+  <line x1="410" y1="68" x2="410" y2="390" stroke="#e0e0e0" stroke-width="1.5" stroke-dasharray="6,4"/>
+
+  <!-- SYMPATHETIC side (left) -->
+  <rect x="20" y="72" width="370" height="40" rx="8" fill="#ffebee" stroke="#e53935" stroke-width="2"/>
+  <text x="205" y="88" text-anchor="middle" font-size="14" font-weight="bold" fill="#c62828">Sympathetic Division</text>
+  <text x="205" y="104" text-anchor="middle" font-size="10" fill="#e53935">"Fight or Flight" — Activation</text>
+
+  <!-- Sympathetic effects -->
+  <rect x="25" y="122" width="360" height="220" rx="8" fill="#fff" stroke="#ffcdd2" stroke-width="1.5"/>
+
+  <text x="205" y="146" text-anchor="middle" font-size="11" font-weight="bold" fill="#c62828">Activated by:</text>
+  <text x="205" y="162" text-anchor="middle" font-size="10" fill="#555">Stress, perceived threat, exercise</text>
+  <text x="205" y="176" text-anchor="middle" font-size="10" fill="#555">caffeine, fear, anxiety</text>
+
+  <line x1="45" y1="186" x2="375" y2="186" stroke="#ffcdd2" stroke-width="1"/>
+
+  <text x="205" y="204" text-anchor="middle" font-size="11" font-weight="bold" fill="#c62828">Physiological effects:</text>
+  <text x="130" y="222" text-anchor="middle" font-size="10" fill="#333">↑ Heart rate</text>
+  <text x="280" y="222" text-anchor="middle" font-size="10" fill="#333">↑ Blood pressure</text>
+  <text x="130" y="238" text-anchor="middle" font-size="10" fill="#333">↑ Blood glucose</text>
+  <text x="280" y="238" text-anchor="middle" font-size="10" fill="#333">↑ Cortisol</text>
+  <text x="130" y="254" text-anchor="middle" font-size="10" fill="#333">↓ Digestion</text>
+  <text x="280" y="254" text-anchor="middle" font-size="10" fill="#333">↓ Immunity</text>
+  <text x="130" y="270" text-anchor="middle" font-size="10" fill="#333">Pupils dilate</text>
+  <text x="280" y="270" text-anchor="middle" font-size="10" fill="#333">Muscles tense</text>
+
+  <line x1="45" y1="280" x2="375" y2="280" stroke="#ffcdd2" stroke-width="1"/>
+
+  <rect x="40" y="288" width="345" height="44" rx="6" fill="#ffebee"/>
+  <text x="212" y="306" text-anchor="middle" font-size="10" fill="#c62828" font-weight="bold">Chronic dominance causes:</text>
+  <text x="212" y="322" text-anchor="middle" font-size="10" fill="#555">HPA dysregulation, cardiovascular damage,</text>
+  <text x="212" y="336" text-anchor="middle" font-size="10" fill="#555">immune suppression, metabolic dysfunction</text>
+
+  <!-- PARASYMPATHETIC side (right) -->
+  <rect x="430" y="72" width="370" height="40" rx="8" fill="#e8f5e9" stroke="#2e7d5e" stroke-width="2"/>
+  <text x="615" y="88" text-anchor="middle" font-size="14" font-weight="bold" fill="#1b5e20">Parasympathetic Division</text>
+  <text x="615" y="104" text-anchor="middle" font-size="10" fill="#2e7d5e">"Rest and Digest" — Recovery</text>
+
+  <!-- Parasympathetic effects -->
+  <rect x="435" y="122" width="360" height="220" rx="8" fill="#fff" stroke="#c8e6c9" stroke-width="1.5"/>
+
+  <text x="615" y="146" text-anchor="middle" font-size="11" font-weight="bold" fill="#1b5e20">Activated by:</text>
+  <text x="615" y="162" text-anchor="middle" font-size="10" fill="#555">Slow breathing, meditation, sleep</text>
+  <text x="615" y="176" text-anchor="middle" font-size="10" fill="#555">social connection, nature, prayer</text>
+
+  <line x1="450" y1="186" x2="782" y2="186" stroke="#c8e6c9" stroke-width="1"/>
+
+  <text x="615" y="204" text-anchor="middle" font-size="11" font-weight="bold" fill="#1b5e20">Physiological effects:</text>
+  <text x="530" y="222" text-anchor="middle" font-size="10" fill="#333">↓ Heart rate</text>
+  <text x="700" y="222" text-anchor="middle" font-size="10" fill="#333">↓ Blood pressure</text>
+  <text x="530" y="238" text-anchor="middle" font-size="10" fill="#333">↓ Cortisol</text>
+  <text x="700" y="238" text-anchor="middle" font-size="10" fill="#333">↑ Digestion</text>
+  <text x="530" y="254" text-anchor="middle" font-size="10" fill="#333">↑ Immunity</text>
+  <text x="700" y="254" text-anchor="middle" font-size="10" fill="#333">↑ Recovery</text>
+  <text x="530" y="270" text-anchor="middle" font-size="10" fill="#333">Muscles relax</text>
+  <text x="700" y="270" text-anchor="middle" font-size="10" fill="#333">Memory consolidation</text>
+
+  <line x1="450" y1="280" x2="782" y2="280" stroke="#c8e6c9" stroke-width="1"/>
+
+  <rect x="448" y="288" width="345" height="44" rx="6" fill="#e8f5e9"/>
+  <text x="620" y="306" text-anchor="middle" font-size="10" fill="#1b5e20" font-weight="bold">Primary channel: Vagus Nerve</text>
+  <text x="620" y="322" text-anchor="middle" font-size="10" fill="#555">Activated by slow breathing, exercise,</text>
+  <text x="620" y="336" text-anchor="middle" font-size="10" fill="#555">and gut-brain axis communication</text>
+
+  <!-- Bottom key insight -->
+  <rect x="20" y="352" width="780" height="34" rx="8" fill="#f0f9f4" stroke="#2e7d5e" stroke-width="1"/>
+  <text x="410" y="367" text-anchor="middle" font-size="10.5" font-weight="bold" fill="#1a2e2a">The balance between these two divisions determines your baseline physiological state.</text>
+  <text x="410" y="381" text-anchor="middle" font-size="10.5" fill="#333">Chronic stress = chronic sympathetic dominance. Every evidence-based stress intervention works by activating the parasympathetic branch.</text>
+
+  <text x="410" y="410" text-anchor="middle" font-size="9.5" fill="#aaa">bioflowhub.com</text>
+</svg>
