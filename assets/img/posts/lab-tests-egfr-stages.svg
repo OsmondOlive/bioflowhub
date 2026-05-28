@@ -1,0 +1,87 @@
+<svg viewBox="0 0 820 430" xmlns="http://www.w3.org/2000/svg" font-family="Georgia, serif">
+  <rect width="820" height="430" fill="#f8faf9" rx="12"/>
+
+  <text x="410" y="36" text-anchor="middle" font-size="17" font-weight="bold" fill="#1a2e2a">Chronic Kidney Disease: eGFR Staging</text>
+  <text x="410" y="56" text-anchor="middle" font-size="11" fill="#666">eGFR below 60 mL/min/1.73m² on two separate occasions, 90 days apart, meets CKD diagnostic criteria</text>
+
+  <!-- G1 -->
+  <rect x="30" y="74" width="148" height="184" rx="8" fill="#e8f5e9" stroke="#4caf50" stroke-width="1.5"/>
+  <rect x="30" y="74" width="148" height="10" rx="8" fill="#4caf50"/>
+  <rect x="30" y="80" width="148" height="4" fill="#4caf50"/>
+  <text x="104" y="110" text-anchor="middle" font-size="13" font-weight="bold" fill="#1a2e2a">Stage G1</text>
+  <text x="104" y="130" text-anchor="middle" font-size="22" font-weight="bold" fill="#4caf50">≥90</text>
+  <text x="104" y="148" text-anchor="middle" font-size="10" fill="#555">mL/min/1.73m²</text>
+  <line x1="46" y1="158" x2="162" y2="158" stroke="#ccc" stroke-width="1"/>
+  <text x="104" y="174" text-anchor="middle" font-size="10" fill="#333">Normal or high</text>
+  <text x="104" y="190" text-anchor="middle" font-size="10" fill="#333">kidney function</text>
+  <line x1="46" y1="204" x2="162" y2="204" stroke="#ccc" stroke-width="1"/>
+  <text x="104" y="220" text-anchor="middle" font-size="9" fill="#4caf50" font-style="italic">Monitor if other</text>
+  <text x="104" y="234" text-anchor="middle" font-size="9" fill="#4caf50" font-style="italic">risk factors present</text>
+  <text x="104" y="248" text-anchor="middle" font-size="9" fill="#4caf50" font-style="italic">(e.g. high uACR)</text>
+
+  <!-- G2 -->
+  <rect x="188" y="74" width="148" height="184" rx="8" fill="#f1f8e9" stroke="#8bc34a" stroke-width="1.5"/>
+  <rect x="188" y="74" width="148" height="10" rx="8" fill="#8bc34a"/>
+  <rect x="188" y="80" width="148" height="4" fill="#8bc34a"/>
+  <text x="262" y="110" text-anchor="middle" font-size="13" font-weight="bold" fill="#1a2e2a">Stage G2</text>
+  <text x="262" y="130" text-anchor="middle" font-size="22" font-weight="bold" fill="#8bc34a">60–89</text>
+  <text x="262" y="148" text-anchor="middle" font-size="10" fill="#555">mL/min/1.73m²</text>
+  <line x1="204" y1="158" x2="320" y2="158" stroke="#ccc" stroke-width="1"/>
+  <text x="262" y="174" text-anchor="middle" font-size="10" fill="#333">Mildly decreased</text>
+  <text x="262" y="190" text-anchor="middle" font-size="10" fill="#333">kidney function</text>
+  <line x1="204" y1="204" x2="320" y2="204" stroke="#ccc" stroke-width="1"/>
+  <text x="262" y="220" text-anchor="middle" font-size="9" fill="#666" font-style="italic">Annual monitoring</text>
+  <text x="262" y="234" text-anchor="middle" font-size="9" fill="#666" font-style="italic">recommended</text>
+
+  <!-- G3a -->
+  <rect x="346" y="74" width="148" height="184" rx="8" fill="#fff8e1" stroke="#ffc107" stroke-width="1.5"/>
+  <rect x="346" y="74" width="148" height="10" rx="8" fill="#ffc107"/>
+  <rect x="346" y="80" width="148" height="4" fill="#ffc107"/>
+  <text x="420" y="110" text-anchor="middle" font-size="13" font-weight="bold" fill="#1a2e2a">Stage G3a</text>
+  <text x="420" y="130" text-anchor="middle" font-size="22" font-weight="bold" fill="#e6a800">45–59</text>
+  <text x="420" y="148" text-anchor="middle" font-size="10" fill="#555">mL/min/1.73m²</text>
+  <line x1="362" y1="158" x2="478" y2="158" stroke="#ccc" stroke-width="1"/>
+  <text x="420" y="174" text-anchor="middle" font-size="10" fill="#333">Mild to moderate</text>
+  <text x="420" y="190" text-anchor="middle" font-size="10" fill="#333">decrease</text>
+  <line x1="362" y1="204" x2="478" y2="204" stroke="#ccc" stroke-width="1"/>
+  <text x="420" y="220" text-anchor="middle" font-size="9" fill="#e6a800" font-style="italic">CKD diagnosis</text>
+  <text x="420" y="234" text-anchor="middle" font-size="9" fill="#e6a800" font-style="italic">confirmed</text>
+
+  <!-- G3b -->
+  <rect x="504" y="74" width="148" height="184" rx="8" fill="#fff3e0" stroke="#ff9800" stroke-width="1.5"/>
+  <rect x="504" y="74" width="148" height="10" rx="8" fill="#ff9800"/>
+  <rect x="504" y="80" width="148" height="4" fill="#ff9800"/>
+  <text x="578" y="110" text-anchor="middle" font-size="13" font-weight="bold" fill="#1a2e2a">Stage G3b</text>
+  <text x="578" y="130" text-anchor="middle" font-size="22" font-weight="bold" fill="#ff9800">30–44</text>
+  <text x="578" y="148" text-anchor="middle" font-size="10" fill="#555">mL/min/1.73m²</text>
+  <line x1="520" y1="158" x2="636" y2="158" stroke="#ccc" stroke-width="1"/>
+  <text x="578" y="174" text-anchor="middle" font-size="10" fill="#333">Moderate to severe</text>
+  <text x="578" y="190" text-anchor="middle" font-size="10" fill="#333">decrease</text>
+  <line x1="520" y1="204" x2="636" y2="204" stroke="#ccc" stroke-width="1"/>
+  <text x="578" y="220" text-anchor="middle" font-size="9" fill="#ff6f00" font-style="italic">Nephrology referral</text>
+  <text x="578" y="234" text-anchor="middle" font-size="9" fill="#ff6f00" font-style="italic">should be considered</text>
+
+  <!-- G4/G5 -->
+  <rect x="662" y="74" width="130" height="184" rx="8" fill="#ffebee" stroke="#e53935" stroke-width="2"/>
+  <rect x="662" y="74" width="130" height="10" rx="8" fill="#e53935"/>
+  <rect x="662" y="80" width="130" height="4" fill="#e53935"/>
+  <text x="727" y="110" text-anchor="middle" font-size="13" font-weight="bold" fill="#1a2e2a">G4 / G5</text>
+  <text x="727" y="130" text-anchor="middle" font-size="22" font-weight="bold" fill="#e53935">&lt;30</text>
+  <text x="727" y="148" text-anchor="middle" font-size="10" fill="#555">mL/min/1.73m²</text>
+  <line x1="678" y1="158" x2="776" y2="158" stroke="#ccc" stroke-width="1"/>
+  <text x="727" y="174" text-anchor="middle" font-size="10" fill="#333">Severely decreased</text>
+  <text x="727" y="190" text-anchor="middle" font-size="10" fill="#333">to kidney failure</text>
+  <line x1="678" y1="204" x2="776" y2="204" stroke="#ccc" stroke-width="1"/>
+  <text x="727" y="220" text-anchor="middle" font-size="9" fill="#e53935" font-style="italic">Specialist care</text>
+  <text x="727" y="234" text-anchor="middle" font-size="9" fill="#e53935" font-style="italic">essential</text>
+
+  <!-- Key clinical point box — starts at y=276, height=100 -->
+  <rect x="30" y="276" width="762" height="100" rx="8" fill="#f0f9f4" stroke="#2e7d5e" stroke-width="1"/>
+  <text x="410" y="298" text-anchor="middle" font-size="11" font-weight="bold" fill="#1a2e2a">Key clinical point:</text>
+  <text x="410" y="316" text-anchor="middle" font-size="10.5" fill="#333">eGFR should always be interpreted alongside urine albumin-to-creatinine ratio (uACR).</text>
+  <text x="410" y="333" text-anchor="middle" font-size="10.5" fill="#333">Albumin in urine is often the earliest detectable sign of kidney damage,</text>
+  <text x="410" y="350" text-anchor="middle" font-size="10.5" fill="#333">appearing years before eGFR begins to fall.</text>
+
+  <text x="410" y="400" text-anchor="middle" font-size="9.5" fill="#aaa">Based on KDIGO 2022 Clinical Practice Guideline for CKD</text>
+  <text x="410" y="416" text-anchor="middle" font-size="9.5" fill="#aaa">bioflowhub.com</text>
+</svg>
