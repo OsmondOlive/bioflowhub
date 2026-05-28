@@ -167,6 +167,12 @@ Aging is not a single process but the cumulative result of several interconnecte
 
 **Mitochondrial dysfunction:** Mitochondria become less efficient with age, producing less ATP and generating more reactive oxygen species that damage cellular components. This decline is not simply an inevitable feature of aging. It is accelerated by sedentary behavior, poor diet, and chronic stress, and measurably slowed by exercise, which is the most potent known stimulus for mitochondrial biogenesis.
 
+<div class="bio-box">
+  <p>🏋️ <strong>Exercise is the most powerful tool for mitochondrial health.</strong> Resistance training in particular drives mitochondrial biogenesis in muscle tissue while improving insulin sensitivity and slowing the cellular decline associated with aging. Resistance bands make this accessible anywhere, with no gym required.</p>
+  <a href="https://amzn.to/4uU7yq4" target="_blank" rel="noopener" class="bio-btn">Check Resistance Bands on Amazon →</a>
+  <a href="https://amzn.to/4nsSq05" target="_blank" rel="noopener" class="bio-btn-secondary">Foam Roller on Amazon</a>
+</div>
+
 **Cellular senescence:** Damaged cells that cannot replicate normally enter a state of senescence. They stop dividing but remain metabolically active, secreting inflammatory signals (the senescence-associated secretory phenotype, or SASP) that progressively damage neighboring cells and tissues. Accumulated senescent cells are a major driver of the chronic inflammation that accompanies aging.
 
 **Chronic inflammation:** Now recognized as its own hallmark, persistent low-grade inflammation, sometimes called "inflammaging," accelerates virtually every other aging mechanism. It is measurable in blood as elevated hs-CRP and interleukin-6, and it responds to the same lifestyle interventions that address the other hallmarks.
