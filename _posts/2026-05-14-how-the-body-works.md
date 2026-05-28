@@ -86,14 +86,14 @@ From a biomedical standpoint, cardiorespiratory fitness is one of the most power
 
 The immune system is not a single organ but a distributed network of cells, proteins, and tissues. Its primary functions are to defend against pathogens, clear damaged or abnormal cells, and maintain tolerance toward the body's own tissues.
 
-The **innate immune system** responds rapidly and non-specifically. Natural killer cells, macrophages, and neutrophils are the first responders. In research my colleagues and I published in the *Journal of Cellular Biochemistry*, we showed that the neutrophil's multi-lobed nucleus, long considered a structural curiosity, plays a functional role in how these cells migrate through tissue and engage pathogens. The nucleus actively contributes to cell motility in a way that goes beyond simple packaging of DNA.
+The **innate immune system** responds rapidly and non-specifically. Natural killer cells, macrophages, and neutrophils are the first responders. Neutrophils account for 50 to 70% of all circulating white blood cells, with roughly 100 billion produced in the bone marrow every day. Their role extends well beyond simple pathogen destruction: research has shown that neutrophils actively regulate both innate and adaptive immune responses, participate in tissue homeostasis, and form extracellular traps to capture pathogens. Their characteristic multi-lobed nucleus plays a direct functional role in how these cells migrate through narrow tissue spaces to reach infection sites.
 
 The **adaptive immune system** learns. T cells and B cells recognize specific molecular signatures, mount targeted responses, and form immunological memory. This is how vaccines work and why most infections only occur once in their original form.
 
 Chronic low-grade inflammation, now recognized as a central driver of cardiovascular disease, diabetes, cancer, and neurodegeneration, represents a state in which the immune system is persistently activated without a specific acute threat. Poor diet, physical inactivity, inadequate sleep, and chronic stress all contribute to this state independently and cumulatively.
 
 **References:**
-- Carvalho LO, Aquino EN, Neves ACD, Fontes W. (2015). The neutrophil nucleus and its role in neutrophilic function. *Journal of Cellular Biochemistry*, 116(7), 1316-1322. [PubMed](https://pubmed.ncbi.nlm.nih.gov/25727365/){:target="_blank" rel="noopener"}
+- Kraus RF, Gruber MA. (2021). Neutrophils: from bone marrow to first-line defense of the innate immune system. *Frontiers in Immunology*, 12, 767175. [PubMed](https://pubmed.ncbi.nlm.nih.gov/34975844/){:target="_blank" rel="noopener"}
 
 <div class="bio-box">
   <p>☀️ <strong>Vitamin D functions as a hormone</strong> with receptors on virtually every immune cell type. Deficiency impairs both innate and adaptive immunity and is extraordinarily common globally. Paired with K2, it supports immune function, bone health, and cardiovascular protection.</p>
