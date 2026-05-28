@@ -93,7 +93,7 @@ The **adaptive immune system** learns. T cells and B cells recognize specific mo
 Chronic low-grade inflammation, now recognized as a central driver of cardiovascular disease, diabetes, cancer, and neurodegeneration, represents a state in which the immune system is persistently activated without a specific acute threat. Poor diet, physical inactivity, inadequate sleep, and chronic stress all contribute to this state independently and cumulatively.
 
 **References:**
-- Kraus RF, Gruber MA. (2021). Neutrophils: from bone marrow to first-line defense of the innate immune system. *Frontiers in Immunology*, 12, 767175. [PubMed](https://pubmed.ncbi.nlm.nih.gov/34975844/){:target="_blank" rel="noopener"}
+- Kraus RF, Gruber MA. (2021). Neutrophils: from bone marrow to first-line defense of the innate immune system. *Frontiers in Immunology*, 12, 767175. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35003081/){:target="_blank" rel="noopener"}
 
 <div class="bio-box">
   <p>☀️ <strong>Vitamin D functions as a hormone</strong> with receptors on virtually every immune cell type. Deficiency impairs both innate and adaptive immunity and is extraordinarily common globally. Paired with K2, it supports immune function, bone health, and cardiovascular protection.</p>

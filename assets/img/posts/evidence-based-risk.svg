@@ -1,0 +1,57 @@
+<svg viewBox="0 0 820 380" xmlns="http://www.w3.org/2000/svg" font-family="Georgia, serif">
+  <rect width="820" height="380" fill="#f8faf9" rx="12"/>
+  <text x="410" y="34" text-anchor="middle" font-size="17" font-weight="bold" fill="#1a2e2a">Relative Risk vs. Absolute Risk</text>
+  <text x="410" y="54" text-anchor="middle" font-size="11" fill="#666">The same data can look very different depending on how it is presented</text>
+
+  <!-- Scenario label -->
+  <rect x="20" y="68" width="780" height="30" rx="6" fill="#fff3e0" stroke="#ff9800" stroke-width="1"/>
+  <text x="410" y="88" text-anchor="middle" font-size="11" font-weight="bold" fill="#e65100">Scenario: A supplement reduces the risk of a rare condition</text>
+
+  <!-- Left panel: Without supplement -->
+  <rect x="20" y="110" width="370" height="210" rx="10" fill="#fff" stroke="#e0e0e0" stroke-width="1.5"/>
+  <text x="205" y="133" text-anchor="middle" font-size="13" font-weight="bold" fill="#1a2e2a">Without supplement</text>
+  <text x="205" y="150" text-anchor="middle" font-size="11" fill="#555">1,000 people followed for 10 years</text>
+
+  <!-- People grid (10x10 = 100 icons, 2 affected) -->
+  <!-- Simplified: show as proportion bar -->
+  <rect x="50" y="162" width="310" height="28" rx="4" fill="#e3f2fd"/>
+  <rect x="50" y="162" width="6" height="28" rx="2" fill="#e53935"/>
+  <text x="370" y="181" text-anchor="end" font-size="10" fill="#555">1,000 people</text>
+  <text x="56" y="205" font-size="10" fill="#e53935">2 develop condition</text>
+
+  <line x1="40" y1="220" x2="380" y2="220" stroke="#eee" stroke-width="1"/>
+  <text x="205" y="240" text-anchor="middle" font-size="12" font-weight="bold" fill="#1a2e2a">Baseline risk:</text>
+  <text x="205" y="258" text-anchor="middle" font-size="20" font-weight="bold" fill="#e53935">2 / 1,000</text>
+  <text x="205" y="276" text-anchor="middle" font-size="11" fill="#555">= 0.2% absolute risk</text>
+  <text x="205" y="304" text-anchor="middle" font-size="10" fill="#888" font-style="italic">2 people out of every 1,000</text>
+  <text x="205" y="318" text-anchor="middle" font-size="10" fill="#888" font-style="italic">will be affected</text>
+
+  <!-- Right panel: With supplement -->
+  <rect x="430" y="110" width="370" height="210" rx="10" fill="#fff" stroke="#e0e0e0" stroke-width="1.5"/>
+  <text x="615" y="133" text-anchor="middle" font-size="13" font-weight="bold" fill="#1a2e2a">With supplement</text>
+  <text x="615" y="150" text-anchor="middle" font-size="11" fill="#555">1,000 people followed for 10 years</text>
+
+  <rect x="460" y="162" width="310" height="28" rx="4" fill="#e3f2fd"/>
+  <rect x="460" y="162" width="3" height="28" rx="2" fill="#4caf50"/>
+  <text x="780" y="181" text-anchor="end" font-size="10" fill="#555">1,000 people</text>
+  <text x="466" y="205" font-size="10" fill="#4caf50">1 develops condition</text>
+
+  <line x1="450" y1="220" x2="790" y2="220" stroke="#eee" stroke-width="1"/>
+  <text x="615" y="240" text-anchor="middle" font-size="12" font-weight="bold" fill="#1a2e2a">With supplement:</text>
+  <text x="615" y="258" text-anchor="middle" font-size="20" font-weight="bold" fill="#4caf50">1 / 1,000</text>
+  <text x="615" y="276" text-anchor="middle" font-size="11" fill="#555">= 0.1% absolute risk</text>
+  <text x="615" y="304" text-anchor="middle" font-size="10" fill="#888" font-style="italic">1 person out of every 1,000</text>
+  <text x="615" y="318" text-anchor="middle" font-size="10" fill="#888" font-style="italic">will be affected</text>
+
+  <!-- Central arrow -->
+  <text x="410" y="230" text-anchor="middle" font-size="22" fill="#2e7d5e">→</text>
+
+  <!-- Bottom: two framings -->
+  <rect x="20" y="330" width="370" height="38" rx="6" fill="#ffebee" stroke="#e53935" stroke-width="1"/>
+  <text x="205" y="346" text-anchor="middle" font-size="10" font-weight="bold" fill="#c62828">Relative risk framing (headline):</text>
+  <text x="205" y="360" text-anchor="middle" font-size="10" fill="#333">"Supplement reduces risk by 50%!" (2→1)</text>
+
+  <rect x="430" y="330" width="370" height="38" rx="6" fill="#e8f5e9" stroke="#2e7b32" stroke-width="1"/>
+  <text x="615" y="346" text-anchor="middle" font-size="10" font-weight="bold" fill="#1b5e20">Absolute risk framing (reality):</text>
+  <text x="615" y="360" text-anchor="middle" font-size="10" fill="#333">"Risk reduced from 0.2% to 0.1% (1 in 1,000 benefit)"</text>
+</svg>
