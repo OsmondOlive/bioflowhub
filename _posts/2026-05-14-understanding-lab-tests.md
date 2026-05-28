@@ -124,7 +124,7 @@ The CBC measures the cellular components of blood across several systems simulta
 **Free T4 and free T3** add important information when TSH is borderline or when symptoms persist despite a TSH within range. Subclinical hypothyroidism with low-normal free T3 is a clinically relevant pattern that TSH alone can miss.
 
 **References:**
-- Jonklaas J, et al. (2014). Guidelines for the treatment of hypothyroidism. *Thyroid*, 24(12), 1670-1751. [PubMed](https://pubmed.ncbi.nlm.nih.gov/25285702/){:target="_blank" rel="noopener"}
+- Jonklaas J, et al. (2014). Guidelines for the treatment of hypothyroidism. *Thyroid*, 24(12), 1670-1751. [PubMed](https://pubmed.ncbi.nlm.nih.gov/25266247/){:target="_blank" rel="noopener"}
 
 ---
 
