@@ -63,7 +63,7 @@ A topical cream formulated for joint, back, and muscle support. Contains arnica 
 ### Joint Genesis
 A dietary supplement formulated specifically for joint health, developed under medical direction and produced in an FDA-inspected facility. Targets the underlying mechanisms of joint discomfort rather than just masking symptoms.
 
-<a href="https://hop.clickbank.net/?affiliate=carvalholo&vendor=jointgen&v=bvsl" target="_blank" rel="noopener" class="rec-btn">Get Joint Genesis →</a>
+<a href="https://63a224hm04xcpjw9s9oew2zo1p.hop.clickbank.net/?&traffic_source=blog&traffic_type=organic&campaign=bioflowhub" target="_blank" rel="noopener" class="rec-btn">Get Joint Genesis →</a>
 <a href="/2026-05-19-joint-genesis-review/" class="rec-btn-secondary">Read my review</a>
 
 <hr class="rec-divider">
