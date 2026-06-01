@@ -197,7 +197,7 @@ When you know that the vagus nerve mediates the parasympathetic response, the in
 
 When you know that chronic inflammation drives most chronic disease, dietary and lifestyle choices that reduce it are not optional extras. They are foundational.
 
-Biology is not destiny. But understanding it is a prerequisite for changing it.
+Biology is not destiny. But understanding it can help you preserve your health and also the planet.
 
 ---
 
