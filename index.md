@@ -151,7 +151,7 @@ cover-img: false
 
 <div class="bio-affiliate-box">
   <p>🦴 <strong>Struggling with joint or muscle pain?</strong> I reviewed Balmorex Pro, a topical cream with real biomedical backing for joint, back and muscle support.</p>
-  <a href="/2026-05-09-balmorex-pro-review/" class="bio-affiliate-btn">Read my review →</a>
+  <a href="/2026-04-25-balmorex-pro-review/" class="bio-affiliate-btn">Read my review →</a>
 </div>
 
 <div style="background:linear-gradient(135deg,#1a2e2a,#2e7d5e);border-radius:12px;padding:1.4rem 1.6rem;margin-bottom:2rem;display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:1rem;">
