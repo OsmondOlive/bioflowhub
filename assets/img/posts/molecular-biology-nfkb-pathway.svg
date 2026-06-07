@@ -1,0 +1,126 @@
+<svg viewBox="0 0 720 860" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,sans-serif">
+<rect width="720" height="860" fill="#f8f9fa" rx="14"/>
+<rect width="720" height="860" fill="none" stroke="#dee2e6" stroke-width="1" rx="14"/>
+<defs>
+  <marker id="a1" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto"><polygon points="0 0,10 3.5,0 7" fill="#c62828"/></marker>
+  <marker id="a2" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto"><polygon points="0 0,10 3.5,0 7" fill="#6a1b9a"/></marker>
+  <marker id="a3" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto"><polygon points="0 0,10 3.5,0 7" fill="#1565c0"/></marker>
+  <marker id="a4" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto"><polygon points="0 0,10 3.5,0 7" fill="#1b5e20"/></marker>
+  <marker id="aO" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto"><polygon points="0 0,10 3.5,0 7" fill="#e65100"/></marker>
+</defs>
+
+<!-- Title -->
+<text x="360" y="38" text-anchor="middle" font-size="20" font-weight="600" fill="#1a1a2e">NF-kB Inflammatory Signaling Pathway</text>
+<text x="360" y="58" text-anchor="middle" font-size="12" fill="#6c757d">From extracellular threat to inflammatory gene expression</text>
+<line x1="60" y1="70" x2="660" y2="70" stroke="#dee2e6" stroke-width="1"/>
+
+<!-- ===== EXTRACELLULAR SIGNALS ===== -->
+<rect x="44" y="80" width="632" height="20" rx="5" fill="#eceff1"/>
+<text x="360" y="95" text-anchor="middle" font-size="11" font-weight="600" fill="#607d8b">EXTRACELLULAR SIGNALS</text>
+
+<rect x="60" y="108" width="160" height="44" rx="9" fill="#ffcdd2" stroke="#e57373" stroke-width="1.5"/>
+<text x="140" y="127" text-anchor="middle" font-size="12" font-weight="600" fill="#b71c1c">TNF-alpha</text>
+<text x="140" y="143" text-anchor="middle" font-size="10" fill="#c62828">pro-inflammatory cytokine</text>
+
+<rect x="280" y="108" width="160" height="44" rx="9" fill="#ffcdd2" stroke="#e57373" stroke-width="1.5"/>
+<text x="360" y="127" text-anchor="middle" font-size="12" font-weight="600" fill="#b71c1c">LPS / Pathogens</text>
+<text x="360" y="143" text-anchor="middle" font-size="10" fill="#c62828">bacterial membrane antigen</text>
+
+<rect x="500" y="108" width="160" height="44" rx="9" fill="#ffcdd2" stroke="#e57373" stroke-width="1.5"/>
+<text x="580" y="127" text-anchor="middle" font-size="12" font-weight="600" fill="#b71c1c">IL-1beta</text>
+<text x="580" y="143" text-anchor="middle" font-size="10" fill="#c62828">interleukin signal</text>
+
+<!-- ===== CELL MEMBRANE ===== -->
+<rect x="30" y="162" width="660" height="32" rx="6" fill="#37474f"/>
+<text x="360" y="183" text-anchor="middle" font-size="13" font-weight="700" fill="white" letter-spacing="2">CELL MEMBRANE</text>
+
+<!-- Receptors below membrane -->
+<rect x="44" y="202" width="632" height="20" rx="5" fill="#cfd8dc"/>
+<text x="360" y="217" text-anchor="middle" font-size="10" font-weight="600" fill="#37474f">RECEPTORS (transmembrane proteins)</text>
+
+<rect x="60" y="228" width="148" height="48" rx="8" fill="#78909c" stroke="#546e7a" stroke-width="1.5"/>
+<text x="134" y="248" text-anchor="middle" font-size="11" font-weight="600" fill="white">TNFR1/2</text>
+<text x="134" y="263" text-anchor="middle" font-size="9.5" fill="#eceff1">TNF receptor, trimerizes</text>
+<text x="134" y="276" text-anchor="middle" font-size="9" fill="#b0bec5">recruits TRADD/TRAF2</text>
+
+<rect x="286" y="228" width="148" height="48" rx="8" fill="#78909c" stroke="#546e7a" stroke-width="1.5"/>
+<text x="360" y="248" text-anchor="middle" font-size="11" font-weight="600" fill="white">TLR4</text>
+<text x="360" y="263" text-anchor="middle" font-size="9.5" fill="#eceff1">Toll-like receptor 4</text>
+<text x="360" y="276" text-anchor="middle" font-size="9" fill="#b0bec5">recruits MyD88/TRIF</text>
+
+<rect x="512" y="228" width="148" height="48" rx="8" fill="#78909c" stroke="#546e7a" stroke-width="1.5"/>
+<text x="586" y="248" text-anchor="middle" font-size="11" font-weight="600" fill="white">IL-1R</text>
+<text x="586" y="263" text-anchor="middle" font-size="9.5" fill="#eceff1">IL-1 receptor</text>
+<text x="586" y="276" text-anchor="middle" font-size="9" fill="#b0bec5">recruits IRAK1/4</text>
+
+<!-- Converging arrows to IKK -->
+<line x1="134" y1="276" x2="290" y2="322" stroke="#e57373" stroke-width="1.8" marker-end="url(#a1)"/>
+<line x1="360" y1="276" x2="360" y2="322" stroke="#e57373" stroke-width="1.8" marker-end="url(#a1)"/>
+<line x1="586" y1="276" x2="430" y2="322" stroke="#e57373" stroke-width="1.8" marker-end="url(#a1)"/>
+
+<!-- ===== IKK COMPLEX ===== -->
+<rect x="140" y="330" width="440" height="70" rx="10" fill="#fce4ec" stroke="#ad1457" stroke-width="2"/>
+<text x="360" y="354" text-anchor="middle" font-size="14" font-weight="600" fill="#880e4f">IKK Complex (activated)</text>
+<text x="360" y="372" text-anchor="middle" font-size="11" fill="#ad1457">IKKalpha + IKKbeta + NEMO (IKKgamma)</text>
+<text x="360" y="388" text-anchor="middle" font-size="10" fill="#c2185b">activated by K63-linked polyubiquitination chains</text>
+
+<!-- Arrow IKK down -->
+<line x1="360" y1="400" x2="360" y2="432" stroke="#c62828" stroke-width="2.5" marker-end="url(#a1)"/>
+<text x="460" y="420" font-size="10" fill="#c62828" font-weight="600">phosphorylates IkB</text>
+<text x="460" y="434" font-size="10" fill="#c62828">(Ser32 and Ser36)</text>
+
+<!-- ===== IkB PHOSPHORYLATION + DEGRADATION ===== -->
+<rect x="140" y="440" width="440" height="72" rx="10" fill="#e8eaf6" stroke="#3949ab" stroke-width="2"/>
+<text x="360" y="462" text-anchor="middle" font-size="13" font-weight="600" fill="#1a237e">IkBalpha phosphorylated</text>
+<text x="360" y="478" text-anchor="middle" font-size="11" fill="#3949ab">tagged by K48-ubiquitin chain for degradation</text>
+<text x="360" y="494" text-anchor="middle" font-size="10" fill="#283593">26S proteasome degrades IkB in cytoplasm within minutes</text>
+
+<!-- Side degradation note -->
+<rect x="574" y="452" width="128" height="38" rx="7" fill="#fff3e0" stroke="#f57c00" stroke-width="1.5"/>
+<text x="638" y="469" text-anchor="middle" font-size="11" font-weight="600" fill="#e65100">IkB degraded</text>
+<text x="638" y="483" text-anchor="middle" font-size="10" fill="#f57c00">26S proteasome</text>
+<line x1="580" y1="471" x2="574" y2="471" stroke="#f57c00" stroke-width="1.5" marker-end="url(#aO)"/>
+
+<!-- Arrow down -->
+<line x1="360" y1="512" x2="360" y2="542" stroke="#6a1b9a" stroke-width="2.5" marker-end="url(#a2)"/>
+
+<!-- ===== NF-kB RELEASED ===== -->
+<rect x="165" y="550" width="390" height="66" rx="10" fill="#f3e5f5" stroke="#7b1fa2" stroke-width="2"/>
+<text x="360" y="573" text-anchor="middle" font-size="14" font-weight="600" fill="#4a148c">NF-kB (p65/p50) released</text>
+<text x="360" y="591" text-anchor="middle" font-size="11" fill="#7b1fa2">active transcription factor, free in cytoplasm</text>
+<text x="360" y="606" text-anchor="middle" font-size="10" fill="#6a1b9a">translocates through nuclear pore complexes</text>
+
+<!-- Arrow to nuclear membrane -->
+<line x1="360" y1="614" x2="360" y2="640" stroke="#1565c0" stroke-width="2.5" marker-end="url(#a3)"/>
+<text x="434" y="632" font-size="10" fill="#1565c0" font-weight="600">nuclear import</text>
+
+<!-- ===== NUCLEAR MEMBRANE ===== -->
+<rect x="30" y="648" width="660" height="28" rx="6" fill="#1565c0"/>
+<text x="360" y="667" text-anchor="middle" font-size="13" font-weight="700" fill="white" letter-spacing="2">NUCLEAR MEMBRANE</text>
+
+<!-- ===== DNA BINDING ===== -->
+<rect x="30" y="676" width="660" height="74" rx="0" fill="#e8eaf6"/>
+<rect x="160" y="686" width="400" height="58" rx="9" fill="white" stroke="#3949ab" stroke-width="1.5"/>
+<text x="360" y="708" text-anchor="middle" font-size="13" font-weight="600" fill="#1a237e">DNA Binding at kB Sites</text>
+<text x="360" y="724" text-anchor="middle" font-size="11" fill="#3949ab">consensus: 5&#39;-GGGRNNTCC-3&#39; (promoter regions)</text>
+<text x="360" y="740" text-anchor="middle" font-size="10" fill="#283593">recruits RNA Pol II and co-activators (CBP/p300)</text>
+<line x1="360" y1="676" x2="360" y2="686" stroke="#3949ab" stroke-width="1.5" marker-end="url(#a3)"/>
+
+<!-- Arrow to output -->
+<line x1="360" y1="750" x2="360" y2="770" stroke="#1b5e20" stroke-width="2" marker-end="url(#a4)"/>
+
+<!-- ===== GENE OUTPUT ===== -->
+<rect x="30" y="778" width="660" height="36" rx="0" fill="#e8f5e9"/>
+<text x="360" y="798" text-anchor="middle" font-size="12" font-weight="600" fill="#1b5e20">Inflammatory genes expressed</text>
+<text x="360" y="813" text-anchor="middle" font-size="11" fill="#2e7d32">TNF-alpha, IL-6, IL-1beta, COX-2, iNOS, MCP-1, ICAM-1</text>
+
+<!-- ===== CLINICAL BOX ===== -->
+<rect x="30" y="822" width="660" height="26" rx="0" fill="#2e7d5e"/>
+<rect x="30" y="830" width="660" height="18" rx="0" fill="#2e7d5e"/>
+<rect x="30" y="840" width="660" height="8" rx="0" fill="#2e7d5e"/>
+<rect x="30" y="822" width="660" height="38" rx="10" fill="none" stroke="#2e7d5e" stroke-width="1"/>
+<rect x="30" y="822" width="660" height="38" rx="0" fill="#2e7d5e"/>
+
+<rect x="30" y="822" width="660" height="38" rx="10" fill="#2e7d5e"/>
+<text x="360" y="845" text-anchor="middle" font-size="11" font-weight="600" fill="white">Therapeutic targets: NSAIDs, corticosteroids, and aspirin all act by blocking this pathway</text>
+</svg>
