@@ -76,6 +76,26 @@ A program covering all five patterns, two to three times per week with adequate 
 
 ---
 
+## Progressive Overload Without Weights
+
+Progressive overload — the principle that the training stimulus must increase over time to continue producing adaptation — is not optional. Without it, training produces a plateau and eventually maintenance at best. With weights, the progression is straightforward. Without them, it requires deliberate planning.
+
+The main tools for progression in bodyweight training are:
+
+**Leverage manipulation.** Moving your center of mass closer to or further from the ground changes the effective load dramatically. An incline push-up is significantly easier than a flat push-up, which is easier than a decline push-up. This one variable alone creates a progression arc spanning years.
+
+**Range of motion.** A squat that goes to parallel is easier than one that breaks parallel. A push-up performed with hands on books that allows the chest to descend below hand level recruits more muscle across a longer range. Expanding range of motion as strength allows is a legitimate and underused progression tool.
+
+**Tempo.** Slowing the lowering phase (eccentric) of a movement increases time under tension and mechanical stress without requiring additional load. A three-second lowering phase on a squat or push-up produces significantly greater muscle activation than a standard-tempo repetition.
+
+**Unilateral progressions.** Moving from two-limb to single-limb variations roughly doubles the load on the working muscles. The progression from two-leg squat to split squat to Bulgarian split squat to single-leg squat follows this logic, and represents enough difficulty variation to challenge virtually any fitness level.
+
+**Volume.** Adding sets or repetitions within a session is the simplest form of overload and appropriate for beginners. As fitness improves, intensity manipulations become more effective than simply adding volume.
+
+Tracking your sessions, even informally, is essential for applying progressive overload intentionally. Without a record of what you did last week, it is easy to repeat the same effort indefinitely and wonder why results have plateaued.
+
+---
+
 ## Cardiovascular Training at Home
 
 Effective cardiovascular training requires nothing more than space and movement, and the research on home-based cardiovascular options is clear.
@@ -83,7 +103,6 @@ Effective cardiovascular training requires nothing more than space and movement,
 High-intensity interval training (HIIT), alternating brief periods of maximum effort with short recovery intervals, consistently produces cardiovascular adaptations comparable to much longer steady-state sessions in significantly less time. A landmark study from McMaster University found that 10 minutes of HIIT, including one minute of intense effort, produced similar improvements in cardiovascular fitness markers to 50 minutes of continuous moderate exercise over 12 weeks. The time efficiency argument for HIIT is one of the most replicated findings in exercise science.
 
 Jumping rope deserves more credit than it typically receives in home workout discussions. It elevates heart rate rapidly, improves coordination and footwork, and can be performed in a small space. Research on jump rope training shows improvements in cardiovascular fitness, body composition, and motor skills comparable to jogging, at a fraction of the equipment cost.
-
 
 <figure class="post-figure">
   <img src="/assets/img/posts/hw-jump-rope.webp" alt="Woman jumping rope indoors surrounded by plants" class="post-img">
@@ -93,6 +112,43 @@ Jumping rope deserves more credit than it typically receives in home workout dis
 **References:**
 - Gibala MJ, et al. (2012). Physiological adaptations to low-volume, high-intensity interval training in health and disease. *Journal of Physiology*, 590(5), 1077-1084. [PubMed](https://pubmed.ncbi.nlm.nih.gov/22289907/){:target="_blank" rel="noopener"}
 - Trecroci A, et al. (2015). Jump rope training: balance and motor coordination in preadolescent soccer players. *Journal of Sports Science and Medicine*, 14(4), 792-798. [PubMed](https://pubmed.ncbi.nlm.nih.gov/26664276/){:target="_blank" rel="noopener"}
+
+---
+
+## A Practical Weekly Structure
+
+The most common mistake in home training is training every day with no structure, leading to burnout, or training sporadically with no clear plan, leading to minimal adaptation. Neither extreme serves the goal.
+
+A three-day-per-week structure is enough to produce meaningful results for most people and leaves sufficient recovery time to maintain consistency over months rather than weeks. Here is a simple framework:
+
+**Day A — Push and Core**
+- Push-up variation: 3 sets to near-failure
+- Decline push-up or pike push-up (shoulder focus): 3 sets
+- Plank: 3 sets, 30–60 seconds
+- Dead bug: 3 sets of 8–10 repetitions per side
+
+**Day B — Squat and Hinge**
+- Bodyweight squat or split squat: 3 sets of 10–15 repetitions
+- Bulgarian split squat: 3 sets of 8–10 per leg
+- Glute bridge or single-leg variation: 3 sets of 12–15 repetitions
+- Hip hinge: 3 sets of 10 repetitions
+
+**Day C — Cardio and Pull**
+- HIIT circuit or jump rope: 15–20 minutes
+- Pull-up or inverted row (if equipment available): 3 sets
+- Band pull-apart (if bands available): 3 sets of 15
+
+Alternate A, B, and C across three non-consecutive days per week. Progress each movement by increasing repetitions until you reach the top of the target range, then increase difficulty by moving to a harder variation or adding a slower tempo.
+
+---
+
+## Recovery Between Sessions
+
+Training is the stimulus. Recovery is where adaptation actually occurs. A session that leaves you unable to move properly the following day is not better training — it is a recovery debt that reduces the quality of subsequent sessions and increases injury risk over time.
+
+Muscle protein synthesis, the process by which the body repairs and builds muscle tissue, peaks in the 24–48 hours following a training session. Adequate protein intake during this window, combined with sufficient sleep, is what converts the training stimulus into actual physical change. A session without adequate recovery support is a stimulus without the response.
+
+Practical recovery essentials: sleep 7–9 hours per night, consume adequate protein distributed across meals (0.4–0.5 grams per kilogram of body weight per meal works well as a practical target), and avoid scheduling intense sessions on consecutive days for the same muscle groups. Active recovery — light walking, stretching, or gentle mobility work — on off days maintains blood flow to recovering tissues without adding significant stress.
 
 ---
 
@@ -128,3 +184,18 @@ The training stimulus that produces health benefits accumulates over months and 
 ---
 
 *Have a question or a topic you would like covered? Leave a comment below or [get in touch](/contact).*
+
+---
+
+## Common Mistakes That Limit Progress
+
+**Skipping the warm-up.** Cold muscles and connective tissue are more vulnerable to strain, and performance in the first set of a cold session is meaningfully lower than in a properly prepared one. Five minutes of light movement, joint circles, and easier variations of the exercises you plan to perform is sufficient. This is not optional time wasted — it is part of the session.
+
+**Training to exhaustion every session.** Maximum effort every day is not maximum adaptation — it is overtraining. Leaving one to two repetitions in reserve on most sets produces comparable or better results over time than training to absolute failure, with significantly less recovery demand and lower injury risk.
+
+**Ignoring the posterior chain.** Most people naturally gravitate toward pushing movements and neglect pulling and hinging. The result is a strength imbalance that eventually manifests as shoulder discomfort, poor posture, or lower back problems. Every push should be paired with a pull; every squat with a hinge.
+
+**No progression tracking.** Without knowing what you did last session, you cannot know whether you are progressing. A simple notebook or notes app entry after each session — exercises, sets, repetitions, and notes on difficulty — takes two minutes and makes intentional progression possible.
+
+**Changing the program too frequently.** Exercise variety is appealing but works against the adaptation process. Changing exercises every week prevents the nervous system and muscles from developing the specific efficiency needed to produce strength gains. Stick with the same core movements for at least four to six weeks before making significant changes.
+
