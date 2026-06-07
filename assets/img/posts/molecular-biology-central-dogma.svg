@@ -1,0 +1,144 @@
+<svg viewBox="0 0 900 440" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, -apple-system, sans-serif">
+  <defs>
+    <marker id="arr" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#455a64"/>
+    </marker>
+    <marker id="arr-teal" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#00796b"/>
+    </marker>
+    <marker id="arr-amber" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#e65100"/>
+    </marker>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="440" fill="#f8f9fa" rx="12"/>
+  <rect width="900" height="440" fill="none" stroke="#dee2e6" stroke-width="1" rx="12"/>
+
+  <!-- Title -->
+  <text x="450" y="38" text-anchor="middle" font-size="20" font-weight="600" fill="#1a1a2e">The Central Dogma of Molecular Biology</text>
+  <text x="450" y="60" text-anchor="middle" font-size="13" fill="#6c757d">How genetic information flows inside the cell</text>
+  <line x1="200" y1="72" x2="700" y2="72" stroke="#dee2e6" stroke-width="1"/>
+
+  <!-- === DNA SECTION (left) === -->
+  <rect x="30" y="90" width="210" height="280" rx="10" fill="#ede7f6" stroke="#7e57c2" stroke-width="1.5"/>
+  <text x="135" y="115" text-anchor="middle" font-size="14" font-weight="600" fill="#4527a0">DNA</text>
+  <text x="135" y="132" text-anchor="middle" font-size="11" fill="#673ab7">Deoxyribonucleic Acid</text>
+
+  <!-- DNA double helix simplified -->
+  <!-- Strand 1: blue-purple -->
+  <path d="M90,148 Q110,162 90,176 Q70,190 90,204 Q110,218 90,232 Q70,246 90,260 Q110,274 90,288 Q70,302 90,316 Q110,330 90,344" stroke="#5c35d1" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <!-- Strand 2: lighter purple -->
+  <path d="M180,148 Q160,162 180,176 Q200,190 180,204 Q160,218 180,232 Q200,246 180,260 Q160,274 180,288 Q200,302 180,316 Q160,330 180,344" stroke="#9575cd" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <!-- Base pairs (rungs) -->
+  <line x1="90" y1="162" x2="180" y2="162" stroke="#3949ab" stroke-width="2" stroke-dasharray="4,3"/>
+  <line x1="90" y1="176" x2="180" y2="176" stroke="#7986cb" stroke-width="2" stroke-dasharray="4,3"/>
+  <line x1="90" y1="204" x2="180" y2="204" stroke="#3949ab" stroke-width="2" stroke-dasharray="4,3"/>
+  <line x1="90" y1="218" x2="180" y2="218" stroke="#7986cb" stroke-width="2" stroke-dasharray="4,3"/>
+  <line x1="90" y1="246" x2="180" y2="246" stroke="#3949ab" stroke-width="2" stroke-dasharray="4,3"/>
+  <line x1="90" y1="260" x2="180" y2="260" stroke="#7986cb" stroke-width="2" stroke-dasharray="4,3"/>
+  <line x1="90" y1="288" x2="180" y2="288" stroke="#3949ab" stroke-width="2" stroke-dasharray="4,3"/>
+  <line x1="90" y1="302" x2="180" y2="302" stroke="#7986cb" stroke-width="2" stroke-dasharray="4,3"/>
+  <line x1="90" y1="330" x2="180" y2="330" stroke="#3949ab" stroke-width="2" stroke-dasharray="4,3"/>
+
+  <!-- DNA info box -->
+  <rect x="42" y="352" width="186" height="14" rx="4" fill="#d1c4e9"/>
+  <text x="135" y="363" text-anchor="middle" font-size="10" fill="#311b92">A-T and G-C base pairs</text>
+
+  <!-- === TRANSCRIPTION ARROW === -->
+  <!-- Arrow -->
+  <line x1="248" y1="230" x2="328" y2="230" stroke="#455a64" stroke-width="2.5" marker-end="url(#arr)"/>
+
+  <!-- RNA Pol enzyme -->
+  <ellipse cx="288" cy="210" rx="34" ry="20" fill="#fff9c4" stroke="#f9a825" stroke-width="1.5"/>
+  <text x="288" y="207" text-anchor="middle" font-size="9" font-weight="600" fill="#e65100">RNA Pol II</text>
+  <text x="288" y="218" text-anchor="middle" font-size="8" fill="#bf360c">enzyme</text>
+
+  <!-- Label -->
+  <text x="288" y="250" text-anchor="middle" font-size="12" font-weight="600" fill="#455a64">Transcription</text>
+  <text x="288" y="264" text-anchor="middle" font-size="10" fill="#78909c">nucleus</text>
+
+  <!-- === mRNA SECTION (center) === -->
+  <rect x="337" y="90" width="210" height="280" rx="10" fill="#e0f2f1" stroke="#00897b" stroke-width="1.5"/>
+  <text x="442" y="115" text-anchor="middle" font-size="14" font-weight="600" fill="#004d40">mRNA</text>
+  <text x="442" y="132" text-anchor="middle" font-size="11" fill="#00695c">Messenger RNA</text>
+
+  <!-- mRNA strand -->
+  <path d="M370,155 Q400,165 430,155 Q460,145 490,155 Q520,165 530,155" stroke="#00897b" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <!-- Codons shown -->
+  <rect x="370" y="172" width="30" height="18" rx="3" fill="#00897b"/>
+  <text x="385" y="185" text-anchor="middle" font-size="10" fill="white" font-weight="600">AUG</text>
+  <rect x="408" y="172" width="30" height="18" rx="3" fill="#26a69a"/>
+  <text x="423" y="185" text-anchor="middle" font-size="10" fill="white" font-weight="600">GCU</text>
+  <rect x="446" y="172" width="30" height="18" rx="3" fill="#00897b"/>
+  <text x="461" y="185" text-anchor="middle" font-size="10" fill="white" font-weight="600">UAC</text>
+  <rect x="484" y="172" width="30" height="18" rx="3" fill="#26a69a"/>
+  <text x="499" y="185" text-anchor="middle" font-size="10" fill="white" font-weight="600">CGG</text>
+
+  <text x="442" y="215" text-anchor="middle" font-size="10" fill="#00695c">codons (3 bases each)</text>
+
+  <!-- Processing steps -->
+  <rect x="355" y="228" width="174" height="74" rx="6" fill="white" stroke="#b2dfdb" stroke-width="1"/>
+  <text x="442" y="246" text-anchor="middle" font-size="11" font-weight="600" fill="#004d40">Pre-mRNA Processing</text>
+  <text x="442" y="261" text-anchor="middle" font-size="10" fill="#00695c">5&#39; cap addition</text>
+  <text x="442" y="275" text-anchor="middle" font-size="10" fill="#00695c">Poly-A tail</text>
+  <text x="442" y="289" text-anchor="middle" font-size="10" fill="#00695c">Intron splicing</text>
+
+  <!-- mRNA info box -->
+  <rect x="349" y="352" width="186" height="14" rx="4" fill="#b2dfdb"/>
+  <text x="442" y="363" text-anchor="middle" font-size="10" fill="#004d40">A, U, G, C bases (no thymine)</text>
+
+  <!-- === TRANSLATION ARROW === -->
+  <line x1="555" y1="230" x2="635" y2="230" stroke="#455a64" stroke-width="2.5" marker-end="url(#arr)"/>
+
+  <!-- Ribosome -->
+  <ellipse cx="595" cy="210" rx="32" ry="14" fill="#fff3e0" stroke="#e65100" stroke-width="1.5"/>
+  <text x="595" y="207" text-anchor="middle" font-size="9" font-weight="600" fill="#bf360c">Ribosome</text>
+  <text x="595" y="218" text-anchor="middle" font-size="8" fill="#bf360c">60S + 40S</text>
+
+  <!-- Label -->
+  <text x="595" y="250" text-anchor="middle" font-size="12" font-weight="600" fill="#455a64">Translation</text>
+  <text x="595" y="264" text-anchor="middle" font-size="10" fill="#78909c">cytoplasm</text>
+
+  <!-- === PROTEIN SECTION (right) === -->
+  <rect x="644" y="90" width="224" height="280" rx="10" fill="#fff3e0" stroke="#e65100" stroke-width="1.5"/>
+  <text x="756" y="115" text-anchor="middle" font-size="14" font-weight="600" fill="#bf360c">Protein</text>
+  <text x="756" y="132" text-anchor="middle" font-size="11" fill="#e65100">Polypeptide chain</text>
+
+  <!-- Amino acid chain -->
+  <!-- Circles representing amino acids in different colors -->
+  <circle cx="672" cy="158" r="11" fill="#ef5350"/>
+  <circle cx="696" cy="148" r="11" fill="#ab47bc"/>
+  <circle cx="720" cy="158" r="11" fill="#42a5f5"/>
+  <circle cx="744" cy="148" r="11" fill="#66bb6a"/>
+  <circle cx="768" cy="158" r="11" fill="#ffa726"/>
+  <circle cx="792" cy="148" r="11" fill="#ef5350"/>
+  <circle cx="816" cy="158" r="11" fill="#26c6da"/>
+  <!-- Connecting bonds -->
+  <line x1="683" y1="153" x2="685" y2="153" stroke="#78909c" stroke-width="2"/>
+  <line x1="683" y1="153" x2="709" y2="153" stroke="#78909c" stroke-width="1.5"/>
+  <line x1="709" y1="153" x2="733" y2="153" stroke="#78909c" stroke-width="1.5"/>
+  <line x1="733" y1="153" x2="757" y2="153" stroke="#78909c" stroke-width="1.5"/>
+  <line x1="757" y1="153" x2="781" y2="153" stroke="#78909c" stroke-width="1.5"/>
+  <line x1="781" y1="153" x2="805" y2="153" stroke="#78909c" stroke-width="1.5"/>
+  <text x="756" y="182" text-anchor="middle" font-size="10" fill="#e65100">amino acids linked by peptide bonds</text>
+
+  <!-- Protein folding -->
+  <rect x="660" y="196" width="192" height="110" rx="8" fill="white" stroke="#ffccbc" stroke-width="1"/>
+  <text x="756" y="214" text-anchor="middle" font-size="11" font-weight="600" fill="#bf360c">Protein Folding Levels</text>
+  <text x="670" y="232" font-size="10" fill="#e65100" font-weight="500">Primary:</text>
+  <text x="670" y="246" font-size="10" fill="#555">amino acid sequence</text>
+  <text x="670" y="262" font-size="10" fill="#e65100" font-weight="500">Secondary:</text>
+  <text x="670" y="276" font-size="10" fill="#555">alpha helices, beta sheets</text>
+  <text x="670" y="292" font-size="10" fill="#e65100" font-weight="500">Tertiary:</text>
+  <text x="670" y="306" font-size="10" fill="#555">3D functional structure</text>
+
+  <!-- Protein info box -->
+  <rect x="656" y="352" width="200" height="14" rx="4" fill="#ffccbc"/>
+  <text x="756" y="363" text-anchor="middle" font-size="10" fill="#bf360c">20 amino acids, endless functions</text>
+
+  <!-- === BOTTOM KEY === -->
+  <rect x="30" y="382" width="840" height="48" rx="8" fill="white" stroke="#e0e0e0" stroke-width="1"/>
+  <text x="450" y="400" text-anchor="middle" font-size="11" font-weight="600" fill="#37474f">Key Concept</text>
+  <text x="450" y="418" text-anchor="middle" font-size="11" fill="#546e7a">DNA cannot leave the nucleus. mRNA carries the message to the cytoplasm where ribosomes assemble proteins.</text>
+</svg>

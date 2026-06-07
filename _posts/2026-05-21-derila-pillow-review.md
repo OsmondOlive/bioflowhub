@@ -44,6 +44,8 @@ A 2021 systematic review and meta-analysis published in *Clinical Biomechanics* 
 
 The mechanism is straightforward biomechanically. During side sleeping, the cervical spine must bridge the gap between the shoulder and the head. A pillow that is too low allows the head to drop laterally; one that is too high causes lateral flexion in the opposite direction. Both positions put sustained asymmetrical load on the cervical musculature and intervertebral discs throughout the night. A contoured design with appropriate lateral support height addresses this directly.
 
+This matters more than most people realize, because the cervical spine spends 6 to 9 hours per night in whatever position the sleep surface creates. That duration is substantial. Asymmetrical loading repeated nightly adds up across weeks and months into patterns of muscular imbalance, trigger point formation, and joint restriction that daytime posture correction alone cannot fully address.
+
 ---
 
 ## What Is the Derila Ergo
@@ -62,11 +64,25 @@ The Derila Ergo is an upgraded version of the original Derila pillow, made from 
 
 ---
 
+## How Memory Foam Works: The Material Science
+
+Understanding why memory foam behaves differently from polyester fill or latex requires a basic look at the material properties.
+
+Memory foam, technically known as viscoelastic polyurethane foam, is temperature-sensitive and responds to both heat and pressure simultaneously. When you lie on it, body heat softens the foam locally, allowing it to conform to the shape of the contact surface. This conforming behavior distributes the weight of the head (typically 4.5 to 5 kg in adults) across a larger surface area, reducing peak pressure at any single point compared to a firmer, non-conforming material.
+
+The viscoelastic property also means that the foam returns to its original shape slowly when pressure is removed. This is functionally useful during sleep: when you shift position, the pillow gradually adjusts rather than springing back immediately. The result is less disturbance during position transitions, which matter for sleep continuity.
+
+High-density memory foam, as used in the Derila Ergo, maintains its structural integrity over a longer period than low-density alternatives. Lower-density foams compress and lose their contour support over months of use, which is why many ergonomic pillows that start well become ineffective within a year. The density specification is worth checking when comparing products in this category.
+
+The breathability design in the Derila Ergo addresses one of the historical criticisms of memory foam: heat retention. Dense foam with poor airflow can raise local scalp and neck temperature over the course of a night, which works against the natural thermoregulatory drop in core body temperature that facilitates deep sleep stages. Open-cell or perforated foam structures allow heat to dissipate more effectively.
+
+---
+
 ## The Science Behind the Design Choices
 
 **Memory foam and spinal alignment.** A 2022 randomized study published in *Frontiers in Medicine* found that memory foam pillows produced statistically significant reductions in snoring events (47%) and duration compared to generic laboratory pillows in patients with obstructive sleep apnea, attributed to better head and neck positioning. The same study measured improvements in oxygen desaturation index, suggesting that cervical positioning during sleep has meaningful consequences beyond just comfort.
 
-**Contoured vs. standard design.** The systematic review by Pang et al. found that contoured pillow designs with higher lateral zones for side sleepers and lower central zones for back sleepers consistently outperformed flat designs in spinal alignment outcomes. The biomechanical rationale is well-established: the contour matches the natural anatomy of the head-neck-shoulder complex in lateral position.
+**Contoured versus standard design.** The systematic review by Pang et al. found that contoured pillow designs with higher lateral zones for side sleepers and lower central zones for back sleepers consistently outperformed flat designs in spinal alignment outcomes. The biomechanical rationale is well-established: the contour matches the natural anatomy of the head-neck-shoulder complex in lateral position.
 
 **Breathable foam and muscle recovery.** Heat accumulation in standard foam pillows raises local skin temperature, which impairs parasympathetic nervous system activity and reduces deep sleep quality. The breathable foam construction in the Derila Ergo addresses this through improved airflow, which the research links to better muscle relaxation and more restorative sleep cycles.
 
@@ -88,6 +104,18 @@ The Derila Ergo is an upgraded version of the original Derila pillow, made from 
   <img src="/assets/img/posts/derila-product-use.webp" alt="Woman resting on Derila Ergo pillow showing relaxed shoulder and neck position" class="post-img">
   <figcaption>The key indicator of correct pillow fit is a relaxed shoulder with no visible tension and a neutral head position, neither elevated nor dropped relative to the shoulder line.</figcaption>
 </figure>
+
+Roughly 60% of adults are side sleepers, making this the most common sleep position by a significant margin. For this group, pillow height is the single most important mechanical variable. The ideal pillow height for a side sleeper equals the distance from the neck to the edge of the shoulder, a measurement that varies with body build. Broader-shouldered individuals typically need more lateral height; narrower-shouldered individuals need less. The Derila Ergo's fixed contour addresses the average, which will suit most people but not every body type.
+
+---
+
+## The Adaptation Period
+
+A point that deserves more attention in ergonomic pillow reviews is the adaptation period. When switching from a standard pillow to a contoured design, most people experience some degree of unfamiliarity in the first week. This is normal and not a signal that the pillow is wrong for them.
+
+Muscles that have been habitually holding the cervical spine in a slightly off-neutral position will have adapted to that position over months or years. Correcting that alignment puts different demands on those muscles, which can produce temporary stiffness or mild discomfort, particularly in the upper trapezius and suboccipital muscles, in the first few days.
+
+The clinical guidance from physiotherapy research on cervical pillow adaptation recommends giving a new ergonomic pillow at least two weeks before drawing conclusions. Most people who persist through the initial adjustment period report significant improvement by the end of the second week. Those who switch back after two or three nights are abandoning the product before the body has had time to adapt, which is one of the main reasons people report inconsistent outcomes with ergonomic pillows as a category.
 
 ---
 
@@ -118,7 +146,9 @@ The research evidence is clearest for people who wake with morning neck stiffnes
 
 It is also relevant for people who snore or have mild obstructive sleep apnea. The 2022 *Frontiers in Medicine* study found that correct head positioning through appropriate pillow support meaningfully reduced snoring events, which has downstream effects on sleep quality for both the sleeper and anyone sharing the space.
 
-It is a poor fit for stomach sleepers, whose cervical alignment requirements are incompatible with any contoured side/back design, and for people with severe structural cervical pathology that requires medical or physiotherapy intervention beyond what any pillow can provide.
+People who work desk jobs or spend extended periods looking at screens may particularly benefit. Sustained forward head posture during the day loads the posterior cervical structures and can create trigger points in the suboccipital and upper trapezius muscles that are then not adequately decompressed during sleep if the pillow does not support neutral alignment. The combination of daytime posture demands and night-time misalignment is a common pattern in people with chronic cervicogenic headaches.
+
+The product is a poor fit for stomach sleepers, whose cervical alignment requirements are incompatible with any contoured side-and-back design, and for people with severe structural cervical pathology that requires medical or physiotherapy intervention beyond what any pillow can provide.
 
 <figure class="post-figure">
   <img src="/assets/img/posts/derila-home.webp" alt="Derila Ergo pillow shown in a natural bedroom home environment" class="post-img">
