@@ -147,6 +147,36 @@ One area where the evidence is particularly interesting is oral health. The oral
 
 ---
 
+## Dysbiosis: When the Balance Shifts
+
+The term dysbiosis refers to a disruption in the composition and function of the gut microbiome, typically characterised by reduced diversity, a decline in beneficial bacteria, and an increase in potentially pathogenic species. It is not a single condition but a broad category of imbalances, each with different downstream consequences depending on which microbial populations are affected.
+
+One of the most studied markers of dysbiosis is the ratio between two major bacterial phyla: Firmicutes and Bacteroidetes. In healthy adults, these two groups collectively account for the majority of gut bacteria, and their ratio falls within a characteristic range. In multiple conditions including obesity, type 2 diabetes, and inflammatory bowel disease, this ratio shifts. People with these conditions consistently show reduced microbial diversity and an altered balance between these phyla compared to metabolically healthy controls.
+
+A particularly consequential consequence of sustained dysbiosis is increased intestinal permeability, commonly referred to as a leaky gut. The intestinal barrier is a single layer of epithelial cells connected by tight junction proteins that normally prevent bacteria and their byproducts from entering the bloodstream. When this barrier is compromised, lipopolysaccharide (LPS) from the cell walls of gram-negative bacteria passes through into systemic circulation. LPS is a potent activator of the innate immune system, and its chronic low-level presence in blood triggers persistent, systemic low-grade inflammation, one of the common underlying mechanisms shared by obesity, cardiovascular disease, type 2 diabetes, and certain psychiatric conditions.
+
+This mechanism connects gut health to seemingly unrelated conditions in ways that are now well-characterised at the molecular level. The bacteria that keep the tight junctions intact, particularly butyrate-producing species such as *Faecalibacterium prausnitzii* and *Roseburia intestinalis*, are consistently depleted in states of dysbiosis. Their reduction is not incidental but causal: without sufficient butyrate to fuel the colonocytes and signal for tight junction maintenance, the barrier begins to lose integrity.
+
+---
+
+## The Microbiome and Metabolic Disease
+
+The connection between gut microbiome composition and metabolic health, particularly type 2 diabetes and insulin resistance, has moved from hypothesis to one of the most replicated findings in the field.
+
+People with type 2 diabetes consistently show characteristic patterns of gut microbiome dysbiosis compared to metabolically healthy individuals. These include reduced abundance of butyrate-producing bacteria, increased levels of opportunistic pathogens, and an elevated presence of bacteria associated with pro-inflammatory metabolites, including trimethylamine N-oxide (TMAO), which has been independently associated with insulin resistance and cardiovascular risk.
+
+The mechanistic pathway runs in multiple directions. Gut-derived LPS entering the bloodstream activates toll-like receptors on immune cells, triggering the release of inflammatory cytokines that impair insulin signalling in muscle and liver. Reduced butyrate production from the dysbiotic microbiome means less signalling to L-cells in the gut to secrete GLP-1, a hormone that promotes insulin release and glucose regulation. And altered bile acid metabolism, another function of the microbiome, disrupts the signalling pathways that regulate glucose production in the liver.
+
+What makes this clinically significant is that dysbiosis may both contribute to the development of type 2 diabetes and worsen with its progression, creating a feedback loop that accelerates metabolic deterioration. Patients with diabetes and its complications, including diabetic nephropathy, retinopathy, and neuropathy, consistently show more severe microbiome dysbiosis than those without complications.
+
+This does not mean the microbiome causes diabetes in isolation. Genetics, lifestyle, and other metabolic factors all contribute. But it does mean that the gut microbiome is a modifiable variable in metabolic health, and that interventions targeting it, through diet, fermented foods, and selected probiotics, address a genuine pathophysiological mechanism rather than just a health trend.
+
+**References:**
+- Sharma S, Tripathi P. (2019). Gut microbiome and type 2 diabetes: where we are and where to go? *Journal of Nutritional Biochemistry*, 63, 101-108. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30366260/){:target="_blank" rel="noopener"}
+- Iatcu CO, Steen A, Covasa M. (2022). Gut microbiota and complications of type-2 diabetes. *Nutrients*, 14(1), 166. [DOI](https://doi.org/10.3390/nu14010166){:target="_blank" rel="noopener"}
+
+---
+
 ## Where to Start
 
 Supporting your microbiome does not require a dramatic overhaul or expensive supplementation. The interventions with the strongest evidence are also the most accessible.

@@ -149,6 +149,35 @@ A few questions worth applying before acting on any health claim.
 
 ---
 
+## P-Values and What Statistical Significance Actually Means
+
+The p-value is probably the most misunderstood concept in health research, and that misunderstanding is responsible for a significant portion of the false alarms and reversals that erode public trust in science.
+
+A p-value of 0.05, the conventional threshold for claiming "statistical significance," does not mean there is a 95% probability that the finding is real. It means that if the null hypothesis were true (that is, if there were no real effect), there would be a 5% probability of observing results at least as extreme as what was measured. That is a statement about data under an assumed condition, not a probability that the hypothesis is correct.
+
+This distinction matters enormously in practice. A paper published in Nature in 2014 that became one of the most widely shared scientific articles of the decade made exactly this point: p-values are neither as reliable nor as objective as most scientists assume, and their systematic misinterpretation has contaminated the published literature across multiple fields, including medicine and nutrition.
+
+The practical consequence: with the conventional p<0.05 threshold and no other constraints, if you run twenty tests on random data, one will cross the significance threshold by chance alone. In nutrition research, where researchers often test dozens of dietary variables against dozens of health outcomes and report only those that reach significance, the false positive rate climbs dramatically. This is called p-hacking, and it is common enough to have been demonstrated across large samples of published papers.
+
+Statistical significance is also not the same as clinical significance. A study with ten thousand participants can detect effects so small that they have no meaningful impact on a real person's health, yet those effects can be statistically significant. Effect size matters as much as significance, and rarely makes the headline.
+
+**References:**
+- Nuzzo R. (2014). Scientific method: statistical errors. *Nature*, 506(7487), 150-152. [PubMed](https://pubmed.ncbi.nlm.nih.gov/24522584/){:target="_blank" rel="noopener"}
+
+---
+
+## The Special Problems of Nutritional Epidemiology
+
+Nutrition research deserves its own section because it is where most people's health decisions are influenced by media, and where the gap between what headlines claim and what the evidence actually supports is widest.
+
+The fundamental problem with nutritional epidemiology is that people eat entire diets, not single nutrients, over entire lifetimes. Isolating the effect of one dietary component from all the others, while controlling for lifestyle, income, education, and dozens of other variables, is extraordinarily difficult. The tools available, primarily food frequency questionnaires in which people try to recall what they ate over the past year, are notoriously imprecise. Error in measurement of the exposure makes associations harder to detect and, paradoxically, can sometimes create the appearance of associations that do not exist.
+
+John Ioannidis, in a subsequent analysis of nutritional epidemiology specifically, examined whether the associations observed between single foods and mortality outcomes were plausible given what was known about effect sizes from other health interventions. His conclusion was striking: many of the associations reported in the literature would, if taken at face value, imply that diet alone is responsible for a far larger proportion of deaths than all other causes combined, which is biologically implausible. The effect sizes observed are likely substantially inflated by confounding and measurement error.
+
+This does not mean diet does not matter. It clearly does, and the overall dietary pattern matters most. The Mediterranean dietary pattern, whole foods over ultra-processed foods, adequate fiber, and sufficient protein have enough converging evidence from multiple methodologies, including intervention studies, mechanistic research, and population data, to justify confidence. What it does mean is that specific claims about single foods or nutrients based on observational studies alone should be treated with significant caution.
+
+---
+
 ## The Limits of Individual Optimization
 
 A final point that I think is important from a biomedical perspective: health is probabilistic, not deterministic. You can eat well, exercise regularly, sleep adequately, manage stress, and still experience serious illness. And you can live imperfectly and reach old age in good health. Individual biology, genetics, and chance all play roles that lifestyle cannot fully override.
