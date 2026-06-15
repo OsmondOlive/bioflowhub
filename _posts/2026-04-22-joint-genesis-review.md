@@ -153,6 +153,22 @@ Consistency is non-negotiable. The hyaluronan replenishment process is gradual a
 
 ---
 
+## What Else Supports Joint Health: The Lifestyle Foundation
+
+Joint health supplements work within a broader biological context that lifestyle factors directly shape. Understanding this context helps set realistic expectations for what any formula can and cannot accomplish.
+
+**Body weight** is the most mechanically significant variable for lower limb joints. Each additional kilogram of body weight imposes roughly three to six kilograms of force on the knee joint during walking, and substantially more during stairs or impact activity. The relationship between weight reduction and joint pain reduction is one of the most consistently replicated findings in osteoarthritis research.
+
+**Low-impact aerobic exercise** preserves cartilage health by promoting synovial fluid circulation, which delivers oxygen and nutrients to cartilage — a tissue with no direct blood supply. Cartilage is dependent on the mechanical pumping action of joint loading and unloading to receive nutrition. Complete rest is counterproductive; movement is what maintains the nutritive exchange. Walking, cycling, and swimming are consistently associated with maintained or improved joint function in people with mild to moderate osteoarthritis.
+
+**Resistance training** that strengthens the muscles surrounding a joint reduces the mechanical load transmitted through cartilage during movement. Quadriceps weakness is a well-documented risk factor for knee osteoarthritis progression, and strengthening this muscle group reduces pain and improves function independently of cartilage status.
+
+**Anti-inflammatory dietary patterns**, particularly the Mediterranean diet with its emphasis on omega-3 fatty acids, olive oil, and polyphenol-rich vegetables, produce measurable reductions in circulating inflammatory markers that correlate with joint symptom severity.
+
+A supplement targeting synovial fluid quality and inflammation, such as Joint Genesis, is most effective when combined with these foundations rather than substituted for them.
+
+---
+
 ## Pricing and Guarantee
 
 Joint Genesis is sold exclusively through the official BioDynamix website. A single bottle (30-day supply) is the entry option, with three-bottle and six-bottle bundles available at lower per-unit cost and including digital bonus materials. All purchases include a 180-day money-back guarantee, which is unusually long by industry standards and provides substantial time to evaluate results at a realistic pace.

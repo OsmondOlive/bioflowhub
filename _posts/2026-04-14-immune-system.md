@@ -97,6 +97,7 @@ This framing matters because it shifts the target. The question is not just "how
 - Besedovsky L, Lange T, Haack M. (2019). The sleep-immune crosstalk in health and disease. *Physiological Reviews*, 99(3), 1325-1380. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30920354/){:target="_blank" rel="noopener"}
 - Nieman DC, Wentz LM. (2019). The compelling link between physical activity and the body's defense system. *Journal of Sport and Health Science*, 8(3), 201-217. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31193280/){:target="_blank" rel="noopener"}
 - Bikle DD. (2022). Vitamin D regulation of immune function. *Current Osteoporosis Reports*, 20(3), 186-193. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35507293/){:target="_blank" rel="noopener"}
+- Thomas R, Wang W, Su DM. (2020). Contributions of age-related thymic involution to immunosenescence and inflammaging. *Immunity and Ageing*, 17, 2. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31988649/){:target="_blank" rel="noopener"}
 
 <div class="bio-box">
   <p>☀️ <strong>Vitamin D deficiency is extraordinarily common</strong>, affecting an estimated 1 billion people globally. Combined with K2, it supports immune function, bone health, and cardiovascular protection throughout life.</p>
@@ -119,6 +120,10 @@ Good dietary sources include red meat, shellfish (particularly oysters), pumpkin
 ---
 
 ## Aging and the Immune System
+
+The immune system does not simply decline uniformly with age. What happens is more specific and more paradoxical: the capacity to respond to new threats diminishes while chronic low-grade inflammation simultaneously increases. This dual phenomenon has been named immunosenescence (the insufficiency side) and inflammaging (the over-reaction side), and it is central to understanding why older adults are more vulnerable to infection, less responsive to vaccines, and more prone to developing cancer and autoimmune conditions.
+
+The primary driver of these changes in the adaptive immune system is involution of the thymus, the gland responsible for producing and maturing T lymphocytes. The thymus begins shrinking after puberty and is largely replaced by fatty tissue by middle age. As thymic output of naive T cells declines, the immune system becomes increasingly dominated by memory T cells accumulated from past exposures, with diminishing capacity to mount effective responses against novel pathogens or mutated cells. This narrowing of the T cell repertoire, combined with the chronic inflammation produced by senescent cells releasing pro-inflammatory signals, accelerates biological aging across multiple organ systems.
 
 One of the most clinically significant changes that happens with age is a gradual decline in immune competence, a process called immunosenescence. The adaptive immune system is particularly affected: the thymus, where T cells mature, shrinks progressively after puberty and is largely replaced by fat tissue by the sixth decade of life. The pool of naive T cells (those capable of recognizing new threats) shrinks as the pool of memory T cells (those specialized for previously encountered pathogens) expands.
 

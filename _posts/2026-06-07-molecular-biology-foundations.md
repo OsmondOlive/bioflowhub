@@ -140,6 +140,8 @@ None of this means that lifestyle interventions are treatments for established d
 
 Biochemistry is not something that happens in textbooks. It is happening in every cell of your body, right now, in response to everything you are doing.
 
+One of the most significant recent developments in this field is the recognition that lifestyle factors can modify gene expression without changing the underlying DNA sequence — a phenomenon known as epigenetics. DNA methylation, histone modification, and non-coding RNA regulation all respond to diet, exercise, sleep quality, and chronic stress in measurable ways. This means that the same genome can produce profoundly different biological outcomes depending on the environment it operates in. The choices that affect NF-kB activation, mitochondrial efficiency, and glycolytic flux are not incidental. They are epigenetic inputs into a system that was built to be responsive.
+
 ---
 
 **References:**
@@ -148,6 +150,7 @@ Biochemistry is not something that happens in textbooks. It is happening in ever
 - Nelson DL, Cox MM. *Lehninger Principles of Biochemistry*, 8th ed. New York: W.H. Freeman and Company; 2021.
 - Berg JM, Tymoczko JL, Gatto GJ Jr, Stryer L. *Biochemistry*, 9th ed. New York: W.H. Freeman and Company; 2019.
 - Hayden MS, Ghosh S. Shared principles in NF-kB signaling. *Cell*, 132(3), 344-362, 2008.
+- Alegría-Torres JA, Baccarelli A, Bollati V. (2011). Epigenetics and lifestyle. *Epigenomics*, 3(3), 267-277. [PubMed](https://pubmed.ncbi.nlm.nih.gov/22122337/){:target="_blank" rel="noopener"}
 
 ---
 

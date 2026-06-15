@@ -91,6 +91,20 @@ Beyond mortality, chronic sleep deprivation is associated with:
 
 ---
 
+## Sleep Architecture: What Happens Inside a Full Night
+
+A complete night of sleep is not a single uniform state. It cycles through distinct stages, each serving different biological functions, and the proportion of time spent in each stage changes across the night in ways that have significant practical implications.
+
+**NREM Stage 1 and 2** (light sleep) occupy the transition from wakefulness into deeper sleep. Stage 2 produces sleep spindles, bursts of coordinated neural activity associated with motor learning and memory consolidation. These stages together account for roughly 50% of a full night's sleep.
+
+**NREM Stage 3** (slow-wave or deep sleep) is when the glymphatic system is most active, clearing metabolic waste including beta-amyloid from the brain. Growth hormone secretion peaks during this stage. Physical tissue repair, immune system consolidation, and declarative memory encoding all occur primarily here. Deep sleep is disproportionately concentrated in the first half of the night, which is why the first sleep cycle cut short by an alarm or alcohol represents the largest loss of restorative sleep.
+
+**REM sleep** occupies a progressively larger proportion of each successive sleep cycle across the night, peaking in the final hours before natural waking. It is the stage most associated with emotional memory processing, procedural learning, pattern recognition, and creative insight. People who consistently sleep fewer than 7 hours lose disproportionately more REM than NREM sleep, which partially explains the mood and cognitive effects of mild chronic sleep restriction beyond simple tiredness.
+
+Understanding this architecture explains why sleep timing matters, not just total duration. Sleeping from 1am to 9am and sleeping from 10pm to 6am produce very different distributions of sleep stages even at identical durations, because slow-wave sleep is circadian-phase dependent and peaks in the early part of the biological night.
+
+---
+
 ## The Circadian Rhythm: Your Internal Clock
 
 Understanding the circadian rhythm is, in my view, one of the most practically useful things you can learn about your own biology. It is not just about sleep. It is about how virtually every system in your body is timed.

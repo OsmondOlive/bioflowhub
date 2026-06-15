@@ -132,6 +132,24 @@ Many traditional movement practices, from yoga to tai chi, contain accumulated p
 
 ---
 
+## Foam Rolling and Myofascial Release: What the Evidence Says
+
+Self-myofascial release using a foam roller has become one of the most widely adopted recovery and mobility tools in both athletic and general fitness contexts, and the evidence base behind it has grown substantially over the past decade.
+
+A 2015 systematic review published in the *International Journal of Sports Physical Therapy* examined the evidence on foam rolling for joint range of motion, muscle recovery, and performance. The review found consistent evidence that foam rolling applied before activity increases joint range of motion acutely without the performance decrements associated with static stretching. Applied after training, it reduces delayed onset muscle soreness (DOMS) and accelerates the recovery of force production capacity.
+
+A 2019 systematic review of the literature on optimal duration found that sessions of at least 60 to 120 seconds per muscle group are needed to produce meaningful acute increases in range of motion, with diminishing returns beyond that duration. Very brief applications of 10 to 20 seconds produce minimal benefit, which explains why people who incorporate foam rolling superficially often fail to notice any effect.
+
+The proposed mechanisms include direct mechanical deformation of the fascia, increased local blood flow, and modulation of the autonomic nervous system through pressure receptor activation. The relative contribution of each mechanism remains debated, but the functional outcomes — improved range of motion, reduced post-exercise soreness, and maintained performance — are reproducible across multiple independent studies.
+
+For general mobility work, the most evidence-supported application is rolling the thoracic spine, hip flexors, quadriceps, and calf complex for 60 to 90 seconds per area before dynamic warm-up. For recovery, the same areas rolled after training reduce the subjective intensity and duration of DOMS in subsequent days. Rolling should produce mild to moderate discomfort, not sharp or acute pain, and should be avoided directly over joints or areas of acute injury.
+
+**References:**
+- Cheatham SW, Kolber MJ, Cain M, Lee M. (2015). The effects of self-myofascial release using a foam roll or roller massager on joint range of motion, muscle recovery, and performance: a systematic review. *International Journal of Sports Physical Therapy*, 10(6), 827-838. [PubMed](https://pubmed.ncbi.nlm.nih.gov/26618062/){:target="_blank" rel="noopener"}
+- Hughes GA, Ramer LM. (2019). Duration of myofascial rolling for optimal recovery, range of motion, and performance: a systematic review of the literature. *International Journal of Sports Physical Therapy*, 14(6), 845-859. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31803517/){:target="_blank" rel="noopener"}
+
+---
+
 ## The Thoracic Spine: The Most Neglected Area
 
 Most people stretch their hamstrings and calves because they feel tight. Far fewer pay attention to thoracic mobility, the mid and upper back, which is among the most commonly restricted regions in people who sit at desks or look at screens for extended periods.

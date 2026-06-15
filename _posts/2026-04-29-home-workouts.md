@@ -195,7 +195,7 @@ The training stimulus that produces health benefits accumulates over months and 
 
 **Ignoring the posterior chain.** Most people naturally gravitate toward pushing movements and neglect pulling and hinging. The result is a strength imbalance that eventually manifests as shoulder discomfort, poor posture, or lower back problems. Every push should be paired with a pull; every squat with a hinge.
 
-**No progression tracking.** Without knowing what you did last session, you cannot know whether you are progressing. A simple notebook or notes app entry after each session — exercises, sets, repetitions, and notes on difficulty — takes two minutes and makes intentional progression possible.
+**No progression tracking.** Without knowing what you did last session, you cannot know whether you are progressing. A simple notebook or notes app entry after each session — exercises, sets, repetitions, and notes on difficulty — takes two minutes and makes intentional progression possible. People who track their training consistently show better strength and muscle gains over time than those who train by feel, because progressive overload requires knowing what you did before.
 
 **Changing the program too frequently.** Exercise variety is appealing but works against the adaptation process. Changing exercises every week prevents the nervous system and muscles from developing the specific efficiency needed to produce strength gains. Stick with the same core movements for at least four to six weeks before making significant changes.
 
