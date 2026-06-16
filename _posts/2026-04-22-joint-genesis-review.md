@@ -167,6 +167,10 @@ Joint health supplements work within a broader biological context that lifestyle
 
 A supplement targeting synovial fluid quality and inflammation, such as Joint Genesis, is most effective when combined with these foundations rather than substituted for them.
 
+**References:**
+- Messier SP, Mihalko SL, Legault C, et al. (2013). Effects of intensive diet and exercise on knee joint loads, inflammation, and clinical outcomes among overweight and obese adults with knee osteoarthritis: the IDEA randomized clinical trial. *JAMA*, 310(12), 1263-1273. [PubMed](https://pubmed.ncbi.nlm.nih.gov/24065013/){:target="_blank" rel="noopener"}
+- Segal NA, Glass NA. (2011). Is quadriceps muscle weakness a risk factor for incident or progressive knee osteoarthritis? *Physical and Sportsmedicine*, 39(4), 44-50. [PubMed](https://pubmed.ncbi.nlm.nih.gov/22293767/){:target="_blank" rel="noopener"}
+
 ---
 
 ## Pricing and Guarantee
