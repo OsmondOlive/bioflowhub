@@ -46,8 +46,8 @@ One of the most significant recent discoveries is the role of the **glymphatic s
 As a biomedical scientist passionate about the engineering of nature, I find this discovery particularly compelling. The idea that the brain has its own dedicated waste-clearance system that only activates during sleep reframes everything we thought we knew about why we need to sleep at all. It is not simply rest. It is maintenance that cannot happen any other way.
 
 <figure class="post-figure">
-  <img src="/assets/img/posts/sleep-recovery-brain.webp" alt="Illuminated human brain illustration representing the glymphatic system active during sleep" class="post-img">
-  <figcaption>The glymphatic system is active primarily during sleep. It flushes toxic waste products from the brain that accumulate throughout the day.</figcaption>
+  <img src="/assets/img/posts/sleep-glymphatic.webp" alt="Diagram comparing brain waste accumulation while awake versus glymphatic system flushing amyloid-beta and tau during sleep" class="post-img">
+  <figcaption>While awake, amyloid-beta and tau proteins accumulate in brain tissue. During sleep, the glymphatic system activates perivascular channels and CSF flow to flush these toxic proteins out — a process nearly inactive during wakefulness.</figcaption>
 </figure>
 
 If you are having trouble falling asleep, consider calming practices before bed. Scientific evidence consistently shows that mindfulness meditation reduces cortisol levels and anxiety, two of the most common drivers of insomnia. For those with a spiritual practice, prayer can serve a similar purpose.
@@ -102,6 +102,14 @@ A complete night of sleep is not a single uniform state. It cycles through disti
 **REM sleep** occupies a progressively larger proportion of each successive sleep cycle across the night, peaking in the final hours before natural waking. It is the stage most associated with emotional memory processing, procedural learning, pattern recognition, and creative insight. People who consistently sleep fewer than 7 hours lose disproportionately more REM than NREM sleep, which partially explains the mood and cognitive effects of mild chronic sleep restriction beyond simple tiredness.
 
 Understanding this architecture explains why sleep timing matters, not just total duration. Sleeping from 1am to 9am and sleeping from 10pm to 6am produce very different distributions of sleep stages even at identical durations, because slow-wave sleep is circadian-phase dependent and peaks in the early part of the biological night.
+
+<figure class="post-figure">
+  <img src="/assets/img/posts/sleep-architecture.webp" alt="Hypnogram showing sleep cycles across a full night with NREM stages 1, 2, 3 and REM, illustrating how deep sleep concentrates in the first half and REM grows longer toward morning" class="post-img">
+  <figcaption>A typical sleep hypnogram across 8 hours. Deep sleep (N3, dark blue) dominates early cycles and shortens progressively. REM sleep (teal) occupies an increasingly large proportion of later cycles — which is why cutting the last two hours of sleep disproportionately eliminates the most emotionally and cognitively restorative stage.</figcaption>
+</figure>
+
+**References:**
+- Patel AK, Reddy V, Shumway KR, Araujo JF. (2022). Physiology, sleep stages. In *StatPearls*. StatPearls Publishing. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30252388/){:target="_blank" rel="noopener"}
 
 ---
 
