@@ -98,6 +98,8 @@ This framing matters because it shifts the target. The question is not just "how
 - Nieman DC, Wentz LM. (2019). The compelling link between physical activity and the body's defense system. *Journal of Sport and Health Science*, 8(3), 201-217. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31193280/){:target="_blank" rel="noopener"}
 - Bikle DD. (2022). Vitamin D regulation of immune function. *Current Osteoporosis Reports*, 20(3), 186-193. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35507293/){:target="_blank" rel="noopener"}
 - Thomas R, Wang W, Su DM. (2020). Contributions of age-related thymic involution to immunosenescence and inflammaging. *Immunity and Ageing*, 17, 2. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31988649/){:target="_blank" rel="noopener"}
+- Hemilä H, Chalker E. (2013). Vitamin C for preventing and treating the common cold. *Cochrane Database of Systematic Reviews*, 1, CD000980. [PubMed](https://pubmed.ncbi.nlm.nih.gov/23440782/){:target="_blank" rel="noopener"}
+- Hemilä H. (2017). Zinc lozenges and the common cold: a meta-analysis comparing zinc acetate and zinc gluconate, and the role of zinc dosage. *JRSM Open*, 8(5), 2054270417694291. [PubMed](https://pubmed.ncbi.nlm.nih.gov/28515951/){:target="_blank" rel="noopener"}
 
 <div class="bio-box">
   <p>☀️ <strong>Vitamin D deficiency is extraordinarily common</strong>, affecting an estimated 1 billion people globally. Combined with K2, it supports immune function, bone health, and cardiovascular protection throughout life.</p>
