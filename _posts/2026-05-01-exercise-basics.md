@@ -62,6 +62,9 @@ The practical implication is not that you need to stand all day, because prolong
 
 For people with desk jobs, this is one of the highest-return habit changes available with almost zero time investment.
 
+**References:**
+- Biswas A, Oh PI, Faulkner GE, et al. (2015). Sedentary time and its association with risk for disease incidence, mortality, and hospitalization in adults: a systematic review and meta-analysis. *Annals of Internal Medicine*, 162(2), 123-132. [PubMed](https://pubmed.ncbi.nlm.nih.gov/25599350/){:target="_blank" rel="noopener"}
+
 ---
 
 ## How Much Exercise Do You Actually Need?
@@ -123,6 +126,9 @@ High-intensity interval training sits at the other end of the spectrum, near or 
 
 Most people benefit from a mix: two to three Zone 2 sessions per week, one higher-intensity session, and two resistance training sessions. The exact split matters less than covering all categories consistently over months.
 
+**References:**
+- Hawley JA, Hargreaves M, Joyner MJ, Zierath JR. (2014). Integrative biology of exercise. *Cell*, 159(4), 738-749. [PubMed](https://pubmed.ncbi.nlm.nih.gov/25417152/){:target="_blank" rel="noopener"}
+
 ---
 
 ## Exercise and Mental Health
@@ -134,6 +140,14 @@ Regular aerobic exercise produces measurable reductions in depression symptoms c
 The anxiety-reducing effects of exercise are similarly well-documented. A single session of moderate aerobic exercise reduces physiological markers of anxiety for several hours afterward. Consistent training over weeks reduces baseline anxiety levels and increases resilience to stress in ways that medication alone does not replicate.
 
 These effects are not exclusive to vigorous exercise. Even moderate daily walking produces significant improvements in mood, cognitive function, and self-reported wellbeing in populations ranging from healthy adults to those with clinical depression. The threshold for mental health benefit is lower than most people expect.
+
+<figure class="post-figure">
+  <img src="/assets/img/posts/exercise-mental-health.webp" alt="Woman smiling and holding a yoga mat outdoors after exercise, illustrating the mood and wellbeing benefits of regular physical activity" class="post-img">
+  <figcaption>The mood improvements from regular exercise are not subtle. A meta-analysis of 23 randomised controlled trials found that exercise produces significant reductions in depression symptoms comparable in magnitude to first-line antidepressant treatment, without side effects.</figcaption>
+</figure>
+
+**References:**
+- Kvam S, Kleppe CL, Nordhus IH, Hovland A. (2016). Exercise as a treatment for depression: a meta-analysis. *Journal of Affective Disorders*, 202, 67-86. [PubMed](https://pubmed.ncbi.nlm.nih.gov/27253219/){:target="_blank" rel="noopener"}
 
 ---
 
