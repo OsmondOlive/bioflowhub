@@ -119,6 +119,9 @@ It is a poor fit for severe chronic pain, nerve-related symptoms, or conditions 
 
 One thing worth understanding from a neuroscience standpoint: the act of massaging a topical cream into the skin activates low-threshold mechanoreceptors and can independently reduce pain perception through the gate control mechanism. This is not a reason to dismiss the product. It is part of why the real-world experience tends to be more positive than ingredient concentrations alone might suggest.
 
+**References:**
+- Melzack R, Wall PD. (1965). Pain mechanisms: a new theory. *Science*, 150(3699), 971-979. [PubMed](https://pubmed.ncbi.nlm.nih.gov/5320816/){:target="_blank" rel="noopener"}
+
 ---
 
 ## What Users Report
