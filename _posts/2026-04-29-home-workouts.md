@@ -76,6 +76,17 @@ A program covering all five patterns, two to three times per week with adequate 
 
 ---
 
+## Recommended: Watch Before You Start
+
+Getting the movement patterns right before adding difficulty is the most important investment in home training. FitnessFAQs, run by physiotherapist Daniel Vadnal, is one of the most evidence-grounded bodyweight training channels available. This full-body calisthenics overview covers the key patterns this post describes, with clear form cues for beginners through intermediate trainees.
+
+<figure class="post-figure">
+  <iframe width="100%" height="420" style="border-radius:8px; max-width:800px; display:block; margin:0 auto;" src="https://www.youtube.com/embed/gDOzq0h_6QU" title="Full Body Calisthenics Workout at Home — FitnessFAQs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <figcaption>Full Body Calisthenics — FitnessFAQs (Daniel Vadnal, physiotherapist). No equipment required. Suitable for all fitness levels.</figcaption>
+</figure>
+
+---
+
 ## Progressive Overload Without Weights
 
 Progressive overload — the principle that the training stimulus must increase over time to continue producing adaptation — is not optional. Without it, training produces a plateau and eventually maintenance at best. With weights, the progression is straightforward. Without them, it requires deliberate planning.
@@ -93,6 +104,9 @@ The main tools for progression in bodyweight training are:
 **Volume.** Adding sets or repetitions within a session is the simplest form of overload and appropriate for beginners. As fitness improves, intensity manipulations become more effective than simply adding volume.
 
 Tracking your sessions, even informally, is essential for applying progressive overload intentionally. Without a record of what you did last week, it is easy to repeat the same effort indefinitely and wonder why results have plateaued.
+
+**References:**
+- Schoenfeld BJ. (2010). The mechanisms of muscle hypertrophy and their application to resistance training. *Journal of Strength and Conditioning Research*, 24(10), 2857-2872. [DOI](https://doi.org/10.1519/JSC.0b013e3181e840f3){:target="_blank" rel="noopener"}
 
 ---
 
@@ -142,6 +156,17 @@ Alternate A, B, and C across three non-consecutive days per week. Progress each 
 
 ---
 
+## A Complete Beginner Session to Follow Along
+
+If you prefer a guided workout while you build the habit, Team Body Project has produced one of the most accessible beginner home workout videos available — low impact, no equipment, 30 minutes. The pace is realistic for anyone returning to exercise or starting for the first time.
+
+<figure class="post-figure">
+  <iframe width="100%" height="420" style="border-radius:8px; max-width:800px; display:block; margin:0 auto;" src="https://www.youtube.com/embed/gC_L9qAHVJ8" title="30 Minute Fat Burning Home Workout for Beginners — Team Body Project" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <figcaption>30-minute beginner home workout — Team Body Project. Low impact, no equipment, designed for real people at any starting level. Over 50 million views.</figcaption>
+</figure>
+
+---
+
 ## Recovery Between Sessions
 
 Training is the stimulus. Recovery is where adaptation actually occurs. A session that leaves you unable to move properly the following day is not better training — it is a recovery debt that reduces the quality of subsequent sessions and increases injury risk over time.
@@ -149,6 +174,9 @@ Training is the stimulus. Recovery is where adaptation actually occurs. A sessio
 Muscle protein synthesis, the process by which the body repairs and builds muscle tissue, peaks in the 24–48 hours following a training session. Adequate protein intake during this window, combined with sufficient sleep, is what converts the training stimulus into actual physical change. A session without adequate recovery support is a stimulus without the response.
 
 Practical recovery essentials: sleep 7–9 hours per night, consume adequate protein distributed across meals (0.4–0.5 grams per kilogram of body weight per meal works well as a practical target), and avoid scheduling intense sessions on consecutive days for the same muscle groups. Active recovery — light walking, stretching, or gentle mobility work — on off days maintains blood flow to recovering tissues without adding significant stress.
+
+**References:**
+- Churchward-Venne TA, Burd NA, Phillips SM. (2012). Nutritional regulation of muscle protein synthesis with resistance exercise: strategies to enhance anabolism. *Nutrition and Metabolism*, 9(1), 40. [PubMed](https://pubmed.ncbi.nlm.nih.gov/22594765/){:target="_blank" rel="noopener"}
 
 ---
 
@@ -198,4 +226,7 @@ The training stimulus that produces health benefits accumulates over months and 
 **No progression tracking.** Without knowing what you did last session, you cannot know whether you are progressing. A simple notebook or notes app entry after each session — exercises, sets, repetitions, and notes on difficulty — takes two minutes and makes intentional progression possible. People who track their training consistently show better strength and muscle gains over time than those who train by feel, because progressive overload requires knowing what you did before.
 
 **Changing the program too frequently.** Exercise variety is appealing but works against the adaptation process. Changing exercises every week prevents the nervous system and muscles from developing the specific efficiency needed to produce strength gains. Stick with the same core movements for at least four to six weeks before making significant changes.
+
+**References:**
+- Refalo MC, Helms ER, Trexler ET, Hamilton DL, Fyfe JJ. (2023). Influence of resistance training proximity-to-failure on skeletal muscle hypertrophy: a systematic review with meta-analysis. *Sports Medicine*, 53(3), 649-665. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36334240/){:target="_blank" rel="noopener"}
 
