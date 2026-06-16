@@ -166,8 +166,8 @@ The evidence base behind these recommendations spans decades and dozens of indep
 
 **References:**
 - Thomas R, Wang W, Su DM. (2020). Contributions of age-related thymic involution to immunosenescence and inflammaging. *Immunity and Ageing*, 17, 2. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31988649/){:target="_blank" rel="noopener"}
-- Hemilä H, Chalker E. (2013). Vitamin C for preventing and treating the common cold. *Cochrane Database of Systematic Reviews*, 1, CD000980. [PubMed](https://pubmed.ncbi.nlm.nih.gov/23440782/){:target="_blank" rel="noopener"}
-- Hemilä H. (2017). Zinc lozenges and the common cold: a meta-analysis comparing zinc acetate and zinc gluconate, and the role of zinc dosage. *JRSM Open*, 8(5), 2054270417694291. [PubMed](https://pubmed.ncbi.nlm.nih.gov/28515951/){:target="_blank" rel="noopener"}
+- Hemilä H, Chalker E. (2013). Vitamin C for preventing and treating the common cold. *Cochrane Database of Systematic Reviews*, 1. [PubMed](https://pubmed.ncbi.nlm.nih.gov/23440782/){:target="_blank" rel="noopener"}
+- Hemilä H. (2017). Zinc lozenges and the common cold: a meta-analysis comparing zinc acetate and zinc gluconate, and the role of zinc dosage. *JRSM Open*, 8(5). [PubMed](https://pubmed.ncbi.nlm.nih.gov/28515951/){:target="_blank" rel="noopener"}
 
 ---
 
