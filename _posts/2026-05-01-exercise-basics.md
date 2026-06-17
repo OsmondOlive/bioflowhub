@@ -159,6 +159,9 @@ People who begin with extreme programs adhere poorly over time. The pattern is p
 
 A workout you actually do is worth infinitely more than a perfect workout you skip. This is not a motivational statement. It is an empirical observation about how habit formation works, supported by decades of behavioral research. The fitness threshold that matters is not the one that would impress anyone. It is the one you will cross consistently for the next decade.
 
+**References:**
+- Teixeira PJ, Carraça EV, Markland D, Silva MN, Ryan RM. (2012). Exercise, physical activity, and self-determination theory: a systematic review. *International Journal of Behavioral Nutrition and Physical Activity*, 9, 78. [PubMed](https://pubmed.ncbi.nlm.nih.gov/22726453/){:target="_blank" rel="noopener"}
+
 ---
 
 ## Managing Soreness and Avoiding Injury
@@ -166,6 +169,9 @@ A workout you actually do is worth infinitely more than a perfect workout you sk
 Delayed onset muscle soreness, the stiffness and tenderness appearing 24 to 48 hours after unfamiliar exercise, is normal and not a sign of damage. It reflects the microscopic disruption and subsequent repair through which muscles adapt and grow stronger. Some soreness in the early weeks of a new program is expected and not a reason to stop.
 
 The most common cause of exercise-related injury is a simple one: doing too much too soon. The connective tissues (tendons and ligaments) adapt more slowly than muscles, and progressive overload that outpaces their recovery capacity is where most injuries originate. Allow adequate recovery between sessions targeting the same muscle groups, because adaptation happens during rest, not during the workout itself. Delayed onset muscle soreness (DOMS), the stiffness that peaks 24 to 48 hours after unfamiliar or intense exercise, is a normal part of the adaptation process and not a sign of injury. It tends to diminish significantly after the first two to three weeks of consistent training as the neuromuscular system adapts, and should not be used as a measure of workout quality.
+
+**References:**
+- Cheung K, Hume P, Maxwell L. (2003). Delayed onset muscle soreness: treatment strategies and performance factors. *Sports Medicine*, 33(2), 145-164. [PubMed](https://pubmed.ncbi.nlm.nih.gov/12617692/){:target="_blank" rel="noopener"}
 
 <div class="bio-box">
   <p>🦴 <strong>Dealing with joint or muscle soreness after training?</strong> Balmorex Pro is a topical cream with evidence-backed ingredients for muscle and joint relief, without systemic side effects. Worth considering as part of a recovery routine for anyone returning to exercise after a long break.</p>
