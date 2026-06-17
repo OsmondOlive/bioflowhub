@@ -109,6 +109,9 @@ Dynamic stretching, controlled and active movement through a range of motion, is
 
 This is what the evidence supports before training sessions, not prolonged static holds. The distinction matters practically: a five-minute dynamic warm-up before running or lifting prepares the body effectively; five minutes of static stretching in the same slot may slightly reduce peak output in the session that follows.
 
+**References:**
+- Behm DG, Chaouachi A. (2011). A review of the acute effects of static and dynamic stretching on performance. *European Journal of Applied Physiology*, 111(11), 2633-2651. [PubMed](https://pubmed.ncbi.nlm.nih.gov/21373870/){:target="_blank" rel="noopener"}
+
 ---
 
 ## Yoga, Pilates, and Mobility Training
@@ -160,6 +163,20 @@ Most people stretch their hamstrings and calves because they feel tight. Far few
 </figure>
 
 Restricted thoracic extension forces the lumbar spine and cervical spine to compensate, which is a significant driver of both lower back pain and neck tension. Five minutes a day of targeted thoracic mobility work, including cat-cow movements, thoracic rotations, and foam roller extensions over the mid-back, produces meaningful improvements in posture and pain over weeks.
+
+**References:**
+- Joshi S, Balthillaya G, Neelapala YVR. (2019). Thoracic posture and mobility in mechanical neck pain population: a review of the literature. *Asian Spine Journal*, 13(5), 849-860. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31154701/){:target="_blank" rel="noopener"}
+
+---
+
+## A Daily Routine You Can Follow Along
+
+The most consistent predictor of long-term mobility improvement is practice frequency, not session duration. Ten minutes done daily produces more adaptation over months than an hour done occasionally. The following video by Yoga With Adriene, one of the most widely trusted movement channels for people at all fitness levels, provides a practical 10-minute full-body stretch routine that directly complements the movement patterns covered in this post.
+
+<figure class="post-figure">
+  <iframe width="100%" height="420" style="border-radius:8px; max-width:800px; display:block; margin:0 auto;" src="https://www.youtube.com/embed/lxuTCHJSers" title="10 Minute Full Body Stretch — Yoga With Adriene" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <figcaption>10-minute full body stretch — Yoga With Adriene. No equipment, all levels, suitable for any age. A practical starting point for a consistent daily mobility practice.</figcaption>
+</figure>
 
 ---
 
