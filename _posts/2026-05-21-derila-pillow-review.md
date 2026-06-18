@@ -191,7 +191,7 @@ A pillow addresses one dimension of the sleep environment, but its effectiveness
 **References:**
 - Pang JCY, Tsang SMH, Fu ACL. (2021). The effects of pillow designs on neck pain, waking symptoms, neck disability, sleep quality and spinal alignment in adults: a systematic review and meta-analysis. *Clinical Biomechanics*, 85, 105353. [PubMed](https://pubmed.ncbi.nlm.nih.gov/33895703/){:target="_blank" rel="noopener"}
 - Stavrou VT, Koutedakis Y, Astara K, Vavougios GD, Papayianni E, Stavrou IT, Bardaka F, Pastaka C, Gourgoulianis KI. (2022). Memory foam pillow as an intervention in obstructive sleep apnea syndrome: a preliminary randomized study. *Frontiers in Medicine*, 9, 842224. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35372428/){:target="_blank" rel="noopener"}
-- Radwan A, et al. (2021). Effect of different pillow designs on promoting sleep comfort, quality and spinal alignment: a systematic review. *Sleep Health*, 7(3), 286-294.
+- Radwan A, Ashton N, Gates T, Kilmer A, VanFleet M. (2021). Effect of different pillow designs on promoting sleep comfort, quality and spinal alignment: a systematic review. *European Journal of Integrative Medicine*, 42, 101269. [DOI](https://doi.org/10.1016/j.eujim.2020.101269){:target="_blank" rel="noopener"}
 
 <div class="bio-box">
   <p>🛏️ <strong>Derila Ergo</strong> combines a butterfly contoured design with high-density breathable memory foam to support cervical alignment for both side and back sleepers, addressing the mechanical root cause of sleep-related neck stiffness.</p>
