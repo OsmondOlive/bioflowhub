@@ -176,7 +176,7 @@ hs-CRP detects low levels of chronic inflammation associated with cardiovascular
   <figcaption>Kidney function markers are among the most routinely ordered tests. Different tube types, each color-coded for specific analytical processes, are used for a complete metabolic panel.</figcaption>
 </figure>
 
-The kidneys filter approximately 200 liters of blood per day and decline silently. Chronic kidney disease affects an estimated 10% of the global population and produces no symptoms until significant damage has occurred.
+The kidneys filter approximately 180 liters of plasma per day through the glomeruli and decline silently. Chronic kidney disease affects an estimated 10% of the global population and produces no symptoms until significant damage has occurred.
 
 **Creatinine** reflects kidney filtration but depends heavily on muscle mass, age, and sex, which makes it a poor standalone marker. **eGFR** corrects for these variables using the 2021 CKD-EPI equation and is the standard clinical measure of kidney function.
 
