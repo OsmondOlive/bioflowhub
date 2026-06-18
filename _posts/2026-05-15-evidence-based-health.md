@@ -123,6 +123,9 @@ A drug that reduces cardiovascular events from 2% to 1% over ten years has a 50%
 
 When evaluating any health intervention, always ask for the absolute numbers: how many people need to take this, for how long, to prevent one adverse outcome? This is the number needed to treat, and it places the relative risk framing in its proper context.
 
+**References:**
+- Gigerenzer G, Gaissmaier W, Kurz-Milcke E, Schwartz LM, Woloshin S. (2007). Helping doctors and patients make sense of health statistics. *Psychological Science in the Public Interest*, 8(2), 53-96. [PubMed](https://pubmed.ncbi.nlm.nih.gov/26161749/){:target="_blank" rel="noopener"}
+
 ---
 
 ## How to Evaluate Health Claims Practically
@@ -175,6 +178,10 @@ The fundamental problem with nutritional epidemiology is that people eat entire 
 John Ioannidis, in a subsequent analysis of nutritional epidemiology specifically, examined whether the associations observed between single foods and mortality outcomes were plausible given what was known about effect sizes from other health interventions. His conclusion was striking: many of the associations reported in the literature would, if taken at face value, imply that diet alone is responsible for a far larger proportion of deaths than all other causes combined, which is biologically implausible. The effect sizes observed are likely substantially inflated by confounding and measurement error.
 
 This does not mean diet does not matter. It clearly does, and the overall dietary pattern matters most. The Mediterranean dietary pattern, whole foods over ultra-processed foods, adequate fiber, and sufficient protein have enough converging evidence from multiple methodologies, including intervention studies, mechanistic research, and population data, to justify confidence. What it does mean is that specific claims about single foods or nutrients based on observational studies alone should be treated with significant caution.
+
+**References:**
+- Ioannidis JPA. (2013). Implausible results in human nutrition research. *BMJ*, 347, f6698. [PubMed](https://pubmed.ncbi.nlm.nih.gov/24231028/){:target="_blank" rel="noopener"}
+- Schoenfeld JD, Ioannidis JPA. (2013). Is everything we eat associated with cancer? A systematic cookbook review. *American Journal of Clinical Nutrition*, 97(1), 127-134. [PubMed](https://pubmed.ncbi.nlm.nih.gov/23193004/){:target="_blank" rel="noopener"}
 
 ---
 
