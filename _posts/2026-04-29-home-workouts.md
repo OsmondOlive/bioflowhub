@@ -23,9 +23,9 @@ thumbnail-img: /assets/img/posts/home-workouts-hero.webp
   <figcaption>The gym is a convenient tool, not a prerequisite. Your bodyweight, gravity, and consistency are enough to build real, lasting fitness.</figcaption>
 </figure>
 
-There is a persistent assumption in fitness culture that serious training requires a gym. It is worth examining where that assumption comes from, because the evidence does not support it as strongly as the industry would like you to believe.
+There is a persistent and widely repeated assumption in fitness culture that serious training requires a gym membership. It is worth examining where that assumption truly and consistently comes from, because the evidence does not support it nearly as strongly as the fitness industry would prefer you to believe.
 
-The human body produces strength adaptations in response to mechanical tension and metabolic stress. The source of that tension, whether a barbell, a cable machine, or your own bodyweight against gravity, is secondary to the stimulus itself. What drives adaptation is progressive challenge over time applied to the fundamental movement patterns your body is built around. All of that is achievable without leaving your home.
+The human body produces strength adaptations in response to mechanical tension and metabolic stress, the two fundamental drivers behind virtually all resistance training adaptation regardless of context. The source of that tension, whether a barbell, a cable machine, or your own bodyweight against gravity, is secondary to the stimulus itself. What drives adaptation is progressive challenge over time applied consistently to the fundamental movement patterns your body is naturally built around. All of that is genuinely achievable without ever leaving the comfort of your own home, regardless of starting fitness level.
 
 ---
 
@@ -186,6 +186,8 @@ Home training removes the single largest friction point for most people: commute
 
 Choose exercises you find tolerable or genuinely enjoyable. Schedule sessions at a consistent time of day. Start with a commitment small enough that skipping feels worse than doing it. These are not motivational platitudes. They are principles derived from behavioral research on habit formation applied to physical activity specifically.
 
+The friction-reduction argument deserves to be taken seriously rather than dismissed as an excuse. Decision fatigue is a real phenomenon, and every additional step between deciding to exercise and actually starting, packing a bag, driving, finding parking, waiting for equipment, is a point where motivation can fail. Removing those steps entirely, by training in the same room you already live in, with equipment that is already set up and visible, removes the decision points where most people's intentions quietly collapse. This is not a minor psychological trick. It is the single most reliable lever available for improving long-term adherence, which research consistently shows matters more for outcomes than the specific program chosen.
+
 The training stimulus that produces health benefits accumulates over months and years. A modest but consistent home practice maintained for three years produces far greater health outcomes than an ambitious gym program abandoned after three months.
 
 ---
@@ -211,10 +213,6 @@ The training stimulus that produces health benefits accumulates over months and 
 
 ---
 
-*Have a question or a topic you would like covered? Leave a comment below or [get in touch](/contact).*
-
----
-
 ## Common Mistakes That Limit Progress
 
 **Skipping the warm-up.** Cold muscles and connective tissue are more vulnerable to strain, and performance in the first set of a cold session is meaningfully lower than in a properly prepared one. Five minutes of light movement, joint circles, and easier variations of the exercises you plan to perform is sufficient. This is not optional time wasted; it is part of the session.
@@ -229,4 +227,8 @@ The training stimulus that produces health benefits accumulates over months and 
 
 **References:**
 - Refalo MC, Helms ER, Trexler ET, Hamilton DL, Fyfe JJ. (2023). Influence of resistance training proximity-to-failure on skeletal muscle hypertrophy: a systematic review with meta-analysis. *Sports Medicine*, 53(3), 649-665. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36334240/){:target="_blank" rel="noopener"}
+
+---
+
+*Have a question or a topic you would like covered? Leave a comment below or [get in touch](/contact).*
 

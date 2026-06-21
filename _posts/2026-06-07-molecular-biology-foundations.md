@@ -26,7 +26,7 @@ thumbnail-img: /assets/img/posts/molecular-biology-hero.webp
 
 Every health claim you have ever read, every drug ever developed, and every function your body performs right now depends on molecular events happening inside individual cells. Proteins are being synthesized. Glucose is being broken down. Genes are being switched on and off in response to signals from the environment. Inflammatory molecules are being produced, targeted, and resolved.
 
-Understanding these processes is not just academic curiosity. It is the foundation for understanding why specific lifestyle interventions work, what specific drugs actually do, and how the body maintains health or loses it. This article covers four pillars of molecular and cellular biology with enough depth to be genuinely useful, presented through the lens of someone who has worked in a biochemistry research laboratory.
+Understanding these molecular processes is not just academic curiosity reserved for specialists. It is the foundation for understanding why specific lifestyle interventions work, what specific drugs actually do, and how the body maintains health or loses it. This article covers four pillars of molecular and cellular biology with enough depth to be genuinely useful, presented through the lens of someone who has worked in a biochemistry research laboratory.
 
 ---
 
@@ -74,10 +74,12 @@ Glycolysis converts one molecule of glucose (a six-carbon sugar) into two molecu
 
 **The Energy Investment Phase (steps 1 to 5)** consumes 2 ATP molecules to phosphorylate glucose and prepare it for cleavage. The committed step, and the primary regulatory point, is the phosphorylation of fructose-6-phosphate by phosphofructokinase-1 (PFK-1). This enzyme is allosterically inhibited by ATP and citrate (signals that the cell has sufficient energy) and activated by AMP and ADP (signals of energy deficit). This elegant feedback mechanism ensures glycolysis runs only when the cell genuinely needs fuel.
 
+The rising AMP-to-ATP ratio that activates PFK-1 also activates a separate but related master regulator: AMP-activated protein kinase, or AMPK. AMPK functions as the cell's overall energy sensor, and when activated it shifts cellular priorities broadly toward energy generation and away from energy-expensive processes like growth and protein synthesis. This is the same pathway targeted pharmacologically by metformin and, to a lesser extent, by compounds like berberine, and it is also activated naturally by the energy demand created during sustained aerobic exercise. Understanding AMPK helps explain why exercise and certain metabolic medications produce overlapping effects on blood glucose: both are activating the same underlying cellular sensor through different routes.
+
 **The Energy Payoff Phase (steps 6 to 10)** processes two molecules of glyceraldehyde-3-phosphate and generates 4 ATP and 2 NADH per glucose. The net yield after subtracting the investment phase is 2 ATP and 2 NADH per glucose molecule, a remarkably small fraction of the energy chemically available in glucose.
 
 <div class="mol-concept">
-<strong>Why this matters for health:</strong> Cancer cells preferentially use glycolysis even in the presence of adequate oxygen, producing lactate rather than entering the Krebs cycle. This observation, called the Warburg effect, is the molecular basis for PET scanning (which detects tumors by their high glucose uptake) and is one of the most active areas of cancer metabolism research.
+<strong>Why this matters for health:</strong> Cancer cells preferentially use glycolysis even in the presence of adequate oxygen, producing lactate rather than entering the Krebs cycle. This observation, called the Warburg effect, is the molecular basis for PET scanning (which detects tumors by their high glucose uptake) and is one of the most active areas of cancer metabolism research. Why cancer cells make this metabolically inefficient trade-off, generating far less ATP per glucose molecule than oxidative metabolism would allow, remains an active area of investigation, though the leading explanation is that rapid glycolysis supplies the raw carbon building blocks needed for the fast cell division characteristic of tumor growth.
 </div>
 
 The NADH produced by glycolysis carries high-energy electrons to the mitochondria, where the electron transport chain uses them to drive ATP synthesis through oxidative phosphorylation. This is where the bulk of cellular energy comes from: not from glycolysis itself, but from the downstream processing of its products.
@@ -140,7 +142,7 @@ None of this means that lifestyle interventions are treatments for established d
 
 Biochemistry is not something that happens in textbooks. It is happening in every cell of your body, right now, in response to everything you are doing.
 
-One of the most significant recent developments in this field is the recognition that lifestyle factors can modify gene expression without changing the underlying DNA sequence — a phenomenon known as epigenetics. DNA methylation, histone modification, and non-coding RNA regulation all respond to diet, exercise, sleep quality, and chronic stress in measurable ways. This means that the same genome can produce profoundly different biological outcomes depending on the environment it operates in. The choices that affect NF-kB activation, mitochondrial efficiency, and glycolytic flux are not incidental. They are epigenetic inputs into a system that was built to be responsive.
+One of the most significant recent developments in this field is the recognition that lifestyle factors can modify gene expression without changing the underlying DNA sequence at all, a phenomenon known as epigenetics. DNA methylation, histone modification, and non-coding RNA regulation all respond to diet, exercise, sleep quality, and chronic stress in measurable ways. This means that the same genome can produce profoundly different biological outcomes depending on the environment it operates in. The choices that affect NF-kB activation, mitochondrial efficiency, and glycolytic flux are not incidental. They are epigenetic inputs into a system that was built to be responsive.
 
 ---
 

@@ -26,9 +26,9 @@ thumbnail-img: /assets/img/posts/how-body-hero.webp
   <figcaption>Five layers of the same body. Each system has its own logic, its own language, and its own vulnerabilities. And each one affects all the others. (Illustration: Loneshieling, CC BY 4.0)</figcaption>
 </figure>
 
-Most people go through their entire lives with only a vague understanding of how their own body functions. They know the heart pumps blood and the lungs take in air. But the deeper mechanisms that govern energy, immunity, hormones, inflammation, and aging remain largely invisible.
+Most people go through their entire lives with only a vague and incomplete understanding of how their own body actually functions on a daily basis. They know the heart pumps blood and the lungs take in air regularly. But the deeper mechanisms that govern energy, immunity, hormones, inflammation, and aging remain largely invisible.
 
-This invisibility has a cost. When you do not understand how something works, you cannot make informed decisions about how to maintain it. This post is a working overview of your body's major systems and why certain health behaviors matter at a biological level.
+This invisibility carries a real and ongoing cost. When you do not understand how something works, you cannot make informed decisions about how to maintain it properly. This post is a working overview of your body's major systems and why specific health behaviors matter at a fundamental biological level.
 
 ---
 
@@ -39,9 +39,9 @@ This invisibility has a cost. When you do not understand how something works, yo
   <figcaption>A generalized human cell with its major organelles. The nucleus (blue, center) houses the genetic blueprint. Mitochondria (orange, crescent-shaped) produce ATP through oxidative phosphorylation. Ribosomes (red dots on the rough ER) translate genetic instructions into proteins. Every process in this post ultimately depends on what happens inside cells like this one. (Illustration: OpenStax, CC BY 4.0)</figcaption>
 </figure>
 
-Your body contains approximately 37 trillion cells, each a self-contained biological machine carrying your complete genetic blueprint. Despite sharing that same genetic code, these cells differentiate into roughly 220 distinct cell types, each with its own structure, function, and lifespan. A neuron survives for decades without dividing. A red blood cell lives approximately 120 days and lacks a nucleus entirely. An intestinal epithelial cell is replaced every three to five days.
+Your body contains approximately 37 trillion living cells, each a self-contained biological machine carrying your complete genetic blueprint. Despite sharing that same genetic code, these cells differentiate into roughly 220 distinct cell types, each with its own structure, function, and lifespan. A neuron survives for decades without dividing. A red blood cell lives approximately 120 days and lacks a nucleus entirely. An intestinal epithelial cell is replaced every three to five days.
 
-What determines this diversity is not the DNA itself but which parts of it are read. Each cell type expresses a specific subset of genes while keeping the rest silenced, a process regulated by epigenetic mechanisms, chemical signals from neighboring cells, and the cell's own history. A liver cell and a muscle cell carry identical genomes but behave completely differently because they are reading different chapters of the same book. This is why the field of epigenetics, the study of how gene expression is regulated without changing the underlying DNA sequence, has become one of the most active areas in biomedical research. Lifestyle factors including diet, sleep, exercise, and chronic stress all influence which genes are expressed in which cells, often in ways that accumulate over years and decades.
+What determines this diversity is not the DNA itself but which parts of it are read. Each cell type expresses a specific subset of genes while keeping the remainder silenced, a process regulated by epigenetic mechanisms, chemical signals from neighboring cells, and the cell's own history. A liver cell and a muscle cell carry identical genomes but behave completely differently because they are reading different chapters of the same book. This is why the field of epigenetics, the study of how gene expression is regulated without changing the underlying DNA sequence, has become one of the most active areas in biomedical research. Lifestyle factors including diet, sleep, exercise, and chronic stress all influence which genes are expressed in which cells, often in ways that accumulate over years and decades.
 
 Every cell requires energy, produced in organelles called **mitochondria** through cellular respiration. Glucose and oxygen go in; ATP (the cell's energy currency), carbon dioxide, and water come out. Mitochondria were long called the "powerhouses of the cell," but that label is increasingly recognized as reductive. Beyond ATP production, mitochondria regulate programmed cell death, synthesize steroid hormones, control calcium signaling, and function as information processors that sense what is happening inside the cell and signal the nucleus to respond accordingly.
 
@@ -146,6 +146,8 @@ Within the autonomic system, the **sympathetic** division activates the body for
 
 The **vagus nerve**, the longest cranial nerve in the body, is the primary channel of parasympathetic communication and the anatomical basis of the gut-brain axis. Research on the neurovisceral integration model has shown that vagal tone, measurable as heart rate variability, is a reliable index of the nervous system's capacity for flexible self-regulation and stress resilience. Its activation through slow breathing, exercise, and social connection directly counteracts the effects of chronic stress. This is why deep breathing is not folk wisdom. It is a specific anatomical intervention targeting a specific nerve pathway with measurable physiological consequences.
 
+Worth noting alongside the vagus nerve is the enteric nervous system embedded within the gut wall itself, sometimes informally called the body's second brain. It contains over 100 million neurons, more than the spinal cord, and is capable of governing digestive movement and local reflexes largely independently of the brain, even when the vagus nerve connecting the two is severed. The vagus nerve and the enteric nervous system communicate continuously, which is the structural basis for why gut state so reliably influences mood and why psychological stress so reliably produces digestive symptoms.
+
 **References:**
 - Thayer JF, Lane RD. (2009). Claude Bernard and the heart-brain connection: further elaboration of a model of neurovisceral integration. *Neuroscience and Biobehavioral Reviews*, 33(2), 81-88. [PubMed](https://pubmed.ncbi.nlm.nih.gov/18771686/){:target="_blank" rel="noopener"}
 
@@ -197,7 +199,7 @@ When you know that the vagus nerve mediates the parasympathetic response, the in
 
 When you know that chronic inflammation drives most chronic disease, dietary and lifestyle choices that reduce it are not optional extras. They are foundational.
 
-Biology is not destiny. But understanding it can help you preserve your health and also the planet.
+Biology is not destiny. But understanding it can help you preserve your health for decades longer than you would otherwise expect.
 
 ---
 
