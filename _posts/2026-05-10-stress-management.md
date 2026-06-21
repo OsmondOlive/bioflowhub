@@ -27,11 +27,18 @@ thumbnail-img: /assets/img/posts/stress-management-hero.webp
   <figcaption>Chronic stress is not just a feeling. It is a measurable biological state with consequences that accumulate silently over years.</figcaption>
 </figure>
 
-Stress is not inherently bad or something to be eliminated entirely. The acute stress response is one of the most elegant survival mechanisms in human biology, mobilizing energy, sharpening focus, and preparing the body for action. When you exercise, fast, or face a meaningful deadline, your body activates the same stress response in a controlled and temporary way. Scientists call this positive form "eustress," and it is one of the primary mechanisms behind the benefits of exercise, cold exposure, and deliberate challenge.
+Stress is not inherently bad. The acute stress response is one of the most elegant survival mechanisms in human biology, mobilizing energy, sharpening focus, and preparing the body for action. When you exercise, fast, or face a meaningful deadline, your body activates the same stress response in a controlled and temporary way. Scientists call this positive form "eustress," and it is one of the primary mechanisms behind the benefits of exercise, cold exposure, and deliberate challenge.
 
 The problem begins when that same system is activated chronically by the pressures of modern life: financial pressure, relationship conflict, work demands, social anxiety. In this case, cortisol and sympathetic activation remain persistently elevated, producing effects that accumulate and damage the body over time.
 
-This cumulative wear has a name in the research literature: allostatic load. The body's stress systems are built to mobilize quickly and then return to baseline once the threat passes. Allostatic load describes the biological cost of a system that never fully returns to baseline, staying in a low-grade state of activation across cardiovascular, immune, metabolic, and neuroendocrine systems simultaneously. It is not any single elevated hormone level that causes harm. It is the compounding effect of multiple systems running slightly hot for months or years, which is precisely why chronic stress is linked to such a wide and seemingly unrelated range of health problems.
+This cumulative wear has a name in the research literature: allostatic load. The body's stress systems are built to mobilize quickly and then return to baseline once the threat passes. Allostatic load describes the biological cost of a system that never fully returns to baseline, staying in a low-grade state of activation across cardiovascular, immune, metabolic, and neuroendocrine systems simultaneously.
+
+<figure class="post-figure">
+  <img src="/assets/img/posts/allostatic-load.svg" alt="Diagram comparing acute stress, which activates briefly and returns to baseline, with chronic stress, where multiple body systems stay activated with no recovery window" class="post-img">
+  <figcaption>The core difference between manageable and damaging stress is not the stressor itself, but whether the body gets a genuine recovery window afterward.</figcaption>
+</figure>
+
+It is not any single elevated hormone level that causes harm. It is the compounding effect of multiple systems running slightly hot for months or years, which is precisely why chronic stress is linked to such a wide and seemingly unrelated range of health problems.
 
 ---
 
@@ -158,11 +165,11 @@ The practical implication is to match the tool to the timeframe of the problem. 
 
 ## Practical Starting Points
 
-You do not need to overhaul your entire life overnight to meaningfully reduce chronic stress. The evidence points to a few high-leverage starting points worth prioritizing over everything else.
+You do not need to overhaul your life to meaningfully reduce chronic stress. The evidence points to a few high-leverage starting points.
 
-Move your body regularly, ideally most days of the week rather than in occasional intense bursts. Get morning sunlight within the first hour of waking, even 15 minutes makes a measurable difference to your cortisol and serotonin rhythm. Protect your sleep carefully and consistently, since sleep deprivation and chronic stress form a self-reinforcing, mutually worsening cycle. Invest in social relationships deliberately and consistently, not just when convenient. Set limits on recreational screen time, particularly passive scrolling in the evening. Find meaning in your work and protect genuine recovery time as seriously as you protect working hours. Spend time in natural environments when possible. Practice some form of slow breathing or brief meditation daily. If you have a faith practice, engage with it actively, since prayer and scripture engagement have measurable physiological effects on stress reactivity.
+Move your body regularly. Get morning sunlight within the first hour of waking, even 15 minutes makes a measurable difference to your cortisol and serotonin rhythm. Protect your sleep, since sleep deprivation and chronic stress form a self-reinforcing cycle. Invest in social relationships deliberately, not just when convenient. Set limits on recreational screen time, particularly passive scrolling in the evening. Find meaning in your work and protect genuine recovery time as seriously as you protect working hours. Spend time in natural environments when possible. Practice some form of slow breathing or brief meditation daily. If you have a faith practice, engage with it actively, since prayer and scripture engagement have measurable physiological effects on stress reactivity.
 
-Finally, and perhaps most importantly, examine your relationship with stress itself. Reframing it as a signal rather than a threat changes not just how it feels but how it affects you biologically. Managing stress is not about eliminating difficulty. It is about building the resilience to move through difficulty without accumulating lasting biological damage.
+Finally, examine your relationship with stress itself. Reframing it as a signal rather than a threat changes not just how it feels but how it affects you biologically. Managing stress is not about eliminating difficulty. It is about building the resilience to move through difficulty without accumulating lasting biological damage.
 
 <div class="bio-box">
   <p>🌿 <strong>Looking for natural support for stress and anxiety?</strong> Joint Genesis contains Boswellia Serrata, which has well-documented anti-inflammatory properties that also support stress-related inflammatory pathways, alongside other ingredients targeting physical tension and discomfort that chronic stress often produces in the body.</p>

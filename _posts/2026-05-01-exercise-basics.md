@@ -166,6 +166,11 @@ A workout you actually do is worth infinitely more than a perfect workout you sk
 
 ## The Warm-Up Is Not Optional
 
+<figure class="post-figure">
+  <img src="/assets/img/posts/exercise-warmup.webp" alt="Man performing a dynamic shoulder and arm stretch as a warm-up in a gym before training" class="post-img">
+  <figcaption>A dynamic warm-up, like this cross-body shoulder stretch, prepares muscles and connective tissue for the movement patterns about to follow, rather than holding static stretches in place.</figcaption>
+</figure>
+
 A few minutes spent properly preparing the body before a session is one of the most consistently skipped steps, and also one of the most evidence-supported.
 
 A proper warm-up raises muscle temperature, which increases the elasticity of muscle and tendon tissue and improves the efficiency of the neuromuscular signaling that controls movement. It also gradually increases heart rate and blood flow to working muscles rather than demanding an abrupt transition from rest to high output, which is where a meaningful share of acute strains and minor injuries occur, particularly in people returning to exercise after time off. Five to ten minutes of dynamic movement, light cardio followed by movement patterns that mimic what the session ahead will require, prepares the body far more effectively than static stretching held in place, which can temporarily reduce force output if performed immediately before strength or speed work.

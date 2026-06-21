@@ -119,7 +119,14 @@ Understanding the circadian rhythm is, in my view, one of the most practically u
 
 The circadian rhythm is an approximately 24-hour internal clock driven by a small region of the brain called the suprachiasmatic nucleus. It responds primarily to light signals from the environment and regulates not just sleep and wakefulness but also body temperature, cortisol release, insulin sensitivity, immune activity, digestion, and dozens of other physiological processes, all of which follow a predictable daily pattern.
 
-This master clock is not metaphorical. At the molecular level, it is built from a feedback loop of clock genes, most notably CLOCK and BMAL1, which activate the transcription of two other genes, PER and CRY. As PER and CRY proteins accumulate, they loop back and suppress the activity of CLOCK and BMAL1, and the cycle resets roughly every 24 hours. This same molecular clockwork exists not just in the suprachiasmatic nucleus but in nearly every cell of the body, meaning your liver, your muscles, and your skin each carry their own semi-independent timing mechanism, all of which the central brain clock keeps synchronized through light exposure. This is part of why disrupted sleep affects so much more than alertness: when the central clock and the peripheral cellular clocks fall out of sync, as happens with jet lag or shift work, organs are quite literally working on different schedules from one another.
+This master clock is not metaphorical. At the molecular level, it is built from a feedback loop of clock genes, most notably CLOCK and BMAL1, which activate the transcription of two other genes, PER and CRY. As PER and CRY proteins accumulate, they loop back and suppress the activity of CLOCK and BMAL1, and the cycle resets roughly every 24 hours.
+
+<figure class="post-figure">
+  <img src="/assets/img/posts/circadian-clock-genes.svg" alt="Diagram showing CLOCK and BMAL1 proteins activating transcription of PER and CRY, which then accumulate and suppress CLOCK and BMAL1, resetting roughly every 24 hours" class="post-img">
+  <figcaption>The molecular clock at the heart of every cell's circadian rhythm: a feedback loop between activator and repressor proteins that resets on an approximately 24-hour cycle.</figcaption>
+</figure>
+
+This same molecular clockwork exists not just in the suprachiasmatic nucleus but in nearly every cell of the body, meaning your liver, your muscles, and your skin each carry their own semi-independent timing mechanism, all of which the central brain clock keeps synchronized through light exposure. This is part of why disrupted sleep affects so much more than alertness: when the central clock and the peripheral cellular clocks fall out of sync, as happens with jet lag or shift work, organs are quite literally working on different schedules from one another.
 
 When the circadian rhythm is aligned with the external environment, these systems work in coordination. Cortisol peaks in the morning to mobilize energy and alertness. Body temperature rises through the day and drops at night to facilitate sleep. Digestive enzymes and insulin sensitivity are highest during daylight hours.
 

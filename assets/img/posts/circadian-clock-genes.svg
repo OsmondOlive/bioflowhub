@@ -1,0 +1,22 @@
+<svg width="680" height="260" viewBox="0 0 680 260" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>Circadian clock gene feedback loop</title>
+<desc>Diagram showing how CLOCK and BMAL1 proteins activate transcription of PER and CRY, which then accumulate and suppress CLOCK and BMAL1, resetting roughly every 24 hours.</desc>
+<defs>
+  <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+    <path d="M2 1L8 5L2 9" fill="none" stroke="#5f5e5a" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </marker>
+</defs>
+<rect x="80" y="120" width="200" height="60" rx="10" fill="#FAEEDA" stroke="#BA7517" stroke-width="0.5"/>
+<text x="180" y="142" text-anchor="middle" dominant-baseline="central" font-family="sans-serif" font-size="14" font-weight="500" fill="#412402">CLOCK + BMAL1</text>
+<text x="180" y="160" text-anchor="middle" dominant-baseline="central" font-family="sans-serif" font-size="12" fill="#854F0B">Activator proteins</text>
+
+<rect x="400" y="120" width="200" height="60" rx="10" fill="#E6F1FB" stroke="#185FA5" stroke-width="0.5"/>
+<text x="500" y="142" text-anchor="middle" dominant-baseline="central" font-family="sans-serif" font-size="14" font-weight="500" fill="#042C53">PER + CRY</text>
+<text x="500" y="160" text-anchor="middle" dominant-baseline="central" font-family="sans-serif" font-size="12" fill="#185FA5">Repressor proteins</text>
+
+<path d="M280 130 Q340 90 400 130" fill="none" stroke="#BA7517" stroke-width="1.2" marker-end="url(#arrow)"/>
+<text x="340" y="70" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#5f5e5a">Activates transcription of</text>
+
+<path d="M400 170 Q340 210 280 170" fill="none" stroke="#185FA5" stroke-width="1.2" marker-end="url(#arrow)"/>
+<text x="340" y="232" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#5f5e5a">Accumulate, then suppress</text>
+</svg>

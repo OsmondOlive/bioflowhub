@@ -1,0 +1,27 @@
+<svg width="680" height="250" viewBox="0 0 680 250" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>Acute stress versus chronic stress and allostatic load</title>
+<desc>Diagram comparing acute stress, which activates briefly and returns to baseline, with chronic stress, where multiple body systems stay activated with no recovery window, producing allostatic load.</desc>
+<defs>
+  <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+    <path d="M2 1L8 5L2 9" fill="none" stroke="#5f5e5a" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </marker>
+</defs>
+<rect x="90" y="40" width="220" height="56" rx="10" fill="#E1F5EE" stroke="#0F6E56" stroke-width="0.5"/>
+<text x="200" y="62" text-anchor="middle" dominant-baseline="central" font-family="sans-serif" font-size="14" font-weight="500" fill="#04342C">Acute stress</text>
+<text x="200" y="80" text-anchor="middle" dominant-baseline="central" font-family="sans-serif" font-size="12" fill="#0F6E56">Activates briefly</text>
+
+<rect x="370" y="40" width="220" height="56" rx="10" fill="#FAECE7" stroke="#993C1D" stroke-width="0.5"/>
+<text x="480" y="62" text-anchor="middle" dominant-baseline="central" font-family="sans-serif" font-size="14" font-weight="500" fill="#4A1B0C">Chronic stress</text>
+<text x="480" y="80" text-anchor="middle" dominant-baseline="central" font-family="sans-serif" font-size="12" fill="#993C1D">Stays activated</text>
+
+<line x1="200" y1="96" x2="200" y2="150" stroke="#5f5e5a" stroke-width="1.2" marker-end="url(#arrow)"/>
+<line x1="480" y1="96" x2="480" y2="150" stroke="#5f5e5a" stroke-width="1.2" marker-end="url(#arrow)"/>
+
+<rect x="90" y="150" width="220" height="56" rx="10" fill="#E1F5EE" stroke="#0F6E56" stroke-width="0.5"/>
+<text x="200" y="172" text-anchor="middle" dominant-baseline="central" font-family="sans-serif" font-size="14" font-weight="500" fill="#04342C">Returns to baseline</text>
+<text x="200" y="190" text-anchor="middle" dominant-baseline="central" font-family="sans-serif" font-size="12" fill="#0F6E56">Full recovery</text>
+
+<rect x="370" y="150" width="220" height="56" rx="10" fill="#FAECE7" stroke="#993C1D" stroke-width="0.5"/>
+<text x="480" y="172" text-anchor="middle" dominant-baseline="central" font-family="sans-serif" font-size="14" font-weight="500" fill="#4A1B0C">Systems stay elevated</text>
+<text x="480" y="190" text-anchor="middle" dominant-baseline="central" font-family="sans-serif" font-size="12" fill="#993C1D">No recovery window</text>
+</svg>

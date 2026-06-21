@@ -74,7 +74,14 @@ Glycolysis converts one molecule of glucose (a six-carbon sugar) into two molecu
 
 **The Energy Investment Phase (steps 1 to 5)** consumes 2 ATP molecules to phosphorylate glucose and prepare it for cleavage. The committed step, and the primary regulatory point, is the phosphorylation of fructose-6-phosphate by phosphofructokinase-1 (PFK-1). This enzyme is allosterically inhibited by ATP and citrate (signals that the cell has sufficient energy) and activated by AMP and ADP (signals of energy deficit). This elegant feedback mechanism ensures glycolysis runs only when the cell genuinely needs fuel.
 
-The rising AMP-to-ATP ratio that activates PFK-1 also activates a separate but related master regulator: AMP-activated protein kinase, or AMPK. AMPK functions as the cell's overall energy sensor, and when activated it shifts cellular priorities broadly toward energy generation and away from energy-expensive processes like growth and protein synthesis. This is the same pathway targeted pharmacologically by metformin and, to a lesser extent, by compounds like berberine, and it is also activated naturally by the energy demand created during sustained aerobic exercise. Understanding AMPK helps explain why exercise and certain metabolic medications produce overlapping effects on blood glucose: both are activating the same underlying cellular sensor through different routes.
+The rising AMP-to-ATP ratio that activates PFK-1 also activates a separate but related master regulator: AMP-activated protein kinase, or AMPK. AMPK functions as the cell's overall energy sensor, and when activated it shifts cellular priorities broadly toward energy generation and away from energy-expensive processes like growth and protein synthesis.
+
+<figure class="post-figure">
+  <img src="/assets/img/posts/ampk-energy-sensing.svg" alt="Diagram comparing low energy and high energy cellular states and their opposite effects on PFK-1 activity and glycolysis" class="post-img">
+  <figcaption>The cell's energy-sensing logic: a low-energy state (high AMP and ADP) switches glycolysis on, while a high-energy state (high ATP and citrate) switches it back off.</figcaption>
+</figure>
+
+This is the same pathway targeted pharmacologically by metformin and, to a lesser extent, by compounds like berberine, and it is also activated naturally by the energy demand created during sustained aerobic exercise. Understanding AMPK helps explain why exercise and certain metabolic medications produce overlapping effects on blood glucose: both are activating the same underlying cellular sensor through different routes.
 
 **The Energy Payoff Phase (steps 6 to 10)** processes two molecules of glyceraldehyde-3-phosphate and generates 4 ATP and 2 NADH per glucose. The net yield after subtracting the investment phase is 2 ATP and 2 NADH per glucose molecule, a remarkably small fraction of the energy chemically available in glucose.
 
