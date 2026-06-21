@@ -64,7 +64,7 @@ The consequences of this sleep disruption are not trivial. Adolescents need 8 to
 
 <figure class="post-figure">
   <img src="/assets/img/posts/social-media-comparison.webp" alt="Teenage girl looking at social media on phone with visible distress, social comparison concept" class="post-img">
-  <figcaption>Social comparison is not new. But social media industrialises it — making it continuous, algorithmically amplified, and inescapable in a way that was not possible in previous generations.</figcaption>
+  <figcaption>Social comparison is not new, but social media industrialises it, making it continuous, algorithmically amplified, and inescapable in a way that was not possible in previous generations.</figcaption>
 </figure>
 
 One of the more consistent patterns in the social media and mental health literature is that effects are stronger for girls than for boys, and stronger for heavy or "problematic" users than for moderate users.
@@ -92,6 +92,19 @@ The most honest summary of the current evidence: the harms are real, they are cl
 **References:**
 - Plackett R, Sheringham J, Dykxhoorn J. (2023). The longitudinal impact of social media use on UK adolescents' mental health: longitudinal observational study. *Journal of Medical Internet Research*, 25, e43213. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36961482/){:target="_blank" rel="noopener"}
 - Twenge JM, Haidt J, Lozano J, Cummins KM. (2022). Specification curve analysis shows that social media use is linked to poor mental health, especially among girls. *Acta Psychologica*, 224, 103512. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35101738/){:target="_blank" rel="noopener"}
+
+---
+
+## What About Boys?
+
+The discussion so far has focused heavily on girls, and for good reason: the strongest, most consistent evidence for social media harm specifically concerns adolescent girls. But this creates an incomplete picture if it leaves the impression that boys are simply unaffected.
+
+The pattern for boys looks different rather than absent. Boys spend substantially more time gaming than on social networking platforms, and the harms research has identified for boys cluster around problematic gaming rather than appearance-based social comparison. A systematic review and meta-analysis found that gaming disorder rates run roughly two and a half times higher in males than in females, and the associated risks for boys skew toward externalizing problems, impulsivity, aggression, and academic decline, rather than the depression and anxiety more characteristic of girls' difficulties with social media specifically.
+
+This matters for how the UK ban is likely to play out in practice. The legislation targets social media platforms by name, the category where girls' risk concentrates, while gaming platforms and livestreaming services that capture much of boys' problematic engagement occupy a more ambiguous position, though the UK ban does include some livestreaming restrictions. A policy response calibrated primarily around the female adolescent risk profile may underaddress the specific pathway through which a meaningful proportion of boys develop problematic technology use. Effective intervention for boys likely requires attention to gaming time limits, in-game monetization design (loot boxes and similar mechanics function through the same variable reward principles discussed earlier), and the social isolation that sometimes accompanies heavy gaming, rather than a framework built primarily around image-based social comparison.
+
+**References:**
+- Stevens MWR, Dorstyn D, Delfabbro PH, King DL. (2021). Global prevalence of gaming disorder: a systematic review and meta-analysis. *Australian & New Zealand Journal of Psychiatry*, 55(6), 553-568. [PubMed](https://pubmed.ncbi.nlm.nih.gov/33028074/){:target="_blank" rel="noopener"}
 
 ---
 
@@ -124,13 +137,13 @@ This pathway alone provides a strong argument for protective measures targeted a
 
 An honest treatment requires acknowledging what the critics of the ban are raising.
 
-The first concern is enforcement. Australia's ban, the model the UK is following, has faced significant enforcement challenges. Age verification that is robust enough to exclude 15-year-olds while not imposing excessive privacy burdens on adults is technically and legally complex. There is real risk that the ban creates a parallel, less visible underground social media ecosystem without eliminating exposure.
+The first concern is enforcement. Australia's ban, the model the UK is following, has faced significant enforcement challenges. Age verification that is robust enough to exclude 15-year-olds while not imposing excessive privacy burdens on adults is technically and legally complex. There is real risk that the ban creates a parallel, less visible underground social media ecosystem without eliminating exposure. Determined teenagers have historically found workarounds to age restrictions on alcohol, tobacco, and other regulated products, and there is no strong reason to assume digital age verification will prove categorically more effective than those precedents suggest.
 
-The second concern is social media's positive functions. For isolated adolescents, including those in rural areas, LGBTQ+ youth without local community, and young people with chronic illness, social media provides genuine connection, identity affirmation, and access to support that would otherwise be inaccessible. A blanket ban removes these benefits alongside the harms.
+The second concern is social media's genuinely positive functions for certain vulnerable populations. For isolated adolescents, including those in rural areas, LGBTQ+ youth without local community, and young people with chronic illness, social media provides genuine connection, identity affirmation, and access to support that would otherwise be entirely inaccessible to them. A blanket ban removes these benefits alongside the harms.
 
-The third concern is displacement. Children who cannot use regulated social media platforms will likely shift to less moderated alternatives. Regulation that drives behaviour into darker corners of the internet may not represent net improvement.
+The third concern is displacement effects. Children who cannot use regulated, moderated social media platforms will likely shift toward less moderated alternatives instead. Regulation that drives behaviour into darker corners of the internet may not represent net improvement.
 
-These are real concerns, and they explain why some researchers who take the harms seriously nonetheless oppose a blunt age ban rather than targeted platform regulation focused on the most harmful design features: infinite scroll, algorithmic amplification of emotional content, and notification systems designed to interrupt sleep.
+These are real and legitimate concerns, and they explain why some researchers who take the documented harms seriously nonetheless oppose a blunt age ban rather than targeted platform regulation focused specifically on the most harmful design features: infinite scroll, algorithmic amplification of emotional content, and notification systems specifically designed to interrupt sleep.
 
 ---
 
