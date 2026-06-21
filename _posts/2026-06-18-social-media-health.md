@@ -97,6 +97,11 @@ The most honest summary of the current evidence: the harms are real, they are cl
 
 ## What About Boys?
 
+<figure class="post-figure">
+  <img src="/assets/img/posts/social-media-boys-gaming.webp" alt="Teenage boy sitting alone holding a game controller in a dimly lit room" class="post-img">
+  <figcaption>For boys, the technology-related risk pattern looks different from girls: it concentrates around gaming engagement rather than appearance-based social comparison on image platforms.</figcaption>
+</figure>
+
 The discussion so far has focused heavily on girls, and for good reason: the strongest, most consistent evidence for social media harm specifically concerns adolescent girls. But this creates an incomplete picture if it leaves the impression that boys are simply unaffected.
 
 The pattern for boys looks different rather than absent. Boys spend substantially more time gaming than on social networking platforms, and the harms research has identified for boys cluster around problematic gaming rather than appearance-based social comparison. A systematic review and meta-analysis found that gaming disorder rates run roughly two and a half times higher in males than in females, and the associated risks for boys skew toward externalizing problems, impulsivity, aggression, and academic decline, rather than the depression and anxiety more characteristic of girls' difficulties with social media specifically.
@@ -116,6 +121,11 @@ The prefrontal cortex, the brain region responsible for executive function, impu
 
 Dopaminergic reward circuits are more reactive during adolescence than at any other life stage. Likes, shares, and follower growth trigger dopamine release in the nucleus accumbens in ways that are amplified compared to adults. Platforms designed to maximise engagement exploit this neurological reality. The variable reward schedule, the uncertainty about whether the next scroll will bring a like, a notification, or an interesting video, is the same mechanism that makes slot machines addictive. The adolescent brain is not simply a smaller adult brain. It is a brain at a specific developmental stage where the reward system is highly active and the regulatory systems that normally moderate it are still forming.
 
+<figure class="post-figure">
+  <img src="/assets/img/posts/social-media-brain-development.svg" alt="Diagram showing the adolescent brain's reward system as fully reactive while the prefrontal cortex is only about 60 percent mature, completing development in the mid-20s" class="post-img">
+  <figcaption>The core mismatch driving adolescent vulnerability to engagement-optimised platforms: a reward system operating at full intensity, paired with the impulse-control system that is supposed to regulate it still under construction.</figcaption>
+</figure>
+
 Orben, Dienlin, and Przybylski published a 2022 analysis in *Nature Communications* identifying windows of developmental sensitivity to social media, finding that associations between social media use and life satisfaction were stronger and more consistent at specific ages during adolescence than at others. This suggests that the concern is not simply about total exposure but about exposure at developmentally sensitive periods.
 
 **References:**
@@ -124,6 +134,11 @@ Orben, Dienlin, and Przybylski published a 2022 analysis in *Nature Communicatio
 ---
 
 ## Cyberbullying: The Clearest Direct Harm
+
+<figure class="post-figure">
+  <img src="/assets/img/posts/social-media-cyberbullying.webp" alt="Teenager lying alone in a dim bedroom looking at a smartphone, looking troubled" class="post-img">
+  <figcaption>Unlike traditional bullying, which ends when the school day does, cyberbullying follows a young person into the one space that used to be reliably safe: their own bedroom.</figcaption>
+</figure>
 
 One area where the evidence is less contested is cyberbullying. The digitalisation of social life has not reduced bullying; it has extended it beyond school hours, beyond school grounds, and into the bedroom. Victims of cyberbullying cannot escape by going home.
 
