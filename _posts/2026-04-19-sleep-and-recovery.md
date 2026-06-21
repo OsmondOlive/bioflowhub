@@ -47,7 +47,7 @@ As a biomedical scientist passionate about the engineering of nature, I find thi
 
 <figure class="post-figure">
   <img src="/assets/img/posts/sleep-glymphatic.webp" alt="Diagram comparing brain waste accumulation while awake versus glymphatic system flushing amyloid-beta and tau during sleep" class="post-img">
-  <figcaption>While awake, amyloid-beta and tau proteins accumulate in brain tissue. During sleep, the glymphatic system activates perivascular channels and CSF flow to flush these toxic proteins out — a process nearly inactive during wakefulness.</figcaption>
+  <figcaption>While awake, amyloid-beta and tau proteins accumulate in brain tissue. During sleep, the glymphatic system activates perivascular channels and CSF flow to flush these toxic proteins out, a process nearly inactive during wakefulness.</figcaption>
 </figure>
 
 If you are having trouble falling asleep, consider calming practices before bed. Scientific evidence consistently shows that mindfulness meditation reduces cortisol levels and anxiety, two of the most common drivers of insomnia. For those with a spiritual practice, prayer can serve a similar purpose.
@@ -105,7 +105,7 @@ Understanding this architecture explains why sleep timing matters, not just tota
 
 <figure class="post-figure">
   <img src="/assets/img/posts/sleep-architecture.webp" alt="Hypnogram showing sleep cycles across a full night with NREM stages 1, 2, 3 and REM, illustrating how deep sleep concentrates in the first half and REM grows longer toward morning" class="post-img">
-  <figcaption>A typical sleep hypnogram across 8 hours. Deep sleep (N3, dark blue) dominates early cycles and shortens progressively. REM sleep (teal) occupies an increasingly large proportion of later cycles — which is why cutting the last two hours of sleep disproportionately eliminates the most emotionally and cognitively restorative stage.</figcaption>
+  <figcaption>A typical sleep hypnogram across 8 hours. Deep sleep (N3, dark blue) dominates early cycles and shortens progressively. REM sleep (teal) occupies an increasingly large proportion of later cycles, which is why cutting the last two hours of sleep disproportionately eliminates the most emotionally and cognitively restorative stage.</figcaption>
 </figure>
 
 **References:**
@@ -118,6 +118,8 @@ Understanding this architecture explains why sleep timing matters, not just tota
 Understanding the circadian rhythm is, in my view, one of the most practically useful things you can learn about your own biology. It is not just about sleep. It is about how virtually every system in your body is timed.
 
 The circadian rhythm is an approximately 24-hour internal clock driven by a small region of the brain called the suprachiasmatic nucleus. It responds primarily to light signals from the environment and regulates not just sleep and wakefulness but also body temperature, cortisol release, insulin sensitivity, immune activity, digestion, and dozens of other physiological processes, all of which follow a predictable daily pattern.
+
+This master clock is not metaphorical. At the molecular level, it is built from a feedback loop of clock genes, most notably CLOCK and BMAL1, which activate the transcription of two other genes, PER and CRY. As PER and CRY proteins accumulate, they loop back and suppress the activity of CLOCK and BMAL1, and the cycle resets roughly every 24 hours. This same molecular clockwork exists not just in the suprachiasmatic nucleus but in nearly every cell of the body, meaning your liver, your muscles, and your skin each carry their own semi-independent timing mechanism, all of which the central brain clock keeps synchronized through light exposure. This is part of why disrupted sleep affects so much more than alertness: when the central clock and the peripheral cellular clocks fall out of sync, as happens with jet lag or shift work, organs are quite literally working on different schedules from one another.
 
 When the circadian rhythm is aligned with the external environment, these systems work in coordination. Cortisol peaks in the morning to mobilize energy and alertness. Body temperature rises through the day and drops at night to facilitate sleep. Digestive enzymes and insulin sensitivity are highest during daylight hours.
 
@@ -189,6 +191,19 @@ Even without formal fasting, finishing your last meal two to three hours before 
 The most common recommendation is 7 to 9 hours for adults, and this range is well-supported by the epidemiological literature. There is genuine individual variation, but the percentage of people who truly function well on 6 hours is far smaller than the percentage who believe they do.
 
 A useful self-assessment: if you feel alert and mentally sharp without caffeine by mid-morning and do not feel the urge to sleep during the day, you are likely getting adequate sleep. If you rely on an alarm clock to wake up, you are probably not.
+
+---
+
+## Sleep and Immune Function: A Connection I Take Personally
+
+As someone whose published research examined neutrophils, the immune system's first responders, the relationship between sleep and immune function is the part of this topic I find most professionally compelling, and the evidence here is unusually direct rather than merely correlational.
+
+A landmark study exposed 164 healthy adults to the rhinovirus, the virus responsible for most common colds, under quarantine conditions, after measuring their sleep objectively with wrist actigraphy for the preceding week. People who slept fewer than 6 hours per night were over four times more likely to develop a clinical cold after viral exposure compared to those sleeping more than 7 hours, an effect that held regardless of age, stress levels, smoking status, or any other measured variable. This was not a study asking people to recall how they felt. It was a controlled experiment with a real virus, and short sleep alone predicted who got sick.
+
+The mechanism runs through several immune pathways simultaneously. Sleep deprivation reduces the activity of natural killer cells, impairs T-cell function, and disrupts the normal circadian pattern of cytokine release that coordinates immune responses. Even the antibody response to vaccination is measurably weaker in people who are sleep-deprived around the time of vaccination, a finding with direct practical relevance: timing adequate sleep around a vaccination appointment is not a minor detail. The immune system, like every other system covered in this article, runs on a schedule, and sleep is when much of its most important maintenance work gets done.
+
+**References:**
+- Prather AA, Janicki-Deverts D, Hall MH, Cohen S. (2015). Behaviorally assessed sleep and susceptibility to the common cold. *Sleep*, 38(9), 1353-1359. [PubMed](https://pubmed.ncbi.nlm.nih.gov/26118561/){:target="_blank" rel="noopener"}
 
 ---
 

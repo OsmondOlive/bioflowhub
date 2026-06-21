@@ -164,11 +164,23 @@ A workout you actually do is worth infinitely more than a perfect workout you sk
 
 ---
 
+## The Warm-Up Is Not Optional
+
+A few minutes spent properly preparing the body before a session is one of the most consistently skipped steps, and also one of the most evidence-supported.
+
+A proper warm-up raises muscle temperature, which increases the elasticity of muscle and tendon tissue and improves the efficiency of the neuromuscular signaling that controls movement. It also gradually increases heart rate and blood flow to working muscles rather than demanding an abrupt transition from rest to high output, which is where a meaningful share of acute strains and minor injuries occur, particularly in people returning to exercise after time off. Five to ten minutes of dynamic movement, light cardio followed by movement patterns that mimic what the session ahead will require, prepares the body far more effectively than static stretching held in place, which can temporarily reduce force output if performed immediately before strength or speed work.
+
+This matters more, not less, as people age. Tissue elasticity and recovery capacity both decline gradually over the decades, which means the warm-up that felt optional at 25 becomes a more meaningful injury-prevention tool at 45 and beyond.
+
+---
+
 ## Managing Soreness and Avoiding Injury
 
 Delayed onset muscle soreness, the stiffness and tenderness appearing 24 to 48 hours after unfamiliar exercise, is normal and not a sign of damage. It reflects the microscopic disruption and subsequent repair through which muscles adapt and grow stronger. Some soreness in the early weeks of a new program is expected and not a reason to stop.
 
 The most common cause of exercise-related injury is a simple one: doing too much too soon. The connective tissues (tendons and ligaments) adapt more slowly than muscles, and progressive overload that outpaces their recovery capacity is where most injuries originate. Allow adequate recovery between sessions targeting the same muscle groups, because adaptation happens during rest, not during the workout itself. Delayed onset muscle soreness (DOMS), the stiffness that peaks 24 to 48 hours after unfamiliar or intense exercise, is a normal part of the adaptation process and not a sign of injury. It tends to diminish significantly after the first two to three weeks of consistent training as the neuromuscular system adapts, and should not be used as a measure of workout quality.
+
+It is worth distinguishing normal soreness from the warning signs of overtraining, since the two get conflated and lead to opposite mistakes. Normal DOMS is symmetrical, affects the muscles actually worked, peaks within 48 hours, and resolves within a week even without intervention. Warning signs that indicate something different is happening include sharp or localized pain rather than generalized muscle ache, pain that worsens rather than improves over days, persistent fatigue that does not lift with adequate sleep, declining performance across multiple consecutive sessions, and resting heart rate that stays elevated above its normal baseline. The first pattern calls for patience. The second calls for a few days of genuine rest and, if it persists, a conversation with a healthcare professional rather than pushing through.
 
 **References:**
 - Cheung K, Hume P, Maxwell L. (2003). Delayed onset muscle soreness: treatment strategies and performance factors. *Sports Medicine*, 33(2), 145-164. [PubMed](https://pubmed.ncbi.nlm.nih.gov/12617692/){:target="_blank" rel="noopener"}

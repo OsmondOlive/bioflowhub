@@ -27,7 +27,7 @@ thumbnail-img: /assets/img/posts/derila-pillow-hero.webp
   <figcaption>Proper cervical alignment during sleep is the central claim of contoured ergonomic pillows. This is not marketing: it is well-supported biomechanics. The question is whether the Derila Ergo delivers on it.</figcaption>
 </figure>
 
-The Derila Ergo has been appearing consistently across sleep health discussions and ergonomic pillow reviews, so I decided it was worth a proper look from a biomechanical and sleep science perspective. Pillow design actually has meaningful research behind it, which makes this a more substantive topic than most people expect.
+The Derila Ergo has been appearing consistently and repeatedly across sleep health discussions and ergonomic pillow reviews, so I decided it was worth a proper look from a biomechanical and sleep science perspective. Pillow design genuinely has meaningful research behind it, which makes this a more substantive topic than most people initially expect.
 
 ---
 
@@ -74,6 +74,8 @@ The viscoelastic property also means that the foam returns to its original shape
 
 High-density memory foam, as used in the Derila Ergo, maintains its structural integrity over a longer period than low-density alternatives. Lower-density foams compress and lose their contour support over months of use, which is why many ergonomic pillows that start well become ineffective within a year. The density specification is worth checking when comparing products in this category.
 
+In practical terms, foam density is typically measured in kilograms per cubic meter, and the difference matters more than most buyers realize. Foams below roughly 50 kg/m³ are considered low-density and tend to flatten noticeably within 6 to 12 months of nightly use, losing the contour height that makes the design effective in the first place. Mid- to high-density foams in the 60 to 90 kg/m³ range maintain their shape considerably longer, often two to three years or more of nightly use before meaningful degradation. This is also why an ergonomic pillow that performs identically to a cheaper alternative when both are new can diverge significantly in effectiveness after a year, a difference that is invisible at the point of purchase but becomes very apparent in long-term comfort and alignment support.
+
 The breathability design in the Derila Ergo addresses one of the historical criticisms of memory foam: heat retention. Dense foam with poor airflow can raise local scalp and neck temperature over the course of a night, which works against the natural thermoregulatory drop in core body temperature that facilitates deep sleep stages. Open-cell or perforated foam structures allow heat to dissipate more effectively.
 
 ---
@@ -116,6 +118,8 @@ A point that deserves more attention in ergonomic pillow reviews is the adaptati
 Muscles that have been habitually holding the cervical spine in a slightly off-neutral position will have adapted to that position over months or years. Correcting that alignment puts different demands on those muscles, which can produce temporary stiffness or mild discomfort, particularly in the upper trapezius and suboccipital muscles, in the first few days.
 
 The clinical guidance from physiotherapy research on cervical pillow adaptation recommends giving a new ergonomic pillow at least two weeks before drawing conclusions. Most people who persist through the initial adjustment period report significant improvement by the end of the second week. Those who switch back after two or three nights are abandoning the product before the body has had time to adapt, which is one of the main reasons people report inconsistent outcomes with ergonomic pillows as a category.
+
+A useful way to think about this transition: the same logic applies to orthotic shoe inserts or a new ergonomic office chair, both of which also tend to feel slightly unfamiliar in the first days before the body recalibrates to better alignment. The discomfort during adaptation is rarely a sign that the new support is wrong; more often, it is a sign that the previous, unsupported position had become the body's default, and correcting it requires a short adjustment period.
 
 ---
 
@@ -178,6 +182,8 @@ A pillow addresses one dimension of the sleep environment, but its effectiveness
 **Light exposure** before bed delays melatonin onset by up to 90 minutes when screens are used in the hour before sleep. The quality of sleep you experience on any pillow depends substantially on having enough melatonin to reach and sustain the deeper stages of sleep architecture. A sleep mask that fully blocks ambient light, particularly for people sleeping near streetlights or with variable morning schedules, can meaningfully extend REM sleep duration.
 
 **Sleep position consistency** affects how well any contoured pillow performs. The Derila's ergonomic profile is calibrated for side and back positions. Shifting between positions during the night, or starting in one and migrating to another, reduces the alignment benefits. Most people find that positioning cues, such as a body pillow alongside or a specific side they consistently start on, help maintain the intended position through the night.
+
+**Pillow hygiene and cover maintenance** is a practical variable that gets overlooked. Memory foam itself generally cannot be machine washed without damaging its cell structure, so a removable, washable outer cover is what actually determines how manageable long-term hygiene will be. Dust mites, accumulated skin oils, and moisture from perspiration build up in any pillow over time regardless of material, and a washable cover that can be cleaned every one to two weeks addresses this directly without compromising the foam core's structural properties. This is a minor-seeming detail that meaningfully affects both product longevity and, for people with allergies, daytime nasal congestion that can otherwise be mistakenly attributed to unrelated causes.
 
 ---
 
