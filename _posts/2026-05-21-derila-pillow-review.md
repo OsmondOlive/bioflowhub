@@ -187,6 +187,20 @@ A pillow addresses one dimension of the sleep environment, but its effectiveness
 
 ---
 
+## Frequently Asked Questions
+
+**How do I clean the Derila Ergo?** The memory foam core itself should never be machine washed or fully submerged, since this damages the cell structure permanently. Remove and wash the outer cover according to its care label, and spot-clean the foam itself with a damp cloth and mild soap if needed, allowing it to air dry fully before use.
+
+**Will it smell when I first open it?** A mild off-gassing odor from new memory foam is common and typically dissipates within 24 to 48 hours of unboxing and airing out in a ventilated room. This is a normal characteristic of memory foam products generally, not specific to this pillow.
+
+**Can stomach sleepers use this pillow?** The contour is specifically designed for side and back sleeping positions. Stomach sleeping with a contoured pillow of this height can create neck strain, so this product is not recommended for primarily stomach sleepers.
+
+**How firm is the memory foam compared to a standard pillow?** It is noticeably firmer initially than a standard polyester or down pillow, which is intentional, since the firmness is what maintains the contour shape supporting cervical alignment. This is also why the two-week adaptation period matters.
+
+**When should I replace it?** High-density memory foam of this type typically maintains effective support for two to three years of nightly use. A loss of the contour height or visible permanent compression are signs it is time to replace it.
+
+---
+
 ## Honest Assessment
 
 <div class="verdict-box">
