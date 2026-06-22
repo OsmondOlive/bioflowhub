@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How the Human Body Works: A Biomedical Overview of Your Most Important System"
+title: "How the Human Body Works: An Overview of Your Body Systems"
 subtitle: "Understanding your own biology is one of the most empowering things you can do for your health"
 tags: [biomedical, how-body-works, biology, health, evidence-based]
 comments: true
