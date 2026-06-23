@@ -6,6 +6,7 @@ tags: [sleep, recovery, health, circadian-rhythm, sleep-deprivation, habits]
 comments: true
 description: "Why sleep is the most impactful health intervention available, the biology of sleep architecture, the glymphatic system, circadian rhythms, and evidence-based habits for better sleep quality."
 thumbnail-img: /assets/img/posts/sleep-recovery-hero.webp
+redirect_from: /2026-05-12-sleep-and-recovery/
 ---
 
 <style>

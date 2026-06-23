@@ -6,6 +6,7 @@ tags: [stress, cortisol, mental-health, nervous-system, habits, evidence-based]
 comments: true
 description: "What chronic stress does to your cardiovascular system, brain, immune function, and metabolism, and which stress management interventions have the strongest scientific evidence."
 thumbnail-img: /assets/img/posts/stress-management-hero.webp
+redirect_from: /2026-05-12-stress-management/
 ---
 
 <style>

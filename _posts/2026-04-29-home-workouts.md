@@ -6,6 +6,9 @@ tags: [home-workouts, fitness, exercise, bodyweight, habits, evidence-based]
 comments: true
 description: "How to build real fitness without a gym, evidence-based bodyweight training, progressive overload at home, and the minimal equipment worth owning."
 thumbnail-img: /assets/img/posts/home-workouts-hero.webp
+redirect_from:
+  - /2026-05-14-home-workouts/
+  - /2026-05-24-home-workouts/
 ---
 
 <style>

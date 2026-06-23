@@ -6,6 +6,7 @@ tags: [sleep, neck-pain, pillow, review, spinal-alignment, affiliate]
 comments: true
 description: "A science-based review of the Derila Ergo memory foam pillow, covering cervical alignment research, sleep quality evidence, who benefits most, and an honest assessment of the design."
 thumbnail-img: /assets/img/posts/derila-pillow-hero.webp
+redirect_from: /2026-05-17-derila-pillow-review/
 ---
 
 <style>

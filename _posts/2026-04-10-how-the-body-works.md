@@ -6,6 +6,7 @@ tags: [biomedical, how-body-works, biology, health, evidence-based]
 comments: true
 description: "A biomedical overview of the major body systems, cells, cardiovascular, immune, endocrine, and nervous system, and why understanding your biology changes how you make health decisions."
 thumbnail-img: /assets/img/posts/how-body-hero.webp
+redirect_from: /2026-05-14-how-the-body-works/
 ---
 
 <style>
